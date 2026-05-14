@@ -12,7 +12,21 @@
       "Bash(git rebase *)",
       "WebFetch(domain:advh.no)",
       "Bash(Get-ChildItem \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\\" -Force | Select-Object Name, Mode)",
-      "PowerShell(gh --version)"
+      "PowerShell(gh --version)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" status)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" add app/kontakt/page.tsx app/personvern/page.tsx content/home.json content/site.json)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" remote -v)",
+      "Bash(git config *)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" config user.name \"Terje Fevaag\")",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" config user.email \"terje@advh.no\")",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" remote add origin https://github.com/TerjeFevaag/advokat-hamar.git)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" push -u origin master)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" add .env.example)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" commit --amend --no-edit)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" diff)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" add .claude/settings.local.json)",
+      "Bash(git -C 'C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website' commit -m ' *)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" push)"
     ]
   }
 }
