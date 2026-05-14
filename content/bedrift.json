@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Advokat Bedrift | Advokatfirma Holthe & Co AS",
+    "description": "Advokatfirma Holthe & Co har kontor i Hamar og utfører advokattjenester og juridiske tjenester for bedrifter og næringsliv i inn- og utland."
+  },
+  "hero": {
+    "tag": "Advokat Bedrift",
+    "title": "Juridiske tjenester for",
+    "titleEmphasis": "næringsliv",
+    "body": "Advokatfirma Holthe & Co har kontor i Hamar og utfører advokattjenester og juridiske tjenester for bedrifter og næringsliv i inn- og utland."
+  },
+  "selskapsrettIntro": {
+    "tag": "Selskapsrett",
+    "title": "Hva er selskapsrett?",
+    "paragraphs": [
+      "Selskapsrett er det juridiske regelverket som regulerer stiftelse, organisering, drift og avvikling av selskaper og andre næringsrettslige sammenslutninger. Dette omfatter aksjeselskaper (AS), allmennaksjeselskaper (ASA), ansvarlige selskaper (ANS/DA), samvirkeforetak og øvrige selskapsformer.",
+      "Rettområdet dekker et bredt spekter av problemstillinger – fra utarbeidelse av vedtekter og aksjonæravtaler, til håndtering av generalforsamlinger, styreansvar, fusjoner, fisjoner og generasjonsskifter. Selskapsretten henger tett sammen med skatterett, kontraktsrett og arbeidsrett, og krever derfor en helhetlig juridisk tilnærming.",
+      "Advokatfirma Holthe & Co AS har gjennom over 25 års virke opparbeidet solid kompetanse innen selskapsrett. Vi bistår norske og utenlandske foretak i alle selskapsrettslige faser – fra stiftelse og kapitaltransaksjoner til omstrukturering og avvikling – og sørger for at dine interesser ivaretas på en effektiv og profesjonell måte."
+    ]
+  },
+  "categories": [
+    {
+      "title": "Næringsliv",
+      "services": [
+        {
+          "name": "Selskapsrett",
+          "body": "Bistand til norske og utenlandske foretak i alle selskapsrettslige faser – fra stiftelse til avvikling."
+        },
+        {
+          "name": "Opphavsrett",
+          "body": "Rådgivning om immaterielle rettigheter, lisenser og beskyttelse av selskapets verdier."
+        },
+        {
+          "name": "Kjøpsrett",
+          "body": "Bistand ved kjøp og salg av varer og tjenester, reklamasjoner og kontraktsbrudd."
+        },
+        {
+          "name": "Varemerker",
+          "body": "Registrering, håndhevelse og forsvar av varemerkerettigheter."
+        },
+        {
+          "name": "Arbeidsrett",
+          "body": "Arbeidsrettslige spørsmål for arbeidsgivere – oppsigelse, avskjed, permisjoner og arbeidsavtaler."
+        },
+        {
+          "name": "Erstatningsrett",
+          "body": "Rådgivning og prosedyre i erstatningssaker for næringslivet."
+        },
+        {
+          "name": "Skatt for næringsdrivende",
+          "body": "Skatteplanlegging, bokettersyn, klagebehandling og prosedyre for næringsdrivende."
+        },
+        {
+          "name": "Kontrakt og entreprise",
+          "body": "Utforming og gjennomgang av kontrakter, entrepriserett og byggerelaterte tvister."
+        },
+        {
+          "name": "Bank, finansiering og forsikring",
+          "body": "Rådgivning innen bank, kreditt, finansiering og forsikringsrettslige spørsmål."
+        }
+      ]
+    },
+    {
+      "title": "Eiendom",
+      "services": [
+        {
+          "name": "Mangler ved fast eiendom",
+          "body": "Bistand ved mangler og tvister knyttet til kjøp og salg av fast eiendom."
+        },
+        {
+          "name": "Husleierett",
+          "body": "Rådgivning for utleiere og leietakere – kontrakter, tvister og oppsigelse."
+        },
+        {
+          "name": "Plan- og bygningsrett",
+          "body": "Bistand i plan- og byggesaker, klager og dispensasjonssøknader."
+        }
+      ]
+    }
+  ]
+}

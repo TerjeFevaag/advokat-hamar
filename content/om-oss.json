@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "title": "Om Advokatfirmaet Holthe | Advokatfirma Holthe & Co AS",
+    "description": "Advokatfirma Holthe & Co har som mål å ivareta kundens interesser på best mulig måte."
+  },
+  "hero": {
+    "tag": "Om Advokatfirmaet",
+    "title": "Knut Arne",
+    "titleEmphasis": "Holthe",
+    "body": "Advokatfirma Holthe & Co har som mål å ivareta kundens interesser på best mulig måte. For å sikre dette utføres alle oppdrag i samsvar med regler for god advokatskikk og Den Norske Advokatforenings veiledninger."
+  },
+  "about": {
+    "paragraphs": [
+      "Advokatfirma Holthe & Co har som mål å ivareta kundens interesser på best mulig måte.",
+      "For å sikre dette utføres alle oppdrag i samsvar med regler for god advokatskikk og Den Norske Advokatforenings veiledninger.",
+      "Advokat Holthe har kontorfellesskap i samarbeid med Advokatfirmaet Johnsrud & Co AS sentralt i Hamar og er medlem i Advokatforeningen."
+    ]
+  },
+  "experience": {
+    "title": "Erfaring og utdanning",
+    "items": [
+      { "year": "1992", "text": "Egen advokatvirksomhet" },
+      { "year": "1991–1992", "text": "Advokatfullmektig" },
+      { "year": "1988–1991", "text": "Bærum likningskontor" },
+      { "year": "1988", "text": "Juridisk embedseksamen, Oslo" },
+      { "year": "1984–1987", "text": "Den norske delegasjonen til KSSE, Stockholm – FO" },
+      { "year": "1979–1984", "text": "Forsvarets Overkommando" }
+    ]
+  },
+  "memberships": [
+    "Medlem av Norsk Forsikringsjuridisk Forening",
+    "Medlem av International Fiscal Association",
+    "Medlem av Den Norske Advokatforening",
+    "Diverse styreverv"
+  ],
+  "terms": {
+    "title": "Oppdragsvilkår",
+    "body": "Her finner du alminnelige oppdragsvilkår som til enhver tid gjelder ved alle oppdrag.",
+    "linkLabel": "Generelle oppdragsvilkår"
+  },
+  "rating": {
+    "title": "Soliditet",
+    "badge": "AAA-Rating"
+  }
+}

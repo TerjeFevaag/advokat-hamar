@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "title": "Rettsavgjørelser | Advokatfirma Holthe & Co AS",
+    "description": "Les om ulike rettsaker vi har ført. Last ned rettsavgjørelser med mer."
+  },
+  "hero": {
+    "tag": "Rettsavgjørelser",
+    "title": "Saker vi har",
+    "titleEmphasis": "ført",
+    "body": "Les om ulike rettsaker vi har ført. Last ned rettsavgjørelser med mer."
+  },
+  "cases": [
+    {
+      "id": "ugyldig-testamente-byfogd",
+      "date": "24. Mars 2020",
+      "category": "Privat, Skiftetvist",
+      "court": "Oslo Byfogdembede",
+      "title": "Ugyldig testamente",
+      "body": "Flere testamenter ble kjent ugyldige av Oslo Byfogdembede. Dommen viser at rettsordenen setter klare grenser for hva som kan aksepteres av påvirkning av testator.",
+      "href": "#"
+    },
+    {
+      "id": "ugyldig-testamente-lagmannsretten",
+      "date": "11. Mars 2020",
+      "category": "Lagmannsretten, Privat",
+      "court": "Lagmannsretten",
+      "title": "Ugyldig testamente – Lagmannsretten",
+      "body": "Testament ble kjent ugyldig etter arveloven paragraf 62 fordi testator ikke var testasjonsfør.",
+      "href": "#"
+    }
+  ]
+}

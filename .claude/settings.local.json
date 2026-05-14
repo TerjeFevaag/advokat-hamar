@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git pull *)",
+      "Bash(Remove-Item \"C:\\\\Users\\\\OK COMPUTER\\\\Desktop\\\\Advokat\\\\advh-website\\\\.git\\\\index.lock\" -Force)",
+      "PowerShell(git *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(git stash *)",
+      "Bash(node *)",
+      "Bash(git rebase *)",
+      "WebFetch(domain:advh.no)",
+      "Bash(Get-ChildItem \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\\" -Force | Select-Object Name, Mode)",
+      "PowerShell(gh --version)"
+    ]
+  }
+}

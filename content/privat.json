@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "title": "Advokat Privat | Advokatfirma Holthe & Co AS",
+    "description": "Advokatfirma Holthe & Co har kontor i Hamar og utfører advokattjenester og juridiske tjenester for privatpersoner over hele Norge."
+  },
+  "hero": {
+    "tag": "Advokat Privat",
+    "title": "Juridisk hjelp for",
+    "titleEmphasis": "privatpersoner",
+    "body": "Advokatfirma Holthe & Co har kontor i Hamar og utfører advokattjenester og juridiske tjenester for privatpersoner over hele Norge."
+  },
+  "intro": {
+    "tag": "Advokat Privat",
+    "title": "Juridisk bistand gjennom livets viktigste hendelser",
+    "paragraphs": [
+      "Juridiske problemer kan ramme hvem som helst – enten det handler om en arbeidskonflikt, en arvestrid, samlivsbrudd eller en tvist med naboer. For de fleste er det sjeldent man trenger advokat, og nettopp derfor kan det være vanskelig å vite hvor man skal begynne.",
+      "Vi bistår privatpersoner med et bredt spekter av rettslige spørsmål. Vår erfaring spenner fra familierett og arv til eiendomssaker, trygderett og erstatning. Uansett hva saken gjelder, er målet å gi deg klar og ærlig rådgivning slik at du kan ta informerte beslutninger.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og hjelper privatpersoner over hele Norge. Første samtale er gratis og uforpliktende – ta kontakt for å finne ut om vi kan hjelpe deg."
+    ]
+  },
+  "categories": [
+    {
+      "title": "Arbeid, skatt og erstatning",
+      "services": [
+        { "name": "Skatterett", "body": "Skatteplanlegging, klage på skattevedtak og bistand ved bokettersyn for privatpersoner." },
+        { "name": "Trygderett", "body": "Rådgivning og prosedyre i saker mot NAV og andre trygdeinstanser." },
+        { "name": "Arbeidsrett", "body": "Bistand til arbeidstakere ved oppsigelse, avskjed, mobbing og diskriminering." },
+        { "name": "Erstatningsrett", "body": "Rådgivning og prosedyre i erstatningssaker – personskade, tingskade og ansvarssaker." }
+      ]
+    },
+    {
+      "title": "Familie og arv",
+      "services": [
+        { "name": "Arv og skifte", "body": "Testamentariske disposisjoner, generasjonsskifter, arveavgift og oppfølging av bo." },
+        { "name": "Samlivsbrudd", "body": "Bistand ved separasjon, skilsmisse, fordeling av felleseie og samboeroppgjør." }
+      ]
+    },
+    {
+      "title": "Eiendom",
+      "services": [
+        { "name": "Husleierett", "body": "Rådgivning for leietakere ved tvister, oppsigelse og leieforhold." },
+        { "name": "Naborett", "body": "Bistand i nabokonflikter, grensestridigheter og hevdssaker." },
+        { "name": "Plan- og bygningsrett", "body": "Bistand i plan- og byggesaker, klager og dispensasjonssøknader." }
+      ]
+    }
+  ]
+}

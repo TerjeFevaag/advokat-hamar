@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "navy": "#1F3451",
+    "navyDark": "#152540",
+    "navyLight": "#334860",
+    "gold": "#D99726",
+    "goldLight": "#E8B04A",
+    "goldDark": "#B87E1E",
+    "cream": "#FAF9F5",
+    "lightBg": "#ECF0F4"
+  },
+  "shadows": {
+    "gold": "0 8px 30px rgba(217,151,38,0.3)",
+    "card": "0 20px 50px rgba(0,0,0,0.08)",
+    "soft": "0 10px 40px rgba(0,0,0,0.06)"
+  },
+  "fonts": {
+    "serif": "Libre Baskerville",
+    "sans": "Sora"
+  }
+}

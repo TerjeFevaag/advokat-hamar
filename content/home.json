@@ -1,0 +1,120 @@
+{
+  "hero": {
+    "tag": "Advokatfirmaet Holthe & Co AS",
+    "title": "Din pålitelige juridiske",
+    "titleEmphasis": "partner",
+    "titleSuffix": "i Hamar",
+    "body": "Vi bistår privatpersoner og bedrifter med erfaren juridisk rådgivning innen et bredt spekter av rettsområder. Kvalitet, engasjement og personlig oppfølging.",
+    "ctaPrimary": { "label": "Kontakt oss", "href": "/kontakt" },
+    "ctaSecondary": { "label": "Våre tjenester", "href": "#tjenester" },
+    "quote": "\"Dit ein ser, dit kjem ein\""
+  },
+  "services": {
+    "tag": "Våre tjenester",
+    "title": "Bred juridisk kompetanse for bedrift og privat",
+    "items": [
+      {
+        "num": "01",
+        "title": "Selskapsrett",
+        "body": "Bistand til norske og utenlandske foretak i alle selskapsrettslige faser.",
+        "href": "/advokat-bedrift"
+      },
+      {
+        "num": "02",
+        "title": "Skatterett",
+        "body": "Skatteplanlegging, bokettersyn, klagebehandling og prosedyre.",
+        "href": "/advokat-privat/skatterett"
+      },
+      {
+        "num": "03",
+        "title": "Arv og Skifte",
+        "body": "Testamentariske disposisjoner, generasjonsskifter og oppfølging av bo.",
+        "href": "/advokat-privat"
+      },
+      {
+        "num": "04",
+        "title": "Eiendomsrett",
+        "body": "Mangler ved fast eiendom, husleierett, plan- og bygningsrett.",
+        "href": "/advokat-bedrift"
+      },
+      {
+        "num": "05",
+        "title": "Arbeidsrett",
+        "body": "Arbeidsrettslige spørsmål, oppsigelse, avskjed og permisjoner.",
+        "href": "/advokat-privat"
+      },
+      {
+        "num": "06",
+        "title": "Kontrakt & Entreprise",
+        "body": "Utforming og gjennomgang av kontrakter, entrepriserett.",
+        "href": "/advokat-bedrift"
+      }
+    ]
+  },
+  "about": {
+    "tag": "Om oss",
+    "title": "Advokat Knut Arne Holthe",
+    "paragraphs": [
+      "Advokatfirmaet Holthe & Co AS arbeider primært med forretningsjuridiske problemstillinger med særlig vekt på skatterett og selskapsrett. Med kontor sentralt i Hamar bistår vi klienter i hele regionen.",
+      "Knut Arne Holthe har arbeidet mye med arv- og generasjonsskifter, vurdering av arveavgift og testamentariske disposisjoner og tilretteleggelse av verdikonserverende generasjonsskifter."
+    ],
+    "badge": { "number": "25+", "label": "Års erfaring" },
+    "location": {
+      "title": "Kontor i Hamar",
+      "address": "Veståsvegen 311, 2323 Ingeberg"
+    },
+    "cta": { "label": "Les mer om oss", "href": "/om-oss" }
+  },
+  "trust": {
+    "tag": "Hvorfor velge oss",
+    "title": "Våre kjerneverdier",
+    "items": [
+      {
+        "title": "Lang erfaring",
+        "body": "Over 25 års prosedyreerfaring innen et bredt spekter av rettsområder."
+      },
+      {
+        "title": "Personlig oppfølging",
+        "body": "Alle oppdrag utføres raskt og effektivt med fokus på klientens behov."
+      },
+      {
+        "title": "Advokatforeningen",
+        "body": "Vi følger strenge yrkesetiske retningslinjer for god advokatskikk."
+      }
+    ]
+  },
+  "cityBanner": {
+    "title": "Lokaler sentralt i Hamar",
+    "body": "Advokat Holthe har kontorfellesskap i samarbeid med Advokatfirmaet Johnsrud & Co AS sentralt i Hamar sentrum."
+  },
+  "articles": {
+    "tag": "Artikler",
+    "title": "Juridiske nyheter & innsikt",
+    "items": [
+      {
+        "date": "Mars 2026",
+        "title": "Nye skatteregler for aksjeselskaper i 2026",
+        "body": "En oversikt over de viktigste endringene i skattereglene som påvirker norske aksjeselskaper.",
+        "href": "/rettsavgjorelser"
+      },
+      {
+        "date": "Mars 2026",
+        "title": "Slik planlegger du et vellykket generasjonsskifte",
+        "body": "Tidlig planlegging er nøkkelen til et smidig generasjonsskifte i familiebedrifter.",
+        "href": "/rettsavgjorelser"
+      },
+      {
+        "date": "Mars 2026",
+        "title": "Dine rettigheter ved mangler i boligkjøp",
+        "body": "Hva du kan kreve og hvilke frister som gjelder ved mangler i fast eiendom.",
+        "href": "/rettsavgjorelser"
+      }
+    ]
+  },
+  "contact": {
+    "tag": "Kontakt",
+    "title": "Ta kontakt for en uforpliktende samtale",
+    "body": "Vi hjelper deg med å løse dine juridiske utfordringer på en effektiv og profesjonell måte.",
+    "formTitle": "Send oss en melding"
+  }
+}

@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700;800&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+  }
+
+  body {
+    font-family: 'Sora', sans-serif;
+    color: #2D2D2D;
+    overflow-x: hidden;
+  }
+
+  h1, h2 {
+    font-weight: 600;
+  }
+}
+
+@layer utilities {
+  .font-serif {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+  }
+
+  /* Reveal animation */
+  .reveal {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+  }
+
+  .reveal.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* Gold scrollbar */
+  .scroll-gold::-webkit-scrollbar {
+    height: 4px;
+  }
+  .scroll-gold::-webkit-scrollbar-track {
+    background: #eee;
+    border-radius: 10px;
+  }
+  .scroll-gold::-webkit-scrollbar-thumb {
+    background: #D99726;
+    border-radius: 10px;
+  }
+}

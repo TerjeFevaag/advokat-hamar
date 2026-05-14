@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "title": "Skatterett | Advokatfirma Holthe & Co AS",
+    "description": "Advokatfirma Holthe & Co bistår privatpersoner og næringsdrivende med skatterettslige spørsmål, klager til Skatteetaten og skatteplanlegging."
+  },
+  "hero": {
+    "tag": "Skatterett",
+    "title": "Juridisk bistand i",
+    "titleEmphasis": "skattesaker",
+    "body": "Betaler du riktig skatt? Har du fått henvendelser fra Skatteetaten som du trenger hjelp til? Vi bistår deg med advokat som har spesialfag i skatterett og bakgrunn fra Skatteetaten."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Skatterett",
+    "title": "Riktig kompetanse til rett tid",
+    "paragraphs": [
+      "Mange opplever skatt og beskatning som en utfordring – et uhåndterlig skjemavelde som oppfattes som komplisert og tidkrevende. Det er en realitet at mengden klager til Skatteetaten har økt, og endringen i etatens organisering har ført til uforholdsmessig lang saksbehandlingstid for skatteklager.",
+      "Dersom du mener at du er blitt uriktig beskattet, eller er usikker på om for eksempel et salg utløser skatteplikt, kan vi hjelpe deg. I de fleste tilfeller er det viktig å komme inn i en tidlig og god dialog med Skatteetaten. Man skal ikke betale mer skatt enn det man er forpliktet til, og det er fornuftig å benytte de fradragsreglene som kan benyttes.",
+      "Advokatfirma Holthe & Co AS kan bistå deg med en advokat som har spesialfag i skatterett og bakgrunn fra Skatteetaten. Vi har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    { "name": "Restskatt", "body": "Bistand ved krav om restskatt og vurdering av om beregningen er korrekt." },
+    { "name": "Fradragsregler", "body": "Rådgivning om hvilke fradrag du har krav på og hvordan disse benyttes riktig." },
+    { "name": "Skatteoppgjør", "body": "Gjennomgang og oppfølging av skatteoppgjøret ved uenighet eller feil." },
+    { "name": "Skattemelding", "body": "Hjelp til utfylling og kvalitetssikring av skattemeldingen." },
+    { "name": "Skatteplanlegging", "body": "Lovlig og strukturert planlegging for å minimere skattebyrden." },
+    { "name": "Tilleggsskatt", "body": "Bistand ved ileggelse av tilleggsskatt og klage på slike vedtak." },
+    { "name": "Gevinstbeskatning", "body": "Rådgivning ved salg av eiendom, verdipapirer eller andre eiendeler som utløser gevinstskatt." },
+    { "name": "Klagerett", "body": "Bistand med klage på skattevedtak og oppfølging av klagesaker overfor Skatteetaten." },
+    { "name": "Eiendomsskatt", "body": "Rådgivning og klagebehandling knyttet til eiendomsskatt." },
+    { "name": "Arv og gave", "body": "Skattemessige konsekvenser ved arv, gave og generasjonsskifter." },
+    { "name": "Verdipapirer", "body": "Beskatning av aksjer, fond og øvrige verdipapirer." },
+    { "name": "Pensjon og naturalytelser", "body": "Skatteregler for pensjon, sluttvederlag og fordeler fra arbeidsgiver." }
+  ],
+  "cta": {
+    "title": "Trenger du hjelp med skatt?",
+    "body": "Vi tilbyr gratis første samtale. Kontakt oss i dag for en uforpliktende prat."
+  }
+}

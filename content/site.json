@@ -1,0 +1,47 @@
+{
+  "firm": {
+    "name": "Advokatfirmaet Holthe & Co AS",
+    "shortName": "Holthe & Co AS",
+    "tagline": "Privatjus og næringsjus i Hele Norge",
+    "motto": "Dit ein ser, dit kjem ein",
+    "mottoLine1": "Dit ein ser",
+    "mottoLine2": "Dit kjem ein",
+    "founded": "1992",
+    "experience": "25+"
+  },
+  "contact": {
+    "phone": "+47 62 55 02 00",
+    "mobile": "+47 90 55 06 47",
+    "email": "post@advh.no",
+    "emailPrivate": "kah@advh.no",
+    "address": "Veståsvegen 311",
+    "postalCode": "2323",
+    "city": "Ingeberg",
+    "addressFull": "Veståsvegen 311, 2323 Ingeberg",
+    "poBox": "Postboks 22 - 2301 Hamar",
+    "hours": "Man–Fre: 08:00–16:00"
+  },
+  "nav": [
+    { "label": "Forsiden", "href": "/" },
+    { "label": "Advokat Bedrift", "href": "/advokat-bedrift" },
+    { "label": "Advokat Privat", "href": "/advokat-privat", "children": [
+      { "label": "Skatterett", "href": "/advokat-privat/skatterett" }
+    ]},
+    { "label": "Om Advokatfirmaet", "href": "/om-oss" },
+    { "label": "Rettsavgjørelser", "href": "/rettsavgjorelser" },
+    { "label": "Kontakt oss", "href": "/kontakt" }
+  ],
+  "footer": {
+    "description": "Kvalitet, engasjement og personlig oppfølging er våre kjerneverdier.",
+    "member": "Medlem av Advokatforeningen",
+    "columns": {
+      "tjenester": ["Selskapsrett", "Skatterett", "Arbeidsrett", "Eiendomsrett", "Arv og Skifte", "Kontrakt & Entreprise"],
+      "lenker": [
+        { "label": "Om oss", "href": "/om-oss" },
+        { "label": "Kontakt", "href": "/kontakt" },
+        { "label": "Rettsavgjørelser", "href": "/rettsavgjorelser" },
+        { "label": "Personvernerklæring", "href": "/personvern" }
+      ]
+    }
+  }
+}
