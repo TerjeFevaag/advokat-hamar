@@ -42,7 +42,11 @@
       "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" add -A)",
       "Bash(npm install *)",
       "Bash(which node *)",
-      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" status --short)"
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" status --short)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" add content/site.json components/layout/Footer.tsx)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" add content/site.json)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" add components/layout/Footer.tsx)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" add app/api/contact/route.ts)"
     ]
   }
 }

@@ -5,8 +5,8 @@ import ContactSection from '@/components/shared/ContactSection'
 import siteData from '@/content/site.json'
 
 export const metadata: Metadata = {
-  title: 'Kontakt oss | Advokatfirma Holthe & Co AS',
-  description: 'Ta kontakt med Advokatfirma Holthe & Co AS. Det er gratis å ta kontakt.',
+  title: 'Kontakt Advokat Hamar | Holthe & Co AS',
+  description: 'Ta kontakt med advokat i Hamar – første samtale er gratis. Ring, send e-post eller fyll ut skjemaet. Holthe & Co AS hjelper deg raskt.',
 }
 
 const infoCards = [
