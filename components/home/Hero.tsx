@@ -55,13 +55,10 @@ export default function Hero() {
           priority
         />
         {/* Glassmorphism overlay card */}
-        <div className="absolute bottom-10 left-10 right-10 bg-navy/90 backdrop-blur-lg rounded-2xl px-8 py-7 flex items-center justify-between gap-4">
+        <div className="absolute bottom-10 left-10 right-10 bg-navy/90 backdrop-blur-lg rounded-2xl px-8 py-7">
           <p className="font-serif italic text-white text-lg leading-snug">
-            "Dit ein ser, <span className="text-gold">dit kjem ein</span>"
+            "Sjå deg ikkje tilbake, <span className="text-gold">du skal ikkje den vegen</span>"
           </p>
-          <span className="bg-gold text-white px-5 py-2.5 rounded-xl font-bold text-sm whitespace-nowrap flex-shrink-0">
-            Siden 1992
-          </span>
         </div>
       </div>
     </section>
