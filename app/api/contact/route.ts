@@ -17,21 +17,26 @@ export async function POST(req: NextRequest) {
     },
   })
 
-  await transporter.sendMail({
-    from: `"advh.no kontaktskjema" <${process.env.EMAIL_USER}>`,
-    to: process.env.EMAIL_TO,
-    replyTo: email,
-    subject: `Ny henvendelse fra ${name}`,
-    html: `
-      <h2>Ny henvendelse fra advh.no</h2>
-      <p><strong>Navn:</strong> ${name}</p>
-      <p><strong>E-post:</strong> ${email}</p>
-      <p><strong>Telefon:</strong> ${phone || '–'}</p>
-      <hr/>
-      <p><strong>Melding:</strong></p>
-      <p>${message.replace(/\n/g, '<br/>')}</p>
-    `,
-  })
+  try {
+    await transporter.sendMail({
+      from: `"advh.no kontaktskjema" <${process.env.EMAIL_USER}>`,
+      to: 'kah@advh.no',
+      replyTo: email,
+      subject: `Ny henvendelse fra ${name}`,
+      html: `
+        <h2>Ny henvendelse fra advh.no</h2>
+        <p><strong>Navn:</strong> ${name}</p>
+        <p><strong>E-post:</strong> ${email}</p>
+        <p><strong>Telefon:</strong> ${phone || '–'}</p>
+        <hr/>
+        <p><strong>Melding:</strong></p>
+        <p>${message.replace(/\n/g, '<br/>')}</p>
+      `,
+    })
+  } catch (err) {
+    console.error('Email send error:', err)
+    return NextResponse.json({ error: 'Failed to send email' }, { status: 500 })
+  }
 
   return NextResponse.json({ ok: true })
 }
