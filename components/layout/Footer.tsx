@@ -44,7 +44,7 @@ export default function Footer() {
           <h4 className="text-gold text-xs font-bold uppercase tracking-widest mb-4">Kontakt</h4>
           <div className="flex flex-col gap-1">
             <span className="text-white/50 text-sm py-0.5">{siteData.contact.addressFull}</span>
-            <a href={`tel:${siteData.contact.phone.replace(/\s/g, '')}`} className="text-white/50 text-sm py-0.5 hover:text-gold transition-colors">{siteData.contact.phone}</a>
+            <span className="text-white/50 text-sm py-0.5">{siteData.contact.poBox}</span>
             <a href={`tel:${siteData.contact.mobile.replace(/\s/g, '')}`} className="text-white/50 text-sm py-0.5 hover:text-gold transition-colors">{siteData.contact.mobile}</a>
             <a href={`mailto:${siteData.contact.email}`} className="text-white/50 text-sm py-0.5 hover:text-gold transition-colors">{siteData.contact.email}</a>
           </div>
