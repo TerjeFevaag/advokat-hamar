@@ -39,7 +39,10 @@
       "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" log --oneline -10)",
       "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" fetch origin)",
       "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" log --oneline origin/main -10)",
-      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" add -A)"
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" add -A)",
+      "Bash(npm install *)",
+      "Bash(which node *)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" status --short)"
     ]
   }
 }

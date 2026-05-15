@@ -83,24 +83,6 @@ export default function PrivatPage() {
           </div>
         </section>
 
-        {/* Intro */}
-        <section className="py-20 px-8 md:px-20 bg-white border-b border-gray-100">
-          <div className="max-w-6xl mx-auto">
-            <div className="flex items-center gap-3 text-gold text-xs font-bold uppercase tracking-[0.2em] mb-5">
-              <span className="w-10 h-px bg-gold block" />
-              {pageData.intro.tag}
-            </div>
-            <h2 className="font-serif text-[clamp(1.75rem,3vw,2.75rem)] font-bold text-navy leading-tight mb-6">
-              {pageData.intro.title}
-            </h2>
-            <div className="space-y-4">
-              {pageData.intro.paragraphs.map((p, i) => (
-                <p key={i} className="text-gray-500 text-lg leading-relaxed">{p}</p>
-              ))}
-            </div>
-          </div>
-        </section>
-
         {/* Services by category */}
         <section className="py-24 px-8 md:px-20 bg-white">
           <div className="max-w-6xl mx-auto space-y-20">
