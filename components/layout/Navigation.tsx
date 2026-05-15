@@ -7,6 +7,11 @@ import siteData from '@/content/site.json'
 export default function Navigation({ darkHero = false }: { darkHero?: boolean }) {
   const [scrolled, setScrolled] = useState(false)
   const [menuOpen, setMenuOpen] = useState(false)
+  const [openAccordions, setOpenAccordions] = useState<Record<string, boolean>>({})
+
+  const toggleAccordion = (href: string) => {
+    setOpenAccordions(prev => ({ ...prev, [href]: !prev[href] }))
+  }
 
   useEffect(() => {
     const handleScroll = () => setScrolled(window.scrollY > 80)
@@ -46,28 +51,56 @@ export default function Navigation({ darkHero = false }: { darkHero?: boolean })
 
         {/* Nav links */}
         <nav className="flex flex-col">
-          {siteData.nav.map((item) => (
-            <div key={item.href}>
-              <Link
-                href={item.href}
-                onClick={() => setMenuOpen(false)}
-                className="text-white/70 hover:text-gold text-2xl font-semibold py-3.5 border-b border-white/[0.06] hover:pl-3 transition-all duration-300 block"
-              >
-                {item.label}
-              </Link>
-              {'children' in item && item.children && item.children.map((child) => (
-                <Link
-                  key={child.href}
-                  href={child.href}
-                  onClick={() => setMenuOpen(false)}
-                  className="text-white/45 hover:text-gold text-base font-medium py-2.5 pl-4 border-b border-white/[0.04] hover:pl-7 transition-all duration-300 flex items-center gap-2 block"
-                >
-                  <span className="w-3 h-px bg-gold/50 flex-shrink-0" />
-                  {child.label}
-                </Link>
-              ))}
-            </div>
-          ))}
+          {siteData.nav.map((item) => {
+            const hasChildren = 'children' in item && Array.isArray(item.children) && item.children.length > 0
+            const isOpen = !!openAccordions[item.href]
+            return (
+              <div key={item.href}>
+                {hasChildren ? (
+                  <button
+                    onClick={() => toggleAccordion(item.href)}
+                    className="w-full flex items-center justify-between text-white/70 hover:text-gold text-2xl font-semibold py-3.5 border-b border-white/[0.06] transition-all duration-300 text-left"
+                  >
+                    {item.label}
+                    <svg
+                      className={`w-5 h-5 flex-shrink-0 text-gold transition-transform duration-300 ${isOpen ? 'rotate-180' : 'rotate-0'}`}
+                      fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}
+                    >
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </button>
+                ) : (
+                  <Link
+                    href={item.href}
+                    onClick={() => setMenuOpen(false)}
+                    className="text-white/70 hover:text-gold text-2xl font-semibold py-3.5 border-b border-white/[0.06] hover:pl-3 transition-all duration-300 block"
+                  >
+                    {item.label}
+                  </Link>
+                )}
+
+                {/* Accordion submenu */}
+                {hasChildren && (
+                  <div
+                    className="overflow-hidden transition-all duration-300 ease-in-out"
+                    style={{ maxHeight: isOpen ? `${(item as { children: unknown[] }).children.length * 52}px` : '0px' }}
+                  >
+                    {'children' in item && item.children && item.children.map((child) => (
+                      <Link
+                        key={child.href}
+                        href={child.href}
+                        onClick={() => setMenuOpen(false)}
+                        className="text-white/45 hover:text-gold text-base font-medium py-2.5 pl-4 border-b border-white/[0.04] hover:pl-7 transition-all duration-300 flex items-center gap-2"
+                      >
+                        <span className="w-3 h-px bg-gold/50 flex-shrink-0" />
+                        {child.label}
+                      </Link>
+                    ))}
+                  </div>
+                )}
+              </div>
+            )
+          })}
         </nav>
 
         {/* Footer links */}

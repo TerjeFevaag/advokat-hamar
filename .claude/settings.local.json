@@ -35,7 +35,11 @@
       "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" push origin main --set-upstream)",
       "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" push origin --delete master)",
       "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" add components/layout/Navigation.tsx)",
-      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" push origin main)"
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" push origin main)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" log --oneline -10)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" fetch origin)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" log --oneline origin/main -10)",
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" add -A)"
     ]
   }
 }
