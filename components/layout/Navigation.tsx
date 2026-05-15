@@ -126,18 +126,18 @@ export default function Navigation({ darkHero = false }: { darkHero?: boolean })
           ? 'py-3.5 bg-white/95 backdrop-blur-xl shadow-soft'
           : 'py-5'
       }`}>
-        {/* Left: burger + logo (logo hidden on mobile) */}
+        {/* Left: logo (always) + burger hidden on mobile */}
         <div className="flex items-center gap-5">
           <button
             onClick={() => setMenuOpen(true)}
-            className="w-11 h-11 bg-navy hover:bg-gold rounded-xl flex flex-col items-center justify-center gap-[5px] transition-colors duration-300"
+            className="hidden md:flex w-11 h-11 bg-navy hover:bg-gold rounded-xl flex-col items-center justify-center gap-[5px] transition-colors duration-300"
             aria-label="Åpne meny"
           >
             <span className="w-5 h-0.5 bg-white rounded-sm transition-all" />
             <span className="w-4 h-0.5 bg-white rounded-sm transition-all" />
             <span className="w-3 h-0.5 bg-white rounded-sm transition-all" />
           </button>
-          <Link href="/" className="hidden md:block">
+          <Link href="/">
             <Image
               src="/logo.png"
               alt={siteData.firm.shortName}
@@ -160,19 +160,18 @@ export default function Navigation({ darkHero = false }: { darkHero?: boolean })
           ))}
         </ul>
 
-        {/* Right: logo (mobile only) + phone + CTA */}
+        {/* Right: burger (mobile only) + phone + CTA */}
         <div className="flex items-center gap-4">
-          {/* Logo on right — mobile only */}
-          <Link href="/" className="block md:hidden">
-            <Image
-              src="/logo.png"
-              alt={siteData.firm.shortName}
-              width={120}
-              height={44}
-              className={`object-contain transition-all duration-300 ${scrolled ? 'h-9' : 'h-11'} w-auto ${!scrolled && darkHero ? 'brightness-0 invert' : ''}`}
-              priority
-            />
-          </Link>
+          {/* Burger on right — mobile only */}
+          <button
+            onClick={() => setMenuOpen(true)}
+            className="flex md:hidden w-11 h-11 bg-navy hover:bg-gold rounded-xl flex-col items-center justify-center gap-[5px] transition-colors duration-300"
+            aria-label="Åpne meny"
+          >
+            <span className="w-5 h-0.5 bg-white rounded-sm transition-all" />
+            <span className="w-4 h-0.5 bg-white rounded-sm transition-all" />
+            <span className="w-3 h-0.5 bg-white rounded-sm transition-all" />
+          </button>
           <a href={`tel:${siteData.contact.phone.replace(/\s/g, '')}`} className={`hidden md:flex items-center gap-2 text-sm font-semibold transition-colors duration-300 ${!scrolled && darkHero ? 'text-white' : 'text-navy'}`}>
             <svg className="w-4 h-4 fill-gold" viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
             {siteData.contact.phone}
