@@ -22,59 +22,23 @@
     {
       "title": "Næringsliv",
       "services": [
-        {
-          "name": "Selskapsrett",
-          "body": "Bistand til norske og utenlandske foretak i alle selskapsrettslige faser – fra stiftelse til avvikling."
-        },
-        {
-          "name": "Opphavsrett",
-          "body": "Rådgivning om immaterielle rettigheter, lisenser og beskyttelse av selskapets verdier."
-        },
-        {
-          "name": "Kjøpsrett",
-          "body": "Bistand ved kjøp og salg av varer og tjenester, reklamasjoner og kontraktsbrudd."
-        },
-        {
-          "name": "Varemerker",
-          "body": "Registrering, håndhevelse og forsvar av varemerkerettigheter."
-        },
-        {
-          "name": "Arbeidsrett",
-          "body": "Arbeidsrettslige spørsmål for arbeidsgivere – oppsigelse, avskjed, permisjoner og arbeidsavtaler."
-        },
-        {
-          "name": "Erstatningsrett",
-          "body": "Rådgivning og prosedyre i erstatningssaker for næringslivet."
-        },
-        {
-          "name": "Skatt for næringsdrivende",
-          "body": "Skatteplanlegging, bokettersyn, klagebehandling og prosedyre for næringsdrivende."
-        },
-        {
-          "name": "Kontrakt og entreprise",
-          "body": "Utforming og gjennomgang av kontrakter, entrepriserett og byggerelaterte tvister."
-        },
-        {
-          "name": "Bank, finansiering og forsikring",
-          "body": "Rådgivning innen bank, kreditt, finansiering og forsikringsrettslige spørsmål."
-        }
+        { "name": "Selskapsrett", "body": "Bistand til norske og utenlandske foretak i alle selskapsrettslige faser – fra stiftelse til avvikling.", "href": "/advokat-bedrift/naeringsliv/selskapsrett" },
+        { "name": "Opphavsrett", "body": "Rådgivning om immaterielle rettigheter, lisenser og beskyttelse av selskapets verdier.", "href": "/advokat-bedrift/naeringsliv/opphavsrett" },
+        { "name": "Kjøpsrett", "body": "Bistand ved kjøp og salg av varer og tjenester, reklamasjoner og kontraktsbrudd.", "href": "/advokat-bedrift/naeringsliv/kjopsrett" },
+        { "name": "Varemerker", "body": "Registrering, håndhevelse og forsvar av varemerkerettigheter.", "href": "/advokat-bedrift/naeringsliv/varemerker" },
+        { "name": "Arbeidsrett", "body": "Arbeidsrettslige spørsmål for arbeidsgivere – oppsigelse, avskjed, permisjoner og arbeidsavtaler.", "href": "/advokat-bedrift/naeringsliv/arbeidsrett" },
+        { "name": "Erstatningsrett", "body": "Rådgivning og prosedyre i erstatningssaker for næringslivet.", "href": "/advokat-bedrift/naeringsliv/erstatningsrett" },
+        { "name": "Skatt for næringsdrivende", "body": "Skatteplanlegging, bokettersyn, klagebehandling og prosedyre for næringsdrivende.", "href": "/advokat-bedrift/naeringsliv/skatt-naeringsdrivende" },
+        { "name": "Kontrakt og entreprise", "body": "Utforming og gjennomgang av kontrakter, entrepriserett og byggerelaterte tvister.", "href": "/advokat-bedrift/naeringsliv/kontrakt-og-entreprise" },
+        { "name": "Bank, finansiering og forsikring", "body": "Rådgivning innen bank, kreditt, finansiering og forsikringsrettslige spørsmål.", "href": "/advokat-bedrift/naeringsliv/bank-finansiering-og-forsikring" }
       ]
     },
     {
       "title": "Eiendom",
       "services": [
-        {
-          "name": "Mangler ved fast eiendom",
-          "body": "Bistand ved mangler og tvister knyttet til kjøp og salg av fast eiendom."
-        },
-        {
-          "name": "Husleierett",
-          "body": "Rådgivning for utleiere og leietakere – kontrakter, tvister og oppsigelse."
-        },
-        {
-          "name": "Plan- og bygningsrett",
-          "body": "Bistand i plan- og byggesaker, klager og dispensasjonssøknader."
-        }
+        { "name": "Mangler ved fast eiendom", "body": "Bistand ved mangler og tvister knyttet til kjøp og salg av fast eiendom.", "href": "/advokat-bedrift/eiendom/mangler-ved-fast-eiendom" },
+        { "name": "Husleierett", "body": "Rådgivning for utleiere og leietakere – kontrakter, tvister og oppsigelse.", "href": "/advokat-bedrift/eiendom/husleierett" },
+        { "name": "Plan- og bygningsrett", "body": "Bistand i plan- og byggesaker, klager og dispensasjonssøknader.", "href": "/advokat-bedrift/eiendom/plan-og-bygningsrett" }
       ]
     }
   ]

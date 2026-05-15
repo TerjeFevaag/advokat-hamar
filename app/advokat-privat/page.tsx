@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Link from 'next/link'
 import Navigation from '@/components/layout/Navigation'
 import Footer from '@/components/layout/Footer'
 import ContactSection from '@/components/shared/ContactSection'
@@ -98,17 +99,21 @@ export default function PrivatPage() {
                   {cat.services.map((svc) => {
                     const idx = globalIndex++
                     return (
-                      <div
+                      <Link
                         key={svc.name}
-                        className="group bg-cream rounded-2xl p-8 border border-transparent hover:border-gold hover:-translate-y-1 hover:shadow-[0_8px_32px_rgba(201,168,76,0.12)] transition-all duration-300 relative overflow-hidden cursor-default"
+                        href={svc.href}
+                        className="group bg-cream rounded-2xl p-8 border border-transparent hover:border-gold hover:-translate-y-1 hover:shadow-[0_8px_32px_rgba(201,168,76,0.12)] transition-all duration-300 relative overflow-hidden"
                       >
                         <span className="absolute top-3 right-5 font-serif text-[4.5rem] font-bold text-navy/5 select-none leading-none group-hover:text-gold/10 transition-colors duration-300">
                           {String(idx + 1).padStart(2, '0')}
                         </span>
                         <div className="w-8 h-1 bg-gold rounded-full mb-5 group-hover:w-12 transition-all duration-300" />
                         <h3 className="font-serif text-xl font-bold text-navy mb-3 relative">{svc.name}</h3>
-                        <p className="text-gray-500 text-sm leading-relaxed relative">{svc.body}</p>
-                      </div>
+                        <p className="text-gray-500 text-sm leading-relaxed relative mb-4">{svc.body}</p>
+                        <span className="text-gold font-semibold text-sm flex items-center gap-1.5 group-hover:gap-3 transition-all duration-300">
+                          Les mer →
+                        </span>
+                      </Link>
                     )
                   })}
                 </div>

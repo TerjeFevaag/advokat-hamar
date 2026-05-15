@@ -13,25 +13,25 @@
     {
       "title": "Arbeid, skatt og erstatning",
       "services": [
-        { "name": "Skatterett", "body": "Skatteplanlegging, klage på skattevedtak og bistand ved bokettersyn for privatpersoner." },
-        { "name": "Trygderett", "body": "Rådgivning og prosedyre i saker mot NAV og andre trygdeinstanser." },
-        { "name": "Arbeidsrett", "body": "Bistand til arbeidstakere ved oppsigelse, avskjed, mobbing og diskriminering." },
-        { "name": "Erstatningsrett", "body": "Rådgivning og prosedyre i erstatningssaker – personskade, tingskade og ansvarssaker." }
+        { "name": "Skatterett", "body": "Skatteplanlegging, klage på skattevedtak og bistand ved bokettersyn for privatpersoner.", "href": "/advokat-privat/arbeid-skatt-og-erstatning/skatterett" },
+        { "name": "Trygderett", "body": "Rådgivning og prosedyre i saker mot NAV og andre trygdeinstanser.", "href": "/advokat-privat/arbeid-skatt-og-erstatning/trygderett" },
+        { "name": "Arbeidsrett", "body": "Bistand til arbeidstakere ved oppsigelse, avskjed, mobbing og diskriminering.", "href": "/advokat-privat/arbeid-skatt-og-erstatning/arbeidsrett" },
+        { "name": "Erstatningsrett", "body": "Rådgivning og prosedyre i erstatningssaker – personskade, tingskade og ansvarssaker.", "href": "/advokat-privat/arbeid-skatt-og-erstatning/erstatningsrett" }
       ]
     },
     {
       "title": "Familie og arv",
       "services": [
-        { "name": "Arv og skifte", "body": "Testamentariske disposisjoner, generasjonsskifter, arveavgift og oppfølging av bo." },
-        { "name": "Samlivsbrudd", "body": "Bistand ved separasjon, skilsmisse, fordeling av felleseie og samboeroppgjør." }
+        { "name": "Arv og skifte", "body": "Testamentariske disposisjoner, generasjonsskifter, arveavgift og oppfølging av bo.", "href": "/advokat-privat/familie-og-arv/arv-og-skifte" },
+        { "name": "Samlivsbrudd", "body": "Bistand ved separasjon, skilsmisse, fordeling av felleseie og samboeroppgjør.", "href": "/advokat-privat/familie-og-arv/samlivsbrudd" }
       ]
     },
     {
       "title": "Eiendom",
       "services": [
-        { "name": "Husleierett", "body": "Rådgivning for leietakere ved tvister, oppsigelse og leieforhold." },
-        { "name": "Naborett", "body": "Bistand i nabokonflikter, grensestridigheter og hevdssaker." },
-        { "name": "Plan- og bygningsrett", "body": "Bistand i plan- og byggesaker, klager og dispensasjonssøknader." }
+        { "name": "Husleierett", "body": "Rådgivning for leietakere ved tvister, oppsigelse og leieforhold.", "href": "/advokat-privat/eiendom/husleierett" },
+        { "name": "Naborett", "body": "Bistand i nabokonflikter, grensestridigheter og hevdssaker.", "href": "/advokat-privat/eiendom/naborett" },
+        { "name": "Plan- og bygningsrett", "body": "Bistand i plan- og byggesaker, klager og dispensasjonssøknader.", "href": "/advokat-privat/eiendom/plan-og-bygningsrett" }
       ]
     }
   ]
