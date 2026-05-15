@@ -66,8 +66,13 @@ export default function OmOssPage() {
               </div>
 
               {/* Advokatforeningen badge */}
-              <div className="flex items-center gap-6 mb-10 p-6 bg-cream rounded-2xl border border-gray-100">
-                <div className="flex-shrink-0">
+              <div className="flex flex-col md:flex-row md:items-center gap-5 mb-10 p-6 bg-cream rounded-2xl border border-gray-100">
+                <div>
+                  <p className="text-xs uppercase tracking-widest text-gold font-bold mb-1">Medlemskap</p>
+                  <h3 className="font-serif font-bold text-navy text-base leading-tight">Den Norske Advokatforening</h3>
+                  <p className="text-gray-500 text-sm mt-0.5">Følger strenge yrkesetiske retningslinjer for god advokatskikk</p>
+                </div>
+                <div className="flex-shrink-0 md:border-l md:border-gray-200 md:pl-6">
                   <Image
                     src="/advokatforeningen-logo.png"
                     alt="Advokatforeningen"
@@ -75,11 +80,6 @@ export default function OmOssPage() {
                     height={52}
                     className="object-contain"
                   />
-                </div>
-                <div className="border-l border-gray-200 pl-6">
-                  <p className="text-xs uppercase tracking-widest text-gold font-bold mb-1">Medlemskap</p>
-                  <h3 className="font-serif font-bold text-navy text-base leading-tight">Den Norske Advokatforening</h3>
-                  <p className="text-gray-500 text-sm mt-0.5">Følger strenge yrkesetiske retningslinjer for god advokatskikk</p>
                 </div>
               </div>
 
