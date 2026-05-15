@@ -65,28 +65,39 @@ export default function OmOssPage() {
                 ))}
               </div>
 
-              {/* AAA Badge */}
-              <div className="flex items-center gap-5 mb-10 p-6 bg-cream rounded-2xl border border-gold/20">
-                <div className="w-16 h-16 bg-navy rounded-2xl flex items-center justify-center flex-shrink-0 shadow-md">
-                  <span className="text-gold font-serif font-bold text-xl tracking-tight">AAA</span>
+              {/* Advokatforeningen badge */}
+              <div className="flex items-center gap-6 mb-10 p-6 bg-cream rounded-2xl border border-gray-100">
+                <div className="flex-shrink-0">
+                  <Image
+                    src="/advokatforeningen-logo.png"
+                    alt="Advokatforeningen"
+                    width={180}
+                    height={52}
+                    className="object-contain"
+                  />
                 </div>
-                <div>
-                  <p className="text-xs uppercase tracking-widest text-gold font-bold mb-1">{pageData.rating.title}</p>
-                  <h3 className="font-serif font-bold text-navy text-lg leading-tight">{pageData.rating.badge}</h3>
-                  <p className="text-gray-500 text-sm mt-0.5">Høyeste kredittverdighet – tildelt av Dun & Bradstreet</p>
+                <div className="border-l border-gray-200 pl-6">
+                  <p className="text-xs uppercase tracking-widest text-gold font-bold mb-1">Medlemskap</p>
+                  <h3 className="font-serif font-bold text-navy text-base leading-tight">Den Norske Advokatforening</h3>
+                  <p className="text-gray-500 text-sm mt-0.5">Følger strenge yrkesetiske retningslinjer for god advokatskikk</p>
                 </div>
               </div>
 
               {/* Memberships */}
-              <div className="space-y-3">
-                <p className="text-xs uppercase tracking-widest text-gold font-bold mb-4">Medlemskap & verv</p>
-                {pageData.memberships.map((m) => (
+              <div className="space-y-3 mb-6">
+                <p className="text-xs uppercase tracking-widest text-gold font-bold mb-4">Øvrige medlemskap & verv</p>
+                {pageData.memberships.filter(m => !m.includes('Advokatforening')).map((m) => (
                   <div key={m} className="flex items-center gap-3 text-gray-600 text-sm">
                     <span className="w-1.5 h-1.5 rounded-full bg-gold flex-shrink-0" />
                     {m}
                   </div>
                 ))}
               </div>
+
+              {/* AAA — diskret */}
+              <p className="text-gray-400 text-xs">
+                AAA-kredittvurdering tildelt av Dun & Bradstreet — høyeste kredittverdighet.
+              </p>
             </div>
           </div>
         </section>
