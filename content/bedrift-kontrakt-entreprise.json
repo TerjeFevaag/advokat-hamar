@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "title": "Kontrakt og entreprise | Advokatfirma Holthe & Co AS",
+    "description": "Advokatfirma Holthe & Co bistår entreprenører og håndverksbedrifter med kontraktsrett og entrepriserett. Kontor i Hamar – tjenester over hele Norge."
+  },
+  "hero": {
+    "tag": "Kontrakt og entreprise",
+    "title": "Juridisk bistand i",
+    "titleEmphasis": "entrepriserett",
+    "body": "Vi bistår både små og store entreprenører og håndverksbedrifter med kontrakter, entrepriserett og konfliktløsning i en utfordrende hverdag."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Kontrakts- og entrepriserett",
+    "title": "Godt grunnarbeid forebygger tvister",
+    "paragraphs": [
+      "Advokatfirma Holthe & Co bistår både små og store entreprenører og håndverksbedrifter i deres utfordrende hverdag. Under kontraktsforhandlingene, ved valg av kontrakt, utforming av kontrakt, tolkning av en kontrakt og ved konfliktløsning vil man som regel trenge profesjonell veiledning.",
+      "Det er som regel nødvendig med et godt grunnarbeid for å forebygge at det oppstår tvist og problemer. Vi hjelper deg å velge riktig kontraktstype, sikre at kontrakten er tilpasset prosjektets særegenheter, og bistår raskt dersom det likevel oppstår uenigheter underveis.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    { "name": "Kontraktsforhandlinger", "body": "Bistand under kontraktsforhandlinger for å sikre at avtalen gir din bedrift best mulig vern og vilkår." },
+    { "name": "Norsk Standard-kontrakter", "body": "Rådgivning om bruk og tilpasning av NS-standardkontrakter som NS 8405, NS 8415 og NS 8416." },
+    { "name": "Håndverkstjenester", "body": "Juridisk bistand til håndverksbedrifter ved utforming av kontrakter og håndtering av tvister med kunder." },
+    { "name": "Entrepriserett", "body": "Rådgivning om entrepriserettens regler, inkludert rettigheter og plikter for byggherre og entreprenør." },
+    { "name": "Kontraktstolkning", "body": "Bistand ved tolkning av kontrakter der partene er uenige om hva som er avtalt og hva som gjelder." },
+    { "name": "Konfliktløsning", "body": "Rådgivning og bistand ved løsning av entreprisekonflikter, enten gjennom forhandling, mekling eller rettssak." },
+    { "name": "Reklamasjoner", "body": "Bistand ved fremsetting og håndtering av reklamasjoner for mangler og forsinkelser i byggeoppdrag." },
+    { "name": "Tvisteløsning", "body": "Prosedyre for domstolene og voldgiftsretter i entreprisetvistsaker der forhandlinger ikke fører frem." }
+  ],
+  "cta": {
+    "title": "Trenger du bistand med kontrakter eller entreprise?",
+    "body": "Vi hjelper deg med kontrakter og entrepriserettslige spørsmål. Kontakt oss for en uforpliktende samtale."
+  }
+}

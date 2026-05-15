@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Husleierett – Næringsleie | Advokatfirma Holthe & Co AS",
+    "description": "Juridisk bistand i næringsleieforhold for både utleiere og leietakere. Rådgivning, kontraktutforming, forhandlinger og prosedyre."
+  },
+  "hero": {
+    "tag": "Eiendom – Husleierett",
+    "title": "Juridisk bistand i",
+    "titleEmphasis": "husleierett",
+    "body": "Næringsleieforhold er komplekse og reguleres av både husleieloven og den individuelle leiekontrakten. Vi bistår næringsdrivende som leietaker og utleier gjennom hele leieforholdet."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Vår bistand",
+    "title": "Rådgivning, forhandlinger og prosedyre i leieforhold",
+    "paragraphs": [
+      "Næringsleieforhold er normalt betraktelig mer komplisert og avtaleregulert enn private leieforhold. Rettighetene og pliktene til utleier og leietaker avhenger av den inngåtte avtalen i tillegg til husleieloven, og det er vesentlige forskjeller mellom boligleie og næringsleie.",
+      "En godt utformet leiekontrakt kan forebygge konflikter og sikre begge parters interesser gjennom hele leieperioden. Vi bistår med utforming og gjennomgang av leiekontrakter, forhandlinger ved oppstart og fornyelse, samt prosedyre dersom det oppstår tvist.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    {
+      "name": "Utforming av leiekontrakter",
+      "body": "En solid leiekontrakt er grunnlaget for et velfungerende leieforhold. Vi utformer og gjennomgår næringsleiekontrakter som ivaretar din posisjon som enten utleier eller leietaker."
+    },
+    {
+      "name": "Overlevering og krav til lokaler",
+      "body": "Lokalenes stand ved overlevering er avgjørende for ansvarsfordelingen gjennom leieperioden. Vi bistår med protokollføring og juridisk vurdering av overleveringssituasjonen."
+    },
+    {
+      "name": "Leieprisen og depositum",
+      "body": "Fastsettelse av leieprisen, reguleringsklausuler og krav til depositum reiser mange spørsmål. Vi rådgir om lovlige vilkår og forhandler på dine vegne ved uenighet."
+    },
+    {
+      "name": "Plikter i leietiden",
+      "body": "Leietaker og utleier har klare plikter under leieforholdet, herunder vedlikeholdsplikter og krav til bruken av lokalene. Vi avklarer ansvarsfordelingen og bistår ved mislighold."
+    },
+    {
+      "name": "Framleie",
+      "body": "Framleie av næringslokaler krever normalt utleiers samtykke og reiser særskilte juridiske spørsmål. Vi vurderer adgangen til framleie og utformer nødvendige avtaler."
+    },
+    {
+      "name": "Leieforholdets varighet",
+      "body": "Tidsbestemte og tidsubestemte leiekontrakter har ulike konsekvenser for oppsigelsesadgangen. Vi rådgir om hvilken kontraktsform som passer best for din virksomhet."
+    },
+    {
+      "name": "Opphør av leieforhold",
+      "body": "Oppsigelse av næringsleiekontrakter følger egne regler og frister. Vi bistår med lovlig gjennomføring av oppsigelse og håndtering av tvister om leieforholdets opphør."
+    },
+    {
+      "name": "Tilbakelevering av lokaler",
+      "body": "Ved leieforholdets slutt oppstår ofte uenighet om lokalenes stand og krav til utbedring. Vi bistår med protokollføring og fremmer eller bestrider krav på vegne av din part."
+    },
+    {
+      "name": "Utkastelse",
+      "body": "Dersom leietaker ikke fraflytter lokalet etter utløpt leieavtale eller ved mislighold, kan det bli nødvendig med tvangsfravikelse. Vi gjennomfører utkastelsesprosessen på lovlig vis."
+    },
+    {
+      "name": "Inndrivelse av ubetalt leie",
+      "body": "Utbetalt leie som ikke betales kan inndri­ves gjennom namsmyndighetene. Vi bistår med inkasso­prosessen og sikrer kravet på raskest mulig måte."
+    },
+    {
+      "name": "Tvisteløsning",
+      "body": "Mange leietvister kan løses gjennom forhandlinger eller mekling uten rettssak. Vi søker alltid den mest kostnadseffektive løsningen for klienten."
+    },
+    {
+      "name": "Prosedyre",
+      "body": "Dersom leietvisten ikke lar seg løse i minnelighet, fører vi saken for tingretten og lagmannsretten. Vi har erfaring med prosedyre i leierettslige saker."
+    }
+  ],
+  "cta": {
+    "title": "Har du spørsmål om leieforholdet ditt?",
+    "body": "Ta kontakt for en uforpliktende gjennomgang av din leiesituasjon. Vi bistår næringsdrivende som leietaker og utleier med alt fra kontraktutforming til prosedyre."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "Arbeidsrett – Privatpersoner | Advokatfirma Holthe & Co AS",
+    "description": "Juridisk bistand i arbeidsrett for arbeidstakere og virksomheter. Ansettelse, oppsigelse, avskjed, permittering og virksomhetsoverdragelse."
+  },
+  "hero": {
+    "tag": "Arbeid, skatt og trygd",
+    "title": "Juridisk bistand i",
+    "titleEmphasis": "arbeidsrett",
+    "body": "Vi bistår både arbeidstakere og virksomheter med juridisk rådgivning i alle faser av arbeidsforholdet — fra ansettelse til opphør."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Vår bistand",
+    "title": "Arbeidsrettslig rådgivning for arbeidstakere og arbeidsgivere",
+    "paragraphs": [
+      "Innenfor rammene av arbeidsavtalen og lovgivningen forvalter arbeidsgiver virksomhetens arbeidsforhold til sine ansatte gjennom styringsretten. Denne retten er imidlertid ikke ubegrenset, og arbeidstaker har et omfattende vern etter arbeidsmiljøloven og tariffavtaler.",
+      "Advokatfirma Holthe & Co bistår både arbeidstakere og virksomheter med juridisk rådgivning i rekrutteringsprosesser, ansettelser, virksomhetsoverdragelser, utarbeidelse av arbeidsvilkår, permitteringer og ved opphør av arbeidsforhold. God juridisk rådgivning tidlig kan forebygge konflikter og kostnader.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    {
+      "name": "Ansettelsesavtale",
+      "body": "En tydelig og lovlig ansettelsesavtale er grunnlaget for et godt arbeidsforhold. Vi utformer og gjennomgår ansettelsesavtaler som ivaretar interessene til både arbeidsgiver og arbeidstaker."
+    },
+    {
+      "name": "Arbeidsmiljøloven",
+      "body": "Arbeidsmiljøloven setter minimumsstandarder for arbeidsvilkår og arbeidstakervern. Vi rådgir om hvilke rettigheter og plikter loven gir, og bistår ved brudd på lovens bestemmelser."
+    },
+    {
+      "name": "Ansettelse",
+      "body": "Ansettelsesprosesser reiser spørsmål om kravspesifikasjon, diskriminering og innleie av arbeidskraft. Vi bistår virksomheter med lovlig gjennomføring av rekrutteringsprosessen."
+    },
+    {
+      "name": "Oppsigelse",
+      "body": "Oppsigelse av arbeidsforhold krever saklig grunn og korrekt saksbehandling. Vi vurderer om oppsigelsen er gyldig og bistår med forhandlinger eller prosedyre dersom det oppstår tvist."
+    },
+    {
+      "name": "Avskjed",
+      "body": "Avskjed er den strengeste reaksjonen arbeidsgiver kan benytte og krever grovt pliktbrudd. Vi bistår begge parter med å vurdere om vilkårene for avskjed er oppfylt."
+    },
+    {
+      "name": "Styringsrett",
+      "body": "Arbeidsgivers styringsrett gir rett til å lede, fordele og kontrollere arbeidet, men er begrenset av lov, avtale og ulovfestede saklighetskrav. Vi avklarer grensene for styringsretten i konkrete situasjoner."
+    },
+    {
+      "name": "Permisjon",
+      "body": "Arbeidstakere har rett til permisjon i en rekke situasjoner etter arbeidsmiljøloven, herunder foreldrepermisjon og velferdspermisjon. Vi bistår med å avklare permisjonsrettigheter og plikter."
+    },
+    {
+      "name": "Permittering",
+      "body": "Permittering er et midlertidig tiltak der ansatte fritas for arbeidsplikt ved driftsinnskrenkning. Vi bistår virksomheter med korrekt gjennomføring og rådgir ansatte om sine rettigheter under permittering."
+    },
+    {
+      "name": "Virksomhetsoverdragelse",
+      "body": "Ved overdragelse av virksomhet har de ansatte særlig stillingsvern og rett til å videreføre sine arbeidsvilkår. Vi bistår begge parter med de arbeidsrettslige sidene av overdragelsen."
+    }
+  ],
+  "cta": {
+    "title": "Trenger du arbeidsrettslig bistand?",
+    "body": "Ta kontakt for en uforpliktende samtale om din arbeidsrettslige situasjon. Vi bistår både arbeidstakere og arbeidsgivere."
+  }
+}

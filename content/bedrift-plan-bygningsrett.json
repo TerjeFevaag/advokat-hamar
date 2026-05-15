@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Plan- og bygningsrett | Advokatfirma Holthe & Co AS",
+    "description": "Juridisk bistand innen plan- og bygningsrett for næringsdrivende. Byggesøknader, dispensasjoner, reguleringsplaner og klage."
+  },
+  "hero": {
+    "tag": "Eiendom – Plan og bygg",
+    "title": "Juridisk bistand i",
+    "titleEmphasis": "plan- og bygningsrett",
+    "body": "Fra reguleringsplan til ferdigstillelse — vi veileder næringsdrivende gjennom hele byggeprosessen og hjelper deg å ivareta dine rettigheter overfor bygningsmyndighetene."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Vår bistand",
+    "title": "Veiledning gjennom hele byggeprosessen",
+    "paragraphs": [
+      "Plan- og bygningsetaten er rådgivende og besluttende myndighet i de fleste byggeprosesser. Regelverket er komplekst og endrer seg jevnlig, noe som gjør det krevende å navigere uten juridisk bistand — særlig for næringsdrivende som skal bygge på, bygge om eller utvikle eiendom.",
+      "Advokat Holthe har lang erfaring med plan- og bygningsrett og kan veilede deg gjennom prosessen allerede fra planstadiet. God juridisk rådgivning tidlig i prosessen kan spare deg for kostbare feil, forsinkelser og konflikter med naboer og myndigheter.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    {
+      "name": "Byggesøknaden",
+      "body": "En korrekt utformet byggesøknad er avgjørende for å få tillatelse innen rimelig tid. Vi bistår med utforming og kvalitetssikring av søknaden, og sikrer at alle nødvendige vedlegg er på plass."
+    },
+    {
+      "name": "Byggetillatelse",
+      "body": "Kommunens vedtak om byggetillatelse kan by på vilkår og begrensninger som er viktige å forstå. Vi gjennomgår tillatelsen og rådgir om handlingsrommet innenfor de gitte rammene."
+    },
+    {
+      "name": "Dispensasjon",
+      "body": "Dersom tiltaket er i strid med plan eller lov, kan det søkes om dispensasjon. Vi vurderer grunnlaget for dispensasjonssøknaden og utformer en søknad med størst mulig sjanse for positivt vedtak."
+    },
+    {
+      "name": "Utnyttelse av tomten",
+      "body": "Reguleringsplanen setter rammer for hvor mye og hva du kan bygge på tomten. Vi analyserer planens bestemmelser og hjelper deg å utnytte tomten optimalt innenfor lovlige rammer."
+    },
+    {
+      "name": "Nabovarsel",
+      "body": "Naboer har rett til å varsles og protestere mot byggetiltak. Vi håndterer nabovarslingsprosessen korrekt og bistår dersom naboprotester truer fremdriften i prosjektet."
+    },
+    {
+      "name": "Behandlingstid",
+      "body": "Kommunens saksbehandlingstid er regulert ved lov, og overskridelse kan gi rett til gebyrlempning. Vi følger opp saken og påser at lovbestemte frister overholdes."
+    },
+    {
+      "name": "Frister",
+      "body": "Det gjelder strenge frister for å bruke og gjennomføre byggetillatelser. Vi holder oversikt over relevante frister og varsler deg i god tid slik at tillatelsene ikke bortfaller."
+    },
+    {
+      "name": "Tvangsmulkt",
+      "body": "Kommunen kan ilegge tvangsmulkt ved ulovlige byggetiltak eller manglende etterlevelse av pålegg. Vi bistår med å bestride ulovlige vedtak og med å rette opp forholdet til myndighetene."
+    },
+    {
+      "name": "Bygging i strandsonen",
+      "body": "Bygging i 100-metersbeltet langs sjøen er underlagt særlige restriksjoner. Vi vurderer mulighetsrommet og bistår med søknadsprosessen for tiltak i strandsonen."
+    },
+    {
+      "name": "Tinglysing",
+      "body": "Rettigheter og heftelser knyttet til byggeprosjekter må ofte tinglyses. Vi sørger for korrekt tinglysing av erklæringer, servitutter og øvrige rettigheter."
+    },
+    {
+      "name": "Reguleringsplan",
+      "body": "Ønsker du å endre gjeldende reguleringsplan for din eiendom? Vi bistår med utarbeidelse av reguleringsforslag og representerer deg i prosessen overfor plan- og bygningsetaten og politiske organer."
+    },
+    {
+      "name": "Klage",
+      "body": "Ugunstige vedtak fra kommunen kan påklages til statsforvalteren. Vi vurderer klageadgangen og utformer en begrunnet klage som ivaretar dine interesser."
+    }
+  ],
+  "cta": {
+    "title": "Trenger du hjelp med byggesaken din?",
+    "body": "Ta kontakt for en uforpliktende samtale om ditt byggeprosjekt. Vi veileder deg fra planstadiet til ferdigstillelse og ivaretar dine rettigheter overfor plan- og bygningsetaten."
+  }
+}

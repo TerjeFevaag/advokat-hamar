@@ -17,37 +17,37 @@
         "num": "01",
         "title": "Selskapsrett",
         "body": "Bistand til norske og utenlandske foretak i alle selskapsrettslige faser.",
-        "href": "/advokat-bedrift"
+        "href": "/advokat-bedrift/naeringsliv/selskapsrett"
       },
       {
         "num": "02",
         "title": "Skatterett",
         "body": "Skatteplanlegging, bokettersyn, klagebehandling og prosedyre.",
-        "href": "/advokat-privat/skatterett"
+        "href": "/advokat-privat/arbeid-skatt-og-erstatning/skatterett"
       },
       {
         "num": "03",
         "title": "Arv og Skifte",
         "body": "Testamentariske disposisjoner, generasjonsskifter og oppfølging av bo.",
-        "href": "/advokat-privat"
+        "href": "/advokat-privat/familie-og-arv/arv-og-skifte"
       },
       {
         "num": "04",
         "title": "Eiendomsrett",
         "body": "Mangler ved fast eiendom, husleierett, plan- og bygningsrett.",
-        "href": "/advokat-bedrift"
+        "href": "/advokat-bedrift/eiendom/mangler-ved-fast-eiendom"
       },
       {
         "num": "05",
         "title": "Arbeidsrett",
         "body": "Arbeidsrettslige spørsmål, oppsigelse, avskjed og permisjoner.",
-        "href": "/advokat-privat"
+        "href": "/advokat-privat/arbeid-skatt-og-erstatning/arbeidsrett"
       },
       {
         "num": "06",
         "title": "Kontrakt & Entreprise",
         "body": "Utforming og gjennomgang av kontrakter, entrepriserett.",
-        "href": "/advokat-bedrift"
+        "href": "/advokat-bedrift/naeringsliv/kontrakt-og-entreprise"
       }
     ]
   },

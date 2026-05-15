@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "Opphavsrett | Advokatfirma Holthe & Co AS",
+    "description": "Advokatfirma Holthe & Co bistår bedrifter med opphavsrett, immaterielle rettigheter og vern mot etterligning. Kontor i Hamar – tjenester over hele Norge."
+  },
+  "hero": {
+    "tag": "Opphavsrett",
+    "title": "Juridisk bistand i",
+    "titleEmphasis": "opphavsrett",
+    "body": "Har din bedrift utviklet nye produkter eller tenker nye tanker? Vi hjelper deg å verne dine rettigheter og unngå at andre krenker det du har skapt."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Vern av immaterielle verdier",
+    "title": "Beskytt det du har skapt",
+    "paragraphs": [
+      "Opphavsretten er beslektet med varemerkeretten. Dersom din bedrift har utviklet nye produkter og/eller tenker nye tanker, kan det være nødvendig å sørge for vern mot at andre etterligner deg og din bedrift.",
+      "Advokatfirma Holthe & Co kan hjelpe deg å avverge konflikter og problemer dersom andre krenker dine rettigheter, og unngå at din bedrift krenker andres rettigheter. Vi gir deg oversikt over regelverket og bistår deg i alle faser – fra etablering av vern til håndtering av krenkelsessaker.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    { "name": "Åndsverkloven", "body": "Rådgivning om rekkevidden av åndsverkloven og hvilke verk og prestasjoner som er beskyttet etter norsk rett." },
+    { "name": "Opphavsrettsvernet", "body": "Bistand ved etablering og håndheving av opphavsrettsvern for litterære, kunstneriske og åndelige verk." },
+    { "name": "Økonomiske rettigheter", "body": "Rådgivning om opphavsmannens enerett til å fremstille eksemplarer og gjøre verket tilgjengelig for allmennheten." },
+    { "name": "Ideelle rettigheter", "body": "Bistand ved spørsmål om navngivingsretten og vern mot krenkende bruk som strider mot opphavsmannens anseelse." },
+    { "name": "Verk unntatt fra opphavsrett", "body": "Avklaring av hvilke verk og uttrykk som faller utenfor opphavsrettslig vern etter gjeldende regler." },
+    { "name": "Verk med flere opphavsmenn", "body": "Rådgivning om rettighetsforhold og beslutningskompetanse der flere har bidratt til å skape et verk." },
+    { "name": "Fellesverk", "body": "Bistand ved regulering av fellesverk der bidragene ikke kan skilles fra hverandre." },
+    { "name": "Sammensatte verk", "body": "Rådgivning om opphavsrettslige spørsmål ved verk som kombinerer flere selvstendige bidrag." },
+    { "name": "Samleverk", "body": "Bistand ved vern av samleverk som databaser, antologier og andre redaksjonelle sammenstillinger." },
+    { "name": "Låneregler", "body": "Avklaring av grensene for lovlig sitering, kopiering og annen bruk av andres verk uten tillatelse." },
+    { "name": "Fribruksrettigheter", "body": "Rådgivning om situasjoner der bruk av åndsverk er tillatt uten samtykke fra rettighetshaver." },
+    { "name": "Lisensregler", "body": "Utforming og gjennomgang av lisensavtaler for bruk av opphavsrettslig beskyttet materiale." },
+    { "name": "Avtalelisens", "body": "Bistand ved spørsmål om avtalelisensordninger som gir rett til bruk av verk på nærmere vilkår." },
+    { "name": "Tvangslisens", "body": "Rådgivning om tilfeller der loven gir rett til bruk av et verk mot vederlag uten samtykke fra rettighetshaver." },
+    { "name": "Overføring av opphavsrett", "body": "Bistand ved avtalefestet overdragelse av opphavsrettigheter, herunder begrensninger og vilkår." },
+    { "name": "Vernetid", "body": "Avklaring av vernetidens lengde og hva som skjer med et verk når det faller i det fri." },
+    { "name": "Krenkelse av opphavsrett", "body": "Bistand ved konstatering av opphavsrettskrenkelser og valg av riktig strategi for håndheving." },
+    { "name": "Erstatning og straff", "body": "Rådgivning om sanksjoner ved opphavsrettskrenkelser, inkludert erstatningskrav og strafferettslige reaksjoner." }
+  ],
+  "cta": {
+    "title": "Trenger du bistand med opphavsrett?",
+    "body": "Vi hjelper deg å verne dine immaterielle verdier og håndtere eventuelle krenkelser. Ta kontakt for en uforpliktende samtale."
+  }
+}

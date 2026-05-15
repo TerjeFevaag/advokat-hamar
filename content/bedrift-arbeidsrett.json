@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "title": "Arbeidsrett for bedrifter | Advokatfirma Holthe & Co AS",
+    "description": "Advokatfirma Holthe & Co bistår arbeidsgivere med arbeidsavtaler, ansettelser, oppsigelser og virksomhetsoverdragelser. Kontor i Hamar."
+  },
+  "hero": {
+    "tag": "Arbeidsrett",
+    "title": "Juridisk bistand i",
+    "titleEmphasis": "arbeidsrett",
+    "body": "Vi bistår virksomheter med juridisk rådgivning i rekrutteringsprosesser, ansettelser, virksomhetsoverdragelser og ved opphør av arbeidsforhold."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Arbeidsgiverjuridisk bistand",
+    "title": "Trygg håndtering av arbeidsforhold",
+    "paragraphs": [
+      "Innenfor rammene av arbeidsavtalen og lovgivningen forvalter arbeidsgiver virksomhetens arbeidsforhold til sine ansatte gjennom styringsretten. Korrekt håndtering av disse forholdene er avgjørende for å unngå tvister og sikre et godt arbeidsmiljø.",
+      "Advokatfirma Holthe & Co bistår virksomheter med juridisk rådgivning i rekrutteringsprosesser, ansettelser, virksomhetsoverdragelser, utarbeidelse av arbeidsvilkår, permitteringer og ved opphør av arbeidsforhold. Vi sørger for at din virksomhet opptrer i henhold til arbeidsmiljølovens krav.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    { "name": "Ansettelsesavtale", "body": "Utforming av arbeidsavtaler som ivaretar virksomhetens interesser og oppfyller lovpålagte minstekrav." },
+    { "name": "Arbeidsmiljøloven", "body": "Rådgivning om arbeidsgivers plikter etter arbeidsmiljøloven og konsekvensene av brudd på lovens bestemmelser." },
+    { "name": "Ansettelse", "body": "Juridisk bistand i rekrutteringsprosessen, inkludert lovlig utvelgelse og ansettelse av nye medarbeidere." },
+    { "name": "Oppsigelse", "body": "Rådgivning om saklig grunnlag for oppsigelse og korrekt gjennomføring av oppsigelsesprosessen." },
+    { "name": "Avskjed", "body": "Bistand ved avskjed av ansatte og håndtering av tvister som oppstår i etterkant." },
+    { "name": "Styringsrett", "body": "Rådgivning om arbeidsgivers styringsrett og grensene for hva arbeidsgiver lovlig kan bestemme." },
+    { "name": "Permisjon", "body": "Avklaring av ansattes rett til ulike former for permisjon og arbeidsgivers plikter i den forbindelse." },
+    { "name": "Permittering", "body": "Bistand ved gjennomføring av permitteringer i henhold til gjeldende regler og frister." },
+    { "name": "Virksomhetsoverdragelse", "body": "Juridisk bistand ved overdragelse av virksomheter og ivaretakelse av ansattes rettigheter i slike prosesser." }
+  ],
+  "cta": {
+    "title": "Trenger du arbeidsrettslig bistand?",
+    "body": "Vi hjelper din virksomhet med alle sider av arbeidsretten. Kontakt oss for en uforpliktende samtale."
+  }
+}

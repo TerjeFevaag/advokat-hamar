@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "Bank, finansiering og forsikring | Advokatfirma Holthe & Co AS",
+    "description": "Advokatfirma Holthe & Co bistår næringsdrivende med bank-, finans- og forsikringsrettslige spørsmål. Kontor i Hamar – tjenester over hele Norge."
+  },
+  "hero": {
+    "tag": "Bank og finansiering",
+    "title": "Juridisk bistand i",
+    "titleEmphasis": "bank og forsikring",
+    "body": "Vi bistår næringsdrivende med tilrettelegging av lånesøknader og forhandlinger med banker og forsikringsselskaper i et komplekst og konkurranseutsatt marked."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Bank, finans og forsikringsrett",
+    "title": "Riktig juridisk støtte i møte med banker og forsikringsselskaper",
+    "paragraphs": [
+      "Bank-, finans- og forsikringsbransjen har et kontinuerlig søkelys på kostnadsreduksjoner, samtidig som bransjen ønsker vekst i et konkurranseutsatt marked. Kompleksiteten i produktene øker, noe som krever riktig kompetanse til rett tid.",
+      "Advokatfirma Holthe & Co bistår med tilretteleggelse av lånesøknader og forhandlinger vis-à-vis banker og forsikringsselskaper. Vi hjelper næringsdrivende å navigere i et komplekst regelverk og sikre at bedriftens interesser ivaretas på best mulig måte.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    { "name": "Lånesøknader", "body": "Bistand ved utarbeidelse og tilretteleggelse av lånesøknader for å styrke bedriftens posisjon overfor banker." },
+    { "name": "Bankforhandlinger", "body": "Forhandlingsbistand vis-à-vis banker ved etablering, refinansiering og restrukturering av låneavtaler." },
+    { "name": "Forsikringskrav", "body": "Bistand ved fremsetting av forsikringskrav og oppfølging overfor forsikringsselskaper for å sikre rettmessig utbetaling." },
+    { "name": "Kredittregler", "body": "Rådgivning om kredittregelverk og de juridiske rammene for lån, sikkerhetsstillelse og kausjonsforhold." },
+    { "name": "Finansieringsavtaler", "body": "Gjennomgang og utforming av finansieringsavtaler som leasing, factoring og andre finansielle instrumenter." },
+    { "name": "Forsikringsoppgjør", "body": "Bistand ved tvist om forsikringsoppgjør og forhandlinger med forsikringsselskaper om erstatningsutbetaling." }
+  ],
+  "cta": {
+    "title": "Trenger du bistand med bank eller forsikring?",
+    "body": "Vi hjelper din bedrift i møte med banker og forsikringsselskaper. Kontakt oss for en uforpliktende samtale."
+  }
+}

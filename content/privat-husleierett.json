@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Husleierett | Advokatfirma Holthe & Co AS",
+    "description": "Advokatfirma Holthe & Co AS bistår både leietakere og utleiere i saker om husleie, leiekontrakter, utkastelse og tvister etter husleieloven."
+  },
+  "hero": {
+    "tag": "Eiendom",
+    "title": "Juridisk bistand innen",
+    "titleEmphasis": "husleierett",
+    "body": "Husleieloven regulerer forholdet mellom leietaker og utleier. Uansett hvilken side du er på, bistår vi deg med rådgivning, forhandlinger og prosedyre ved tvister om husleieforhold."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Husleierett – rådgivning, forhandlinger og prosedyre",
+    "title": "Erfaren bistand for leietakere og utleiere",
+    "paragraphs": [
+      "Husleieloven regulerer forholdet mellom leietakeren og utleier av boliger. Både leietaker og utleier har rettigheter og plikter som følger av loven. Selv om alt ser ut til å være i orden fra begges side, er det i enkelte tilfeller ikke til å unngå at det likevel oppstår uenigheter.",
+      "Advokatfirmaet Holthe & Co bistår både leietakere og utleiere når det gjelder leie og drift av husrom. Vi hjelper med utforming av leiekontrakter, håndtering av tvister og prosedyre dersom saken må bringes inn for husleietvistutvalget eller domstolene.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    {
+      "name": "Overlevering og krav til husrommet",
+      "body": "Husrommet skal ved overleveringen være i avtalt stand og oppfylle lovens minstekrav. Vi avklarer hva som utgjør en mangel og hvilke krav som kan fremmes."
+    },
+    {
+      "name": "Leieprisen og depositum",
+      "body": "Loven setter grenser for størrelsen på depositum og regulerer adgangen til å endre leieprisen. Vi vurderer om vilkårene i leiekontrakten er i tråd med husleieloven."
+    },
+    {
+      "name": "Plikter i leietiden",
+      "body": "Leietaker har plikt til å behandle husrommet forsvarlig og varsle om skader. Vi bistår ved uenigheter om vedlikehold, skader og bruksrettens omfang."
+    },
+    {
+      "name": "Framleie",
+      "body": "Framleie krever som hovedregel utleiers samtykke, og det gjelder egne regler for framleieavtaler. Vi vurderer om framleie er lovlig og bistår ved utforming av framleieavtale."
+    },
+    {
+      "name": "Leieforholdets varighet",
+      "body": "Leiekontrakter kan inngås på bestemt eller ubestemt tid med ulike regler for oppsigelse. Vi gjennomgår kontrakten og avklarer hvilke rettigheter og plikter som gjelder."
+    },
+    {
+      "name": "Opphør av husleieforhold",
+      "body": "Oppsigelse av leieforhold må skje i samsvar med lovens form- og friskrav. Vi vurderer gyldigheten av oppsigelser og bistår ved tvist om leieforholdets avslutning."
+    },
+    {
+      "name": "Tilbakelevering av husrommet",
+      "body": "Ved tilbakelevering kan det oppstå uenighet om husrommets stand og krav om erstatning. Vi bistår med å avklare partenes ansvar og forhandler om eventuelle krav."
+    },
+    {
+      "name": "Utforming av leiekontrakter",
+      "body": "En gjennomarbeidet leiekontrakt forebygger konflikter og sikrer begge parters interesser. Vi utformer og kvalitetssikrer leiekontrakter i tråd med husleielovens krav."
+    },
+    {
+      "name": "Utkastelse",
+      "body": "Utkastelse av leietaker må skje gjennom namsmyndighetene etter bestemte regler. Vi bistår utleiere med den rettslige prosessen og sørger for at reglene overholdes."
+    },
+    {
+      "name": "Inndrivelse av ubetalt leie",
+      "body": "Manglende leiebetaling kan gi grunnlag for heving av leieforholdet og krav om erstatning. Vi bistår med inkasso, rettslige skritt og inndrivelse av utestående leie."
+    },
+    {
+      "name": "Klage til husleietvistutvalget",
+      "body": "Husleietvistutvalget er et rimelig og raskt alternativ til domstolsbehandling i leietvister. Vi bistår med klage, tilsvar og representasjon i saker for utvalget."
+    },
+    {
+      "name": "Prosedyre",
+      "body": "Dersom tvisten ikke løses utenfor retten, bistår vi med prosedyre for tingretten. Advokat Holthe har bred erfaring med husleiesaker og ivaretar dine interesser gjennom hele rettsprosessen."
+    }
+  ],
+  "cta": {
+    "title": "Trenger du hjelp i en husleiesak?",
+    "body": "Vi bistår både leietakere og utleiere med rådgivning, forhandlinger og prosedyre. Ta kontakt for en uforpliktende samtale."
+  }
+}

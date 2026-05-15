@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Erstatningsrett for bedrifter | Advokatfirma Holthe & Co AS",
+    "description": "Advokatfirma Holthe & Co bistår bedrifter med erstatningskrav, forsikringsoppgjør og alle former for erstatningssaker. Kontor i Hamar."
+  },
+  "hero": {
+    "tag": "Erstatningsrett",
+    "title": "Juridisk bistand i",
+    "titleEmphasis": "erstatningssaker",
+    "body": "Har din bedrift vært utsatt for en skade som burde vært erstattet? Vi har lang erfaring med varierte former for erstatningssaker og bistår deg gjennom hele prosessen."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Erstatning for bedrifter",
+    "title": "Krev erstatning for tap din bedrift er påført",
+    "paragraphs": [
+      "Som bedriftskunde kan det oppstå situasjoner der en annen næringsdrivende eller privatperson kan påføre din bedrift en skade og/eller et tap. Grovt sett er det tre grunnvilkår som må være innfridd: ansvarsgrunnlag, økonomisk tap og årsakssammenheng.",
+      "Advokat Holthe har lang erfaring med varierte former for erstatningssaker og kan bistå din bedrift med en grundig vurdering av saken, forhandlinger med motparten eller forsikringsselskapet, og om nødvendig prosedyre for domstolene.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    { "name": "Ansvarsgrunnlag", "body": "Vurdering av om det foreligger et tilstrekkelig ansvarsgrunnlag – uaktsomhet, objektivt ansvar eller kontraktsansvar." },
+    { "name": "Økonomisk tap", "body": "Bistand ved beregning og dokumentasjon av det økonomiske tapet som kreves erstattet." },
+    { "name": "Årsakssammenheng", "body": "Analyse av årsakssammenhengen mellom den skadevoldende handlingen og det tap bedriften har lidt." },
+    { "name": "Materiell skade", "body": "Erstatningskrav for fysisk skade på eiendom, utstyr og andre materielle verdier." },
+    { "name": "Personskade", "body": "Bistand ved erstatningskrav knyttet til personskader på ansatte eller andre med tilknytning til bedriften." },
+    { "name": "Immateriell skade", "body": "Rådgivning om erstatning for ikke-økonomiske tap som omdømmetap og andre immaterielle skader." },
+    { "name": "Prekontraktuelt ansvar", "body": "Bistand ved erstatningskrav som oppstår som følge av brudd på lojalitetsplikten i kontraktsforhandlinger." },
+    { "name": "Forsikringsoppgjør", "body": "Bistand ved tvist om forsikringsoppgjør og forhandlinger med forsikringsselskaper om erstatningsutbetaling." },
+    { "name": "Foreldelsesregler", "body": "Rådgivning om foreldelsesfrister for erstatningskrav og tiltak for å avbryte foreldelse i tide." },
+    { "name": "Passivitetsregler", "body": "Avklaring av konsekvensene av passivitet fra skadelidtes side og retten til å fremme krav på et senere tidspunkt." }
+  ],
+  "cta": {
+    "title": "Trenger du bistand med et erstatningskrav?",
+    "body": "Vi hjelper deg å vurdere og fremme erstatningskrav. Kontakt oss for en uforpliktende samtale om din sak."
+  }
+}

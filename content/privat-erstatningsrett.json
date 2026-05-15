@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "Erstatningsrett – Personskade og skade | Advokatfirma Holthe & Co AS",
+    "description": "Juridisk bistand ved erstatningskrav etter personskade, bilskade og andre skader. Lang erfaring med erstatningssaker for privatpersoner."
+  },
+  "hero": {
+    "tag": "Arbeid, skatt og trygd",
+    "title": "Har du vært utsatt for",
+    "titleEmphasis": "en skade?",
+    "body": "Er du blitt påført en skade eller et tap? Advokat Holthe har lang erfaring med varierte former for erstatningssaker og hjelper deg å vurdere og fremme ditt krav."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Vår bistand",
+    "title": "Juridisk hjelp ved erstatningskrav",
+    "paragraphs": [
+      "I mange av livets situasjoner kan det oppstå utfordringer for deg som privatperson hvis du er blitt påført en skade og/eller et tap. Det kan enten være snakk om en materiell skade, som når bilen din blir påkjørt, eller en personskade som gir varige men og redusert inntektsevne.",
+      "Grovt sett er de tre grunnvilkårene for erstatning: ansvarsgrunnlag, økonomisk tap og årsakssammenheng. Det er nødvendig å dokumentere alle tre for å nå frem med kravet. Advokat Holthe har lang erfaring med varierte former for erstatningssaker og bistår deg i dialogen med motparten og forsikringsselskaper.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    {
+      "name": "Ansvarsgrunnlag",
+      "body": "For å ha krav på erstatning må noen være rettslig ansvarlig for skaden — enten på grunnlag av skyld, objektivt ansvar eller lovbestemt ansvar. Vi vurderer ansvarsgrunnlaget i din konkrete sak."
+    },
+    {
+      "name": "Økonomisk tap",
+      "body": "Erstatning forutsetter et dokumentert økonomisk tap, herunder tapt inntekt, utgifter til behandling og merutgifter. Vi bistår med å kartlegge og dokumentere det fulle omfanget av ditt tap."
+    },
+    {
+      "name": "Årsakssammenheng",
+      "body": "Det må foreligge årsakssammenheng mellom den ansvarsbetingende handlingen og det oppståtte tapet. Vi vurderer årsakssammenhengen og innhenter nødvendig medisinsk og teknisk dokumentasjon."
+    },
+    {
+      "name": "Personskade",
+      "body": "Personskader kan gi rett til erstatning for tapt inntekt, ménerstatning og utgifter til behandling. Vi representerer deg overfor ansvarlig part og forsikringsselskap for å sikre full kompensasjon."
+    },
+    {
+      "name": "Bilskade/objektivt ansvar",
+      "body": "Motorvogneiere er objektivt ansvarlige for skader som bilen forvolder. Vi bistår deg med krav mot ansvarlig bilansvarsforsikring, uavhengig av om sjåføren var skyld i ulykken."
+    },
+    {
+      "name": "Medisinsk invaliditet",
+      "body": "Medisinsk invaliditetsgrad er sentralt for beregning av ménerstatning og uføreytelser. Vi innhenter spesialistvurderinger og sikrer at invaliditetsgraden er korrekt fastsatt."
+    },
+    {
+      "name": "Forsikringsoppgjør",
+      "body": "Forsikringsselskapenes tilbud er ikke alltid i samsvar med ditt reelle tap. Vi gjennomgår oppgjørstilbudet og forhandler eller prosederer for å sikre at du får det du har krav på."
+    },
+    {
+      "name": "Erstatningsberegning",
+      "body": "Erstatningsberegningen er kompleks og avhenger av skadeomfang, alder, inntekt og fremtidig tap. Vi beregner det fulle erstatningskravet basert på gjeldende rettspraksis."
+    },
+    {
+      "name": "Foreldelse",
+      "body": "Erstatningskrav foreldes etter bestemte frister, og foreldelse kan medføre tap av kravet. Vi vurderer foreldelsesspørsmålet og bistår med å avbryte foreldelsesfristen til rett tid."
+    }
+  ],
+  "cta": {
+    "title": "Har du et erstatningskrav?",
+    "body": "Ta kontakt for en uforpliktende vurdering av saken din. Vi vurderer om du har krav på erstatning og hjelper deg å fremme det på riktig måte."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "title": "Varemerker | Advokatfirma Holthe & Co AS",
+    "description": "Advokatfirma Holthe & Co bistår med registrering av varemerker, immaterielle rettigheter og patenter. Juridisk bistand ved varemerkerettslige konflikter."
+  },
+  "hero": {
+    "tag": "Varemerker",
+    "title": "Juridisk bistand i",
+    "titleEmphasis": "varemerkerett",
+    "body": "Har du funnet et flott navn eller en fin logo for din bedrift? Vi hjelper deg med registrering og vern av varemerker, og bistår ved varemerkerettslige konflikter."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Immaterielle rettigheter",
+    "title": "Sikre og håndhev dine varemerkerettigheter",
+    "paragraphs": [
+      "Har du funnet et flott navn eller en fin logo for din bedrift? Da kan det være lurt å få varemerket registrert. Mange tenker ikke på at et domenenavn på Internett kan krenke varemerker, og dette kan få alvorlige konsekvenser for virksomheten.",
+      "Advokatfirmaet Holthe & Co kan bistå deg med rådgivning og registrering av varemerker, og yter også juridisk bistand hvis det allerede har oppstått en varemerkerettslig konflikt. Vi har erfaring med hele prosessen fra søknadsstadiet til håndheving av etablerte rettigheter.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    { "name": "Utforming av varemerkesøknader", "body": "Profesjonell bistand ved utforming og innlevering av varemerkesøknader som gir deg det beste vernet." },
+    { "name": "Registrering av varemerke", "body": "Gjennomføring av hele registreringsprosessen hos Patentstyret, inkludert oppfølging av søknaden." },
+    { "name": "Kontakt med Patentstyret", "body": "Bistand i dialogen med Patentstyret, inkludert svar på forespørsler og behandling av innvendinger." },
+    { "name": "Immaterielle rettigheter og patenter", "body": "Rådgivning om det samlede bildet av immaterielle rettigheter, inkludert patentbeskyttelse for oppfinnelser." },
+    { "name": "Krenkelse av et varemerke", "body": "Bistand ved konstatering og håndheving av krenkelser av ditt registrerte eller innarbeidede varemerke." },
+    { "name": "Etablering av vern", "body": "Rådgivning om strategier for å etablere et sterkt og bredt varemerkerettslig vern for din bedrift." },
+    { "name": "Vedlikehold av vern", "body": "Bistand ved fornyelse av varemerkeregistreringer og løpende overvåkning av dine rettigheter." },
+    { "name": "Innsigelser mot registrering", "body": "Bistand ved fremsetting av innsigelser mot andres varemerkesøknader som kolliderer med dine rettigheter." },
+    { "name": "Innsynsrett", "body": "Rådgivning om retten til innsyn i Patentstyrets dokumenter og registre." },
+    { "name": "Overdragelse og lisens", "body": "Utforming av avtaler om overdragelse eller lisensiering av varemerkerettigheter til andre." },
+    { "name": "Klage", "body": "Bistand ved klage på Patentstyrets avgjørelser til Klagenemnda for industrielle rettigheter (KFIR)." },
+    { "name": "Søksmål", "body": "Prosedyre for domstolene i saker om varemerkerettigheter, herunder midlertidige forføyninger." },
+    { "name": "Dialog med myndigheter", "body": "Bistand i kommunikasjon med norske og internasjonale myndigheter i varemerkerettslige spørsmål." },
+    { "name": "Søknad om EU-varemerke", "body": "Bistand ved registrering av EU-varemerker via EUIPO for vern i hele EØS-området." }
+  ],
+  "cta": {
+    "title": "Trenger du bistand med varemerker?",
+    "body": "Vi hjelper deg med registrering og vern av varemerker – fra søknad til håndheving. Kontakt oss for en uforpliktende samtale."
+  }
+}

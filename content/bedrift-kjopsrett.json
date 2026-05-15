@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Kjøpsrett | Advokatfirma Holthe & Co AS",
+    "description": "Advokatfirma Holthe & Co bistår næringsdrivende med kjøpsrett, kontrakter og næringskjøp – nasjonalt og internasjonalt. Kontor i Hamar."
+  },
+  "hero": {
+    "tag": "Kjøpsrett",
+    "title": "Juridisk bistand i",
+    "titleEmphasis": "næringskjøp",
+    "body": "Næringsdrivende står ofte overfor utfordringer ved kjøp av anleggsmidler og varer. Vi har lang erfaring i forhandlinger og kontraktsutforming, både nasjonalt og internasjonalt."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Kontrakter og næringskjøp",
+    "title": "God kontraktsutforming forebygger konflikter",
+    "paragraphs": [
+      "Næringsdrivende står ofte overfor utfordringer i forbindelse med kjøp av anleggsmidler eller driftsmidler og ved kjøp av varer og tjenester. Verdien av kontrakten viser seg først når det oppstår en konflikt, og det er derfor viktig å gjøre forarbeidet godt for å unngå problemer.",
+      "Advokatfirmaet Holthe & Co har lang erfaring i forhandlinger og kontraktsutforming, både nasjonalt og internasjonalt. Vi bistår virksomheter gjennom hele prosessen – fra forhandlingsstadiet til eventuell konfliktløsning – og sørger for at dine interesser ivaretas på en best mulig måte.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    { "name": "Avtaletolkning", "body": "Bistand ved tolkning av kontrakter og avtaler der partene er uenige om innhold eller rekkevidde." },
+    { "name": "Prekontraktuelt ansvar", "body": "Rådgivning om ansvar og plikter som kan oppstå i forhandlingsfasen før en avtale er inngått." },
+    { "name": "Offentlige anskaffelser", "body": "Bistand ved deltakelse i offentlige anbudskonkurranser og håndtering av regelverket for offentlige anskaffelser." },
+    { "name": "Kontraktsrett", "body": "Utforming og gjennomgang av kommersielle kontrakter som ivaretar din bedrifts interesser og minimerer risiko." },
+    { "name": "Kontrakter tilknyttet norske standarder", "body": "Rådgivning om bruk av NS-standardkontrakter og tilpasninger til den konkrete situasjonen." },
+    { "name": "Internasjonale kontrakter", "body": "Bistand ved utforming og forhandling av kontrakter med internasjonale parter, inkludert valg av verneting og lovvalg." },
+    { "name": "Skatt og mva-problematikk", "body": "Rådgivning om skattemessige og merverdiavgiftsmessige konsekvenser av kjøps- og salgsavtaler." },
+    { "name": "Entrepriser", "body": "Juridisk bistand ved inngåelse og oppfølging av entreprisekontrakter mellom byggherre og entreprenør." },
+    { "name": "Underentrepriser", "body": "Bistand ved utforming og håndheving av underentreprisekontrakter og forholdet mellom hoved- og underentreprenør." },
+    { "name": "Kontraktsbrudd", "body": "Rådgivning og bistand ved mislighold av kontrakter, inkludert heving, prisavslag og erstatningskrav." }
+  ],
+  "cta": {
+    "title": "Trenger du bistand med kjøpsrett?",
+    "body": "Vi hjelper deg med kontrakter og næringskjøp – nasjonalt og internasjonalt. Kontakt oss for en uforpliktende samtale."
+  }
+}

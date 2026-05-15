@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "Selskapsrett | Advokatfirma Holthe & Co AS",
+    "description": "Advokatfirma Holthe & Co bistår med selskapsrettslig rådgivning, selskapstransaksjoner, styrearbeid og aksjonærspørsmål for næringsdrivende over hele Norge."
+  },
+  "hero": {
+    "tag": "Selskapsrett",
+    "title": "Juridisk bistand i",
+    "titleEmphasis": "selskapsrett",
+    "body": "Den selskapsrettslige organiseringen av en virksomhet får flere rettslige og praktiske konsekvenser. Vi har den ekspertisen som kreves for å yte god og riktig selskapsjuridisk bistand."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Selskapsjuridisk bistand",
+    "title": "Riktig organisering gir tryggere drift",
+    "paragraphs": [
+      "Den selskapsrettslige organiseringen av en virksomhet får flere rettslige og praktiske konsekvenser, enten det er i relasjon til innehaver, aksjonærer, kreditor, myndighet eller andre. En god selskapsstruktur legger grunnlaget for forutsigbar og trygg næringsvirksomhet.",
+      "Advokatfirma Holthe & Co har den ekspertisen som kreves for å yte god og riktig selskapsjuridisk bistand. Advokat Holthe har gjennom aktive styreverv førstehånds kunnskap om praktisk styrearbeid, noe som gir en unik innsikt i de utfordringer styrer og ledelse møter i hverdagen.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    { "name": "Stiftelse av selskap", "body": "Bistand ved valg av selskapsform og gjennomføring av stiftelsesprosessen i henhold til gjeldende lovkrav." },
+    { "name": "Forvaltning", "body": "Rådgivning om løpende selskapsforvaltning, inkludert vedtektsendringer og beslutningsprosesser." },
+    { "name": "Styrearbeid", "body": "Praktisk og juridisk veiledning for styremedlemmer om ansvar, plikter og god styresed." },
+    { "name": "Aksjonær", "body": "Bistand ved aksjonærkonflikter, aksjonærrettigheter og utøvelse av eierrettigheter i selskapet." },
+    { "name": "Oppkjøp", "body": "Juridisk bistand ved kjøp og salg av selskaper, inkludert due diligence og transaksjonsstrukturering." },
+    { "name": "Fisjon", "body": "Rådgivning og gjennomføring av fisjoner for å dele opp selskaper på en selskapsrettslig og skattemessig optimal måte." },
+    { "name": "Fusjon", "body": "Bistand ved sammenslåing av selskaper, inkludert planlegging, dokumentasjon og registrering." },
+    { "name": "Emisjon", "body": "Rådgivning ved kapitalforhøyelse gjennom emisjon, herunder fortrinnsrettsemisjoner og rettet emisjon." },
+    { "name": "Kapitalnedsettelse", "body": "Juridisk bistand ved nedsettelse av aksjekapitalen i henhold til aksjelovens regler." },
+    { "name": "Utbytte", "body": "Rådgivning om lovlige utbytteutdelinger og de selskapsrettslige og skattemessige kravene som gjelder." },
+    { "name": "Konsernbidrag", "body": "Bistand ved overføring av konsernbidrag mellom selskaper i et konsern innenfor gjeldende regelverk." },
+    { "name": "Selskapsavtale", "body": "Utforming og gjennomgang av selskapsavtaler som regulerer forholdet mellom deltakerne i et selskap." },
+    { "name": "Selskapsmøte", "body": "Bistand ved innkalling, gjennomføring og protokollering av selskapsmøter i henhold til lovkrav." },
+    { "name": "Aksjonæravtale", "body": "Utarbeidelse av aksjonæravtaler som regulerer aksjonærenes rettigheter og plikter overfor hverandre." },
+    { "name": "Daglig leder", "body": "Rådgivning om daglig leders ansvar, fullmakter og arbeidsforhold i selskapet." },
+    { "name": "Granskning", "body": "Bistand ved begjæring om eller gjennomføring av granskning av selskapets forhold." },
+    { "name": "Oppløsning", "body": "Juridisk veiledning ved frivillig oppløsning av selskaper i samsvar med lovens regler." },
+    { "name": "Avvikling", "body": "Bistand gjennom avviklingsprosessen, inkludert kreditorvarsling og fordeling av gjenværende midler." },
+    { "name": "Generalforsamling", "body": "Rådgivning og bistand ved innkalling og gjennomføring av ordinære og ekstraordinære generalforsamlinger." },
+    { "name": "Revisor/Revisoransvar", "body": "Bistand ved spørsmål om revisors ansvar og plikter overfor selskapet og dets aksjonærer." },
+    { "name": "Styre/Styreansvar", "body": "Rådgivning om styremedlemmers erstatningsansvar og vilkårene for å holde styremedlemmer personlig ansvarlige." }
+  ],
+  "cta": {
+    "title": "Trenger du selskapsrettslig bistand?",
+    "body": "Vi hjelper deg med alle sider av selskapsretten – fra stiftelse til avvikling. Kontakt oss for en uforpliktende samtale."
+  }
+}

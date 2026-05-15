@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "title": "Naborett | Advokatfirma Holthe & Co AS",
+    "description": "Advokatfirma Holthe & Co AS bistår med rådgivning, forhandlinger og prosedyre i nabotvister. Advokat Holthe har god kompetanse og erfaring innenfor naborett."
+  },
+  "hero": {
+    "tag": "Eiendom",
+    "title": "Juridisk bistand innen",
+    "titleEmphasis": "naborett",
+    "body": "Har det oppstått en tvist med naboen? Vi forsøker alltid å løse saken på et tidlig stadium — gjennom forhandlinger og minnelige løsninger — men er fullt beredt til å prosedere saken dersom det er nødvendig."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Naborett — rådgiving, juridisk bistand og prosedyre",
+    "title": "Erfaren hjelp i nabokonflikter og nabotvister",
+    "paragraphs": [
+      "Har det oppstått en tvist med naboen? Er det vanskelig å bli enige? Ofte vil loven si noe om hvem som har rett. Andre ganger må det forhandlingsmøter til slik at man kan komme frem til en minnelig løsning. Av og til er det ikke til å unngå at naboer møter hverandre i rettssalen.",
+      "Advokatfirma Holthe & Co forsøker alltid å løse saken på et så tidlig tidspunkt som mulig. Advokat Holthe har god kompetanse og erfaring innenfor naborett og har håndtert et bredt spekter av nabotvister gjennom mange år.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    {
+      "name": "Garasjeplasser",
+      "body": "Tvister om retten til garasjeplasser mellom naboer eller i sameier kan være kompliserte. Vi avklarer rettsgrunnlaget og bistår med å finne en varig løsning."
+    },
+    {
+      "name": "Biloppstillingsplasser",
+      "body": "Uenigheter om bruk og eierskap til biloppstillingsplasser er en vanlig kilde til nabokonflikter. Vi vurderer avtalegrunnlag og lovhjemmel og bistår i forhandlinger."
+    },
+    {
+      "name": "Kjøreatkomst til eiendom",
+      "body": "Rett til veirett og kjøreatkomst over naboens eiendom kan gi opphav til alvorlige tvister. Vi avklarer om det foreligger vegrett og bistår ved håndhevelse av denne."
+    },
+    {
+      "name": "Vedlikeholdsansvar for felles vei",
+      "body": "Naboer med felles vei kan ha ulike oppfatninger av vedlikeholdsansvaret. Vi gjennomgår avtaler og lovgrunnlag og bistår med å fordele ansvar på en rettferdig måte."
+    },
+    {
+      "name": "Snømåking",
+      "body": "Ansvar for brøyting og snømåking av felles arealer og veier kan skape konflikter mellom naboer. Vi avklarer plikter og rettigheter og hjelper med å inngå tydelige avtaler."
+    },
+    {
+      "name": "Gjerder",
+      "body": "Grannegjerdeloven regulerer retten til å sette opp og kravet om å holde gjerder. Vi bistår med å avklare plikt til og rett til gjerdehold mellom naboeiendommer."
+    },
+    {
+      "name": "Grenser",
+      "body": "Uklare eiendomsgrenser kan gi opphav til langvarige nabokonflikter. Vi bistår med grensefastsettelse, jordskiftesak og juridisk rådgivning om grenserettslige spørsmål."
+    },
+    {
+      "name": "Lukt- og støyplager",
+      "body": "Naboloven forbyr tiltak som påfører naboer urimelige lukt- eller støyulemper. Vi vurderer om terskelen for naborettslig erstatning er overskredet og bistår med krav."
+    },
+    {
+      "name": "Felling av trær og busker",
+      "body": "Trær og busker som strekker seg over nabogrensen kan skape uenighet om felling og ansvar. Vi avklarer rettigheter etter naboloven og bistår i tvister om vegetasjon."
+    },
+    {
+      "name": "Byggeaktivitet",
+      "body": "Byggearbeider på naboeiendommen kan medføre støy, rystelser og ulemper for omliggende eiendommer. Vi vurderer naborettslige krav og bistår med å fremme erstatningskrav."
+    },
+    {
+      "name": "Husdyrhold",
+      "body": "Husdyr hos naboen kan skape ulemper i form av støy, lukt og skader på naboeiendommen. Vi bistår med juridisk rådgivning og håndhevelse av krav etter naboloven."
+    }
+  ],
+  "cta": {
+    "title": "Har du en tvist med naboen?",
+    "body": "Ta kontakt med oss for en uforpliktende samtale. Vi vurderer saken din og finner den beste veien videre — enten gjennom forhandlinger eller i retten."
+  }
+}

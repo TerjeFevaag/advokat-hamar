@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "title": "Mangler ved fast eiendom | Advokatfirma Holthe & Co AS",
+    "description": "Bistår kjøpere og selgere av fast eiendom ved mangler, prisavslag, heving og tvist. Lang erfaring med eiendomssaker i næring og bolig."
+  },
+  "hero": {
+    "tag": "Eiendom – Næringseiendom",
+    "title": "Mangler ved",
+    "titleEmphasis": "fast eiendom",
+    "body": "Har du kjøpt en eiendom det er noe galt med, eller har du som selger fått et uberettiget krav mot deg? Vi bistår både kjøpere og selgere i tvister om mangler ved fast eiendom."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Vår bistand",
+    "title": "Juridisk hjelp ved mangler i eiendomskjøp",
+    "paragraphs": [
+      "Mangler ved boliger og annen fast eiendom fører ofte til tvister som må behandles i retten. Enten du har kjøpt en næringseiendom med skjulte feil, eller du som selger opplever uberettigede krav fra kjøper, er det avgjørende å ha kompetent juridisk bistand tidlig i prosessen.",
+      "Regelverket for mangler ved fast eiendom er komplekst og avhenger av hvilken lov som gjelder — avhendingsloven for brukte eiendommer, bustadoppføringslova for nybygg, eller kjøpsloven i næringsforhold. Vi hjelper deg å navigere rettigheter og plikter etter gjeldende lovgivning.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    {
+      "name": "Reklamasjon",
+      "body": "For å beholde kravet ditt ved mangler må du reklamere innen lovens frister. Vi vurderer om reklamasjonen er rettidig og hjelper deg med å utforme en juridisk holdbar reklamasjon overfor selger eller forsikringsselskap."
+    },
+    {
+      "name": "Prisavslag",
+      "body": "Dersom en mangel ikke lar seg utbedre, eller utbedring ikke skjer innen rimelig tid, kan kjøper ha krav på prisavslag. Vi beregner og fremmer kravet på dine vegne."
+    },
+    {
+      "name": "Heving",
+      "body": "Ved vesentlige mangler kan kjøper ha rett til å heve kjøpet og kreve kjøpesummen tilbake. Vi vurderer om vilkårene for heving er oppfylt og prosederer saken dersom partene ikke blir enige."
+    },
+    {
+      "name": "Selgers opplysningsplikt",
+      "body": "Selger plikter å opplyse om alle kjente forhold som kan ha betydning for kjøper. Brudd på opplysningsplikten kan utgjøre en mangel selv om eiendommen for øvrig er solgt «som den er»."
+    },
+    {
+      "name": "Kjøpers undersøkelsesplikt",
+      "body": "Kjøper kan ikke påberope seg forhold han burde ha oppdaget ved en forsvarlig undersøkelse. Vi vurderer om undersøkelsesplikten er oppfylt og hvilken betydning dette har for mangelsansvaret."
+    },
+    {
+      "name": "Erstatning",
+      "body": "I tillegg til prisavslag eller heving kan kjøper ha krav på erstatning for det tap mangelen har medført. Vi dokumenterer og fremmer erstatningskravet overfor selger eller ansvarlig forsikringsselskap."
+    },
+    {
+      "name": "Forsinket ferdigstillelse",
+      "body": "Ved nybygg og rehabiliteringsprosjekter kan forsinkelse gi rett til dagmulkt og erstatning. Vi bistår deg med å fastslå om forsinkelse foreligger og kreve kompensasjon."
+    },
+    {
+      "name": "Tvist med utbygger",
+      "body": "Konflikter med utbygger om kvalitet, forsinkelse eller kontraktsbrudd krever spesialkompetanse. Vi representerer deg i forhandlinger og rettslige prosesser mot utbygger."
+    },
+    {
+      "name": "Kjøpers tilbakeholdsrett",
+      "body": "Kjøper kan under visse vilkår holde tilbake en forholdsmessig del av kjøpesummen som sikkerhet for mangels­kravet. Vi vurderer om tilbakeholdsretten kan benyttes i din situasjon."
+    },
+    {
+      "name": "Forsikring",
+      "body": "Mange eiendomskjøp er dekket av eierskifteforsikring eller boligkjøperforsikring. Vi vurderer dekningsomfanget og representerer deg i dialog og tvist med forsikringsselskapet."
+    }
+  ],
+  "cta": {
+    "title": "Trenger du bistand i en eiendomstvist?",
+    "body": "Ta kontakt for en uforpliktende vurdering av din sak. Vi har lang erfaring med mangelssaker og representerer deg overfor selger, utbygger og forsikringsselskap."
+  }
+}

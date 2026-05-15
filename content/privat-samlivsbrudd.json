@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "title": "Samlivsbrudd | Advokatfirma Holthe & Co AS",
+    "description": "Advokatfirma Holthe & Co AS bistår ved det økonomiske oppgjøret etter separasjon og skilsmisse. Vi søker minnelige løsninger og ivaretar dine interesser."
+  },
+  "hero": {
+    "tag": "Familie og arv",
+    "title": "Juridisk bistand ved",
+    "titleEmphasis": "samlivsbrudd",
+    "body": "Et samlivsbrudd kan være både personlig krevende og juridisk komplisert. Vi bistår deg gjennom separasjon, skilsmisse og det økonomiske oppgjøret — og søker alltid den beste løsningen for deg."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Familie og arv — samlivsbrudd",
+    "title": "Trygg juridisk hjelp gjennom oppgjøret etter samlivsbrudd",
+    "paragraphs": [
+      "Advokatfirma Holthe & Co har bred erfaring i å bistå ved det økonomiske oppgjøret etter et samlivsbrudd. Vi kan også bistå i selve prosessen med å ta ut separasjon og gjennomføre skilsmisse. Gjennom forhandlinger og møter forsøker vi først og fremst å oppnå en minnelig løsning når det gjelder den økonomiske fordelingen.",
+      "Advokatfirma Holthe & Co ser helheten og forsøker å løse problemstillingene på best mulig måte for klienten. Det er forskjellige regler som gjelder for parter som har vært samboere i forhold til parter som har vært gift.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    {
+      "name": "Fordeling av fast eiendom",
+      "body": "Felles bolig er ofte den største eiendelen ved et samlivsbrudd. Vi bistår med juridisk avklaring av hvem som har rett til å overta boligen og til hvilken pris."
+    },
+    {
+      "name": "Fordeling av innbo",
+      "body": "Fordeling av innbo og løsøre kan skape uenigheter selv om verdiene er beskjedne. Vi hjelper deg med å finne en rettferdig og praktisk løsning."
+    },
+    {
+      "name": "Ektepakt",
+      "body": "En ektepakt kan regulere hva som er særeie og hva som inngår i felleseiet. Vi utformer og gjennomgår ektepakter som sikrer begge parters interesser."
+    },
+    {
+      "name": "Gjeld",
+      "body": "Felles gjeld må fordeles mellom partene ved et samlivsbrudd. Vi avklarer ansvarsforholdet og forhandler frem løsninger som er juridisk holdbare."
+    },
+    {
+      "name": "Arv",
+      "body": "Arv som en av partene har mottatt, kan ha krav på skjevdeling utenfor felleseiet. Vi kartlegger arvemidler og sørger for at dine rettigheter ivaretas i oppgjøret."
+    },
+    {
+      "name": "Midler fra før ekteskapet",
+      "body": "Verdier som ble brakt inn i forholdet kan under visse vilkår kreves holdt utenfor likedeling. Vi dokumenterer og fremmer skjevdelingskrav på dine vegne."
+    },
+    {
+      "name": "Skjevdelingskrav",
+      "body": "Skjevdelingsreglene gir rett til å holde visse verdier utenfor likedelingen ved skilsmisse. Vi vurderer grunnlaget for skjevdelingskrav og fremmer disse overfor motparten."
+    },
+    {
+      "name": "Underholdsbidrag",
+      "body": "I noen tilfeller kan en ektefelle ha krav på underholdsbidrag etter samlivsbruddet. Vi vurderer om vilkårene er oppfylt og bistår i forhandlinger om bidragets størrelse og varighet."
+    },
+    {
+      "name": "Fast eiendom i sameie",
+      "body": "Dersom partene eier fast eiendom i sameie uten å bli enige om overtakelse, kan sameiet kreves oppløst. Vi bistår med sameiespørsmål og sikrer en lovlig avslutning."
+    },
+    {
+      "name": "Innbo i sameie",
+      "body": "Innbo som er ervervet i fellesskap kan gi opphav til sameietvister. Vi hjelper deg med å avklare eierforhold og løse uenigheter om fordeling."
+    }
+  ],
+  "cta": {
+    "title": "Trenger du hjelp ved samlivsbrudd?",
+    "body": "Vi bistår deg gjennom hele prosessen med separasjon, skilsmisse og økonomisk oppgjør. Ta kontakt for en uforpliktende samtale."
+  }
+}

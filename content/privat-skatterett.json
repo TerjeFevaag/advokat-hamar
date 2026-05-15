@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Skatterett – Privatpersoner | Advokatfirma Holthe & Co AS",
+    "description": "Juridisk bistand i skatterett for privatpersoner. Skatteplanlegging, klage på skattevedtak, bokettersyn og dialog med Skatteetaten."
+  },
+  "hero": {
+    "tag": "Arbeid, skatt og trygd",
+    "title": "Juridisk bistand i",
+    "titleEmphasis": "skatterett",
+    "body": "Betaler du riktig skatt? Har du fått henvendelse fra Skatteetaten? Vi har en advokat med spesialfag i skatterett og bakgrunn fra Skatteetaten som kan bistå deg."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Vår bistand",
+    "title": "Advokat med spesialfag i skatterett",
+    "paragraphs": [
+      "Mange opplever skatt og beskatning som en utfordring og et uhåndterlig skjemavelde. Det er en realitet at mengden klager til Skatteetaten har økt, og endringen i Skatteetatens organisering har ført til uforholdsmessig lang saksbehandlingstid — noe som gjør det enda viktigere å ha riktig juridisk hjelp.",
+      "Advokatfirma Holthe & Co har en advokat med spesialfag i skatterett og bakgrunn fra Skatteetaten. Denne kombinasjonen gir oss særlig god innsikt i hvordan Skatteetaten arbeider og hvilke argumenter som treffer best i klagesaker og andre henvendelser.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    {
+      "name": "Skatteplanlegging",
+      "body": "Lovlig skatteplanlegging handler om å tilpasse disposisjoner slik at skattebelastningen reduseres innenfor lovens rammer. Vi hjelper deg å finne løsninger som gir optimal skattesituasjon."
+    },
+    {
+      "name": "Skattemelding/selvangivelse",
+      "body": "Feil i skattemeldingen kan føre til tilleggsskatt og økt risiko for bokettersyn. Vi gjennomgår og kvalitetssikrer skattemeldingen din og sikrer at alle fradrag er korrekt ført."
+    },
+    {
+      "name": "Skatteklage",
+      "body": "Dersom du mener Skatteetaten har fattet et feil vedtak, kan du klage. Vi vurderer klageadgangen, utformer klagen og representerer deg gjennom hele klagebehandlingen."
+    },
+    {
+      "name": "Bokettersyn",
+      "body": "Et bokettersyn kan være krevende og tidkrevende. Vi bistår deg under hele prosessen, kommuniserer med Skatteetaten på dine vegne og sikrer at dine rettigheter ivaretas."
+    },
+    {
+      "name": "Fradragsmuligheter",
+      "body": "Det finnes mange fradragsmuligheter som privatpersoner ikke er klar over. Vi kartlegger hvilke fradrag du har krav på og sørger for at disse benyttes."
+    },
+    {
+      "name": "Salg og skatteplikt",
+      "body": "Salg av bolig, hytte, aksjer og andre verdier kan utløse skatteplikt. Vi vurderer skattekonsekvensene og planlegger transaksjonen for å minimere skattebelastningen."
+    },
+    {
+      "name": "Dialog med Skatteetaten",
+      "body": "Henvendelser fra Skatteetaten bør følges opp raskt og korrekt. Vi håndterer all kommunikasjon med Skatteetaten på dine vegne og sørger for at svarene er juridisk holdbare."
+    }
+  ],
+  "cta": {
+    "title": "Trenger du hjelp med skattesaker?",
+    "body": "Ta kontakt for en uforpliktende vurdering av din skattesituasjon. Vi har spesialkompetanse i skatterett og bakgrunn fra Skatteetaten."
+  }
+}

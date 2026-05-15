@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "title": "Skatt for næringsdrivende | Advokatfirma Holthe & Co AS",
+    "description": "Advokatfirma Holthe & Co bistår næringsdrivende med bokettersyn, bedriftsskatt, merverdiavgift og skatterettslig rådgivning. Kontor i Hamar."
+  },
+  "hero": {
+    "tag": "Skatt for næringsdrivende",
+    "title": "Juridisk bistand i",
+    "titleEmphasis": "næringsskatt",
+    "body": "Har du hatt bokettersyn, eller venter du bokettersyn? Vi bistår næringsdrivende med spesialfag i skatterett og bakgrunn fra Skatteetaten."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Skatterett for bedrifter",
+    "title": "Riktig kompetanse for næringsdrivendes skatterettslige utfordringer",
+    "paragraphs": [
+      "Skattereglene for næringslivet er omfattende og til dels komplekse. Bedriftsskatt, arbeidsgiveravgift og merverdiavgift er bare noen av de utfordringene som krever korrekt kompetanse til riktig tid.",
+      "Advokat Holthe bistår klienter i inn- og utland med spesialfag i skatterett og bakgrunn fra etterforskningsrettet bokettersyn fra Skatteetaten. Denne unike kombinasjonen gir en innsikt i prosessene som er til stor nytte for klienter som er i dialog med skattemyndighetene.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    { "name": "Bedriftsskatt", "body": "Rådgivning om beskatning av selskaper og næringsdrivende, inkludert inntektsbeskatning og fradragsrett." },
+    { "name": "Arbeidsgiveravgift", "body": "Bistand ved beregning og innrapportering av arbeidsgiveravgift, og håndtering av feil og etterberegninger." },
+    { "name": "Merverdiavgift", "body": "Rådgivning om mva-regler for næringsdrivende, inkludert registrering, fradragsrett og avgiftsoppgjør." },
+    { "name": "Bokettersyn", "body": "Bistand under bokettersyn og i etterkant av kontrollen, inkludert vurdering av skattemyndighetenes konklusjoner." },
+    { "name": "Skatteklage", "body": "Utforming og oppfølging av klager på skattevedtak overfor Skatteetaten og Skatteklagenemnda." },
+    { "name": "Ligningsloven", "body": "Rådgivning om skatteforvaltningslovens regler for saksbehandling, klage og domstolsprøving av skattevedtak." },
+    { "name": "Generasjonsskifte", "body": "Skattemessig planlegging ved overføring av virksomhet mellom generasjoner for å minimere skattebyrden." },
+    { "name": "Skatteplanlegging", "body": "Lovlig og strukturert skatteplanlegging for å optimalisere bedriftens skattesituasjon innenfor gjeldende regelverk." },
+    { "name": "Internasjonal skatterett", "body": "Rådgivning om beskatning ved grenseoverskridende transaksjoner, transfer pricing og skatteavtaler." }
+  ],
+  "cta": {
+    "title": "Trenger du bistand med næringsskatt?",
+    "body": "Vi hjelper din bedrift med alle skatterettslige spørsmål – fra bokettersyn til skatteplanlegging. Kontakt oss i dag."
+  }
+}

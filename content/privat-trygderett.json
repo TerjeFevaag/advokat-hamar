@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Trygderett – NAV og ytelser | Advokatfirma Holthe & Co AS",
+    "description": "Juridisk bistand ved avslag på NAV-ytelser, klage og anke til Trygderetten. Lang erfaring med sykepenger, uførepensjon og arbeidsavklaringspenger."
+  },
+  "hero": {
+    "tag": "Arbeid, skatt og trygd",
+    "title": "Juridisk bistand i",
+    "titleEmphasis": "trygderett",
+    "body": "Har du fått avslag på søknad om ytelser fra NAV? Vi foretar en uforpliktende vurdering av vedtaket og hjelper deg å påklage dersom det er grunnlag for det."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Vår bistand",
+    "title": "Hjelp ved avslag fra NAV og trygderettslige spørsmål",
+    "paragraphs": [
+      "Dersom du er syk eller har blitt skadet, vil du som hovedregel ha krav på ytelser fra NAV. NAV har ordninger som kan være aktuelle for deg når det gjelder penger til livsopphold, og det er viktig å kjenne til hvilke rettigheter du har og hva som kreves for å få dem innvilget.",
+      "Mange opplever at NAV fatter vedtak som ikke er korrekte. Saksbehandlingstiden kan være lang og regelverket er komplisert. Vi har lang erfaring med behandling av trygderettslige spørsmål og kan foreta en uforpliktende vurdering av om det anses hensiktsmessig å påklage vedtaket.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    {
+      "name": "Sykepenger",
+      "body": "Sykepenger erstatter inntektsbortfall ved sykdom eller skade. Vi bistår dersom du har fått avslag på sykepenger eller er uenig i beregningen av ytelsen."
+    },
+    {
+      "name": "Arbeidsavklaringspenger",
+      "body": "Arbeidsavklaringspenger (AAP) er en ytelse for personer som trenger avklaring av arbeidsevnen. Vi hjelper deg å søke og klage dersom NAV avslår eller stanser utbetalingen."
+    },
+    {
+      "name": "Uførepensjon",
+      "body": "Uføretrygd innvilges når inntektsevnen er varig nedsatt med minst 50 %. Vi bistår med søknad, klage og anke dersom du mener at vilkårene for uføretrygd er oppfylt."
+    },
+    {
+      "name": "Grunnstønad",
+      "body": "Grunnstønad gis til dekning av løpende ekstrautgifter som skyldes varig sykdom eller skade. Vi vurderer om du har krav på grunnstønad og hjelper deg gjennom søknadsprosessen."
+    },
+    {
+      "name": "Hjelpestønad",
+      "body": "Hjelpestønad ytes til den som på grunn av varig sykdom eller skade har behov for særskilt pleie og tilsyn. Vi bistår med søknad og klage dersom NAV avslår kravet."
+    },
+    {
+      "name": "Klage på NAV-vedtak",
+      "body": "Alle vedtak fra NAV kan påklages innen seks uker. Vi utformer en begrunnet klage og representerer deg i klagesaksbehandlingen for NAV Klageinstans."
+    },
+    {
+      "name": "Anke til Trygderetten",
+      "body": "Dersom NAV opprettholder vedtaket etter klage, kan saken ankes til Trygderetten. Vi har erfaring med ankesaker og ivaretar dine interesser gjennom hele prosessen."
+    }
+  ],
+  "cta": {
+    "title": "Har du fått avslag fra NAV?",
+    "body": "Ta kontakt for en uforpliktende vurdering av vedtaket. Vi vurderer om det er grunnlag for klage og hjelper deg gjennom prosessen."
+  }
+}

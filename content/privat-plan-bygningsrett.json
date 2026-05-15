@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "title": "Plan- og bygningsrett | Advokatfirma Holthe & Co AS",
+    "description": "Advokatfirma Holthe & Co AS bistår privatpersoner med plan- og bygningsrett — fra byggesøknad og dispensasjon til klage og tvist med kommunen."
+  },
+  "hero": {
+    "tag": "Eiendom",
+    "title": "Juridisk bistand innen",
+    "titleEmphasis": "plan- og bygningsrett",
+    "body": "Ønsker du å bygge ut boligen eller planlegger du et nybygg? Vi har lang erfaring med plan- og bygningsrett og veileder deg gjennom hele prosessen — fra planstadiet til ferdigstillelse."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Lang erfaring med plan- og bygningsrett",
+    "title": "Trygg veiledning gjennom plan- og byggeprosessen",
+    "paragraphs": [
+      "Ønsker du å bygge ut boligen eller hytta? Planlegger dere å bygge en ny garasje? Plan- og bygningsetaten er rådgivende og besluttende myndighet i de fleste byggeprosesser. For både private og næringsdrivende kan lover, forskrifter og annet regelverk oppleves som komplisert og uoversiktlig.",
+      "Advokatfirma Holthe & Co har lang erfaring med plan- og bygningsrett og kan veilede deg som privatperson gjennom hele prosessen, allerede fra før planstadiet til ferdigstillelse. Vi bistår også privatpersoner dersom det har oppstått tvist med kommunen.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    {
+      "name": "Byggesøknaden",
+      "body": "En korrekt utformet byggesøknad er avgjørende for å få godkjent tiltaket ditt. Vi bistår med utforming og gjennomgang av søknaden slik at den oppfyller alle formelle krav."
+    },
+    {
+      "name": "Byggetillatelse",
+      "body": "Kommunen behandler søknader om byggetillatelse og kan stille vilkår for godkjenning. Vi vurderer vedtaket og bistår dersom tillatelsen er urimelig begrenset eller avslått."
+    },
+    {
+      "name": "Dispensasjon",
+      "body": "Det er mulig å søke dispensasjon fra plan- og bygningsloven og gjeldende reguleringsplaner. Vi vurderer om vilkårene for dispensasjon er oppfylt og utformer en begrunnet søknad."
+    },
+    {
+      "name": "Utnyttelse av tomten",
+      "body": "Reguleringsplanen setter grenser for hvor mye av tomten som kan bebygges. Vi bistår med å beregne tillatt utnyttelse og vurdere mulighetene for å maksimere byggepotensialet."
+    },
+    {
+      "name": "Nabovarsel",
+      "body": "Nabovarsel er en obligatorisk del av søknadsprosessen som gir naboer anledning til å uttale seg. Vi sørger for korrekt gjennomføring og håndterer eventuelle naboprotester."
+    },
+    {
+      "name": "Behandlingstid",
+      "body": "Kommunen er bundet av lovpålagte frister for behandling av byggesøknader. Vi bistår dersom saksbehandlingstiden overskrides og fremmer krav om fremdrift."
+    },
+    {
+      "name": "Frister",
+      "body": "Plan- og bygningsloven opererer med en rekke frister for søknader, klager og tilsvar. Vi sørger for at alle frister overholdes slik at du ikke mister dine rettigheter."
+    },
+    {
+      "name": "Tvangsmulkt",
+      "body": "Kommunen kan ilegge tvangsmulkt ved ulovlige byggetiltak eller manglende etterlevelse av pålegg. Vi bistår med å imøtegå slike vedtak og fremme klage dersom grunnlaget er uriktig."
+    },
+    {
+      "name": "Bygging i strandsonen",
+      "body": "Bygging i 100-metersbeltet langs sjø og vann er underlagt særlig strenge regler. Vi vurderer mulighetene innenfor regelverket og bistår med søknad om dispensasjon."
+    },
+    {
+      "name": "Reguleringsplan",
+      "body": "Reguleringsplaner bestemmer hva som kan bygges og hvordan arealene kan brukes. Vi bistår med å lese og forstå reguleringsplanene og vurdere mulighetene for å påvirke planprosessen."
+    },
+    {
+      "name": "Klage",
+      "body": "Avslag på byggesøknad og andre vedtak kan påklages til statsforvalteren. Vi vurderer klageadgangen, utformer en begrunnet klage og representerer deg gjennom klagesaken."
+    }
+  ],
+  "cta": {
+    "title": "Trenger du hjelp i en plan- eller byggesak?",
+    "body": "Vi veileder deg gjennom hele byggeprosessen og bistår ved tvister med kommunen. Ta kontakt for en uforpliktende samtale."
+  }
+}

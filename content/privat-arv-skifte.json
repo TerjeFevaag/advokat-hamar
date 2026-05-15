@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "title": "Arv og skifte | Advokatfirma Holthe & Co AS",
+    "description": "Advokatfirma Holthe & Co AS har betydelig kompetanse innen arv, testament og skifte. Vi hjelper deg med arveplanlegging, testamenter og gjennomføring av dødsbo."
+  },
+  "hero": {
+    "tag": "Familie og arv",
+    "title": "Juridisk bistand ved",
+    "titleEmphasis": "arv og skifte",
+    "body": "Arv er noe som på et tidspunkt berører de fleste av oss, og kan reise mange kompliserte spørsmål. Vi hjelper deg med trygg arveplanlegging, testament og gjennomføring av skifteoppgjør."
+  },
+  "stats": [
+    { "num": "25+", "label": "Års erfaring" },
+    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "1992", "label": "Etablert" },
+    { "num": "100%", "label": "Taushetsplikt" }
+  ],
+  "intro": {
+    "tag": "Arv, testament og skifte",
+    "title": "Erfaren juridisk hjelp gjennom hele arveprosessen",
+    "paragraphs": [
+      "Arv er noe som på et tidspunkt berører de fleste av oss, og som kan reise mange kompliserte spørsmål. Det kan være vanskelig å få avklart både hvordan arven skal fordeles og hvordan den praktiske fordelingen skal foregå. Vår erfaring er at mange av de vanskelige spørsmålene kan løses ved god arveplanlegging og opprettelse av testament.",
+      "Advokatfirma Holthe & Co AS har betydelig kompetanse i å vurdere og håndtere ulike arverettslige problemstillinger. Advokat Holthe har prosedert, og vunnet en rekke saker der testamenter er blitt kjent ugyldige slik at korrekt arveoppgjør har blitt resultatet.",
+      "Advokatfirma Holthe & Co AS har kontor i Hamar og utfører advokattjenester over hele Norge."
+    ]
+  },
+  "topics": [
+    {
+      "name": "Arveloven",
+      "body": "Arveloven regulerer hvem som arver og i hvilken rekkefølge når det ikke foreligger testament. Vi gir deg en klar oversikt over dine rettigheter og plikter etter loven."
+    },
+    {
+      "name": "Testament og formkrav",
+      "body": "Et testament må oppfylle strenge formkrav for å være gyldig. Vi sørger for at ditt testament er korrekt utformet og sikrer at din vilje respekteres."
+    },
+    {
+      "name": "Arveplanlegging",
+      "body": "God arveplanlegging kan forebygge konflikter og redusere skatter og avgifter. Vi hjelper deg med å strukturere arven på en måte som ivaretar alle berørte parter."
+    },
+    {
+      "name": "Arveavgift",
+      "body": "Selv om arveavgiften i Norge ble avviklet i 2014, kan arv ha skattemessige konsekvenser for mottaker. Vi gir deg råd om hvordan du kan minimere den skatterettslige byrden."
+    },
+    {
+      "name": "Pliktdelsarv",
+      "body": "Barn har krav på en viss andel av foreldrenes arv uavhengig av testament. Vi avklarer pliktdelsreglene og sikrer at arveoppgjøret er i tråd med lovens krav."
+    },
+    {
+      "name": "Ektefelles arverett",
+      "body": "Ektefeller har lovbestemt arverett og rettigheter til uskiftet bo. Vi hjelper deg med å forstå og ivareta ektefellens arverettslige stilling."
+    },
+    {
+      "name": "Generasjonsskifte",
+      "body": "Overføring av verdier og virksomhet til neste generasjon krever grundig planlegging. Vi bistår med juridisk strukturering av generasjonsskiftet for å unngå konflikter og uønskede skattekonsekvenser."
+    },
+    {
+      "name": "Uskifte",
+      "body": "Lengstlevende ektefelle kan under visse vilkår overta boet uskiftet og utsette arveoppgjøret. Vi forklarer rettigheter og begrensninger knyttet til uskiftet bo."
+    },
+    {
+      "name": "Skifte av dødsbo",
+      "body": "Skifte av dødsbo innebærer fordeling av avdødes eiendeler mellom arvingene. Vi veileder deg gjennom hele skifteprosessen og sikrer en rettferdig og lovlig fordeling."
+    },
+    {
+      "name": "Privat vs. offentlig skifte",
+      "body": "Arvingene kan velge mellom privat skifte og offentlig skifte gjennom tingretten. Vi hjelper deg med å velge den løsningen som passer best og sørger for at prosessen gjennomføres korrekt."
+    }
+  ],
+  "cta": {
+    "title": "Trenger du hjelp med arv eller skifte?",
+    "body": "Ta kontakt med oss for en uforpliktende samtale. Vi har lang erfaring med arverettslige spørsmål og hjelper deg trygt gjennom prosessen."
+  }
+}

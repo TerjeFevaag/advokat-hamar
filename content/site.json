@@ -23,9 +23,30 @@
   },
   "nav": [
     { "label": "Forsiden", "href": "/" },
-    { "label": "Advokat Bedrift", "href": "/advokat-bedrift" },
+    { "label": "Advokat Bedrift", "href": "/advokat-bedrift", "children": [
+      { "label": "Selskapsrett", "href": "/advokat-bedrift/naeringsliv/selskapsrett" },
+      { "label": "Opphavsrett", "href": "/advokat-bedrift/naeringsliv/opphavsrett" },
+      { "label": "Kjøpsrett", "href": "/advokat-bedrift/naeringsliv/kjopsrett" },
+      { "label": "Varemerker", "href": "/advokat-bedrift/naeringsliv/varemerker" },
+      { "label": "Arbeidsrett", "href": "/advokat-bedrift/naeringsliv/arbeidsrett" },
+      { "label": "Erstatningsrett", "href": "/advokat-bedrift/naeringsliv/erstatningsrett" },
+      { "label": "Skatt for næringsdrivende", "href": "/advokat-bedrift/naeringsliv/skatt-naeringsdrivende" },
+      { "label": "Kontrakt og entreprise", "href": "/advokat-bedrift/naeringsliv/kontrakt-og-entreprise" },
+      { "label": "Bank og finansiering", "href": "/advokat-bedrift/naeringsliv/bank-finansiering-og-forsikring" },
+      { "label": "Mangler ved fast eiendom", "href": "/advokat-bedrift/eiendom/mangler-ved-fast-eiendom" },
+      { "label": "Husleierett (næring)", "href": "/advokat-bedrift/eiendom/husleierett" },
+      { "label": "Plan- og bygningsrett (næring)", "href": "/advokat-bedrift/eiendom/plan-og-bygningsrett" }
+    ]},
     { "label": "Advokat Privat", "href": "/advokat-privat", "children": [
-      { "label": "Skatterett", "href": "/advokat-privat/skatterett" }
+      { "label": "Skatterett", "href": "/advokat-privat/arbeid-skatt-og-erstatning/skatterett" },
+      { "label": "Trygderett", "href": "/advokat-privat/arbeid-skatt-og-erstatning/trygderett" },
+      { "label": "Arbeidsrett", "href": "/advokat-privat/arbeid-skatt-og-erstatning/arbeidsrett" },
+      { "label": "Erstatningsrett", "href": "/advokat-privat/arbeid-skatt-og-erstatning/erstatningsrett" },
+      { "label": "Arv og skifte", "href": "/advokat-privat/familie-og-arv/arv-og-skifte" },
+      { "label": "Samlivsbrudd", "href": "/advokat-privat/familie-og-arv/samlivsbrudd" },
+      { "label": "Husleierett", "href": "/advokat-privat/eiendom/husleierett" },
+      { "label": "Naborett", "href": "/advokat-privat/eiendom/naborett" },
+      { "label": "Plan- og bygningsrett", "href": "/advokat-privat/eiendom/plan-og-bygningsrett" }
     ]},
     { "label": "Om Advokatfirmaet", "href": "/om-oss" },
     { "label": "Rettsavgjørelser", "href": "/rettsavgjorelser" },
