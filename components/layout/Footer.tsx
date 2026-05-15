@@ -20,7 +20,9 @@ export default function Footer() {
           <h4 className="text-gold text-xs font-bold uppercase tracking-widest mb-4">Tjenester</h4>
           <div className="flex flex-col gap-1">
             {siteData.footer.columns.tjenester.map((t) => (
-              <span key={t} className="text-white/50 text-sm py-0.5">{t}</span>
+              <Link key={t.href} href={t.href} className="text-white/50 text-sm py-0.5 hover:text-gold transition-colors">
+                {t.label}
+              </Link>
             ))}
           </div>
         </div>

@@ -56,7 +56,14 @@
     "description": "Kvalitet, engasjement og personlig oppfølging er våre kjerneverdier.",
     "member": "Medlem av Advokatforeningen",
     "columns": {
-      "tjenester": ["Selskapsrett", "Skatterett", "Arbeidsrett", "Eiendomsrett", "Arv og Skifte", "Kontrakt & Entreprise"],
+      "tjenester": [
+        { "label": "Selskapsrett", "href": "/advokat-bedrift/naeringsliv/selskapsrett" },
+        { "label": "Skatterett", "href": "/advokat-privat/skatterett" },
+        { "label": "Arbeidsrett", "href": "/advokat-bedrift/naeringsliv/arbeidsrett" },
+        { "label": "Eiendomsrett", "href": "/advokat-bedrift/eiendom/mangler-ved-fast-eiendom" },
+        { "label": "Arv og Skifte", "href": "/advokat-privat/familie-og-arv/arv-og-skifte" },
+        { "label": "Kontrakt & Entreprise", "href": "/advokat-bedrift/naeringsliv/kontrakt-og-entreprise" }
+      ],
       "lenker": [
         { "label": "Om oss", "href": "/om-oss" },
         { "label": "Kontakt", "href": "/kontakt" },
