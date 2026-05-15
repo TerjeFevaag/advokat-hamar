@@ -1,5 +1,4 @@
 import { NextRequest, NextResponse } from 'next/server'
-import nodemailer from 'nodemailer'
 
 export async function POST(req: NextRequest) {
   const { name, email, phone, message } = await req.json()
@@ -8,31 +7,41 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: 'Missing fields' }, { status: 400 })
   }
 
-  const transporter = nodemailer.createTransport({
-    host: process.env.EMAIL_HOST,
-    port: Number(process.env.EMAIL_PORT) || 587,
-    auth: {
-      user: process.env.EMAIL_USER,
-      pass: process.env.EMAIL_PASS,
-    },
-  })
+  const apiKey = process.env.RESEND_API_KEY
+  if (!apiKey) {
+    console.error('RESEND_API_KEY is not set')
+    return NextResponse.json({ error: 'Server misconfiguration' }, { status: 500 })
+  }
 
   try {
-    await transporter.sendMail({
-      from: `"advh.no kontaktskjema" <${process.env.EMAIL_USER}>`,
-      to: 'kah@advh.no',
-      replyTo: email,
-      subject: `Ny henvendelse fra ${name}`,
-      html: `
-        <h2>Ny henvendelse fra advh.no</h2>
-        <p><strong>Navn:</strong> ${name}</p>
-        <p><strong>E-post:</strong> ${email}</p>
-        <p><strong>Telefon:</strong> ${phone || '–'}</p>
-        <hr/>
-        <p><strong>Melding:</strong></p>
-        <p>${message.replace(/\n/g, '<br/>')}</p>
-      `,
+    const res = await fetch('https://api.resend.com/emails', {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${apiKey}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        from: 'Kontaktskjema advh.no <onboarding@resend.dev>',
+        to: ['kah@advh.no'],
+        reply_to: email,
+        subject: `Ny henvendelse fra ${name}`,
+        html: `
+          <h2>Ny henvendelse fra advh.no</h2>
+          <p><strong>Navn:</strong> ${name}</p>
+          <p><strong>E-post:</strong> ${email}</p>
+          <p><strong>Telefon:</strong> ${phone || '–'}</p>
+          <hr/>
+          <p><strong>Melding:</strong></p>
+          <p>${message.replace(/\n/g, '<br/>')}</p>
+        `,
+      }),
     })
+
+    if (!res.ok) {
+      const error = await res.text()
+      console.error('Resend error:', error)
+      return NextResponse.json({ error: 'Failed to send email' }, { status: 500 })
+    }
   } catch (err) {
     console.error('Email send error:', err)
     return NextResponse.json({ error: 'Failed to send email' }, { status: 500 })
