@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "Alle Tjenester | Advokat Hamar – Holthe & Co AS",
+    "description": "Oversikt over alle juridiske tjenester fra Advokatfirmaet Holthe & Co AS i Hamar. Bistand til bedrifter og privatpersoner innen et bredt spekter av rettsområder."
+  },
+  "hero": {
+    "tag": "Juridiske tjenester",
+    "title": "Alle våre",
+    "titleEmphasis": "tjenester",
+    "body": "Som advokat i Hamar tilbyr Holthe & Co juridisk bistand til bedrifter og privatpersoner innen et bredt spekter av rettsområder. Se oversikten nedenfor og finn den hjelpen du trenger."
+  },
+  "intro": {
+    "tag": "Vår bistand",
+    "title": "Bred juridisk kompetanse — ett sted",
+    "paragraphs": [
+      "Advokatfirmaet Holthe & Co AS tilbyr juridisk bistand innen de fleste rettsområder som er relevante for privatpersoner og næringslivet i Hamar og hele Norge. Vi har over 25 års erfaring og AAA-kredittvurdering.",
+      "Første samtale er alltid gratis og uforpliktende. Ta kontakt, så hjelper vi deg å avklare hva du trenger og hva vi kan gjøre for deg."
+    ]
+  },
+  "naeringsliv": {
+    "tag": "Bedrift og næringsliv",
+    "title": "Tjenester for næringsliv",
+    "categories": [
+      {
+        "title": "Næringsliv",
+        "services": [
+          { "name": "Selskapsrett", "body": "Stiftelse, aksjonæravtaler, fusjoner, fisjoner og alle selskapsrettslige spørsmål.", "href": "/advokat-bedrift/naeringsliv/selskapsrett" },
+          { "name": "Arbeidsrett", "body": "Arbeidsavtaler, oppsigelse, avskjed, permisjoner og arbeidstvister for arbeidsgivere.", "href": "/advokat-bedrift/naeringsliv/arbeidsrett" },
+          { "name": "Kontrakt og entreprise", "body": "Kontraktsutforming, entrepriserett og konfliktløsning for entreprenører og håndverksbedrifter.", "href": "/advokat-bedrift/naeringsliv/kontrakt-og-entreprise" },
+          { "name": "Skatt for næringsdrivende", "body": "Bokettersyn, bedriftsskatt, skatteklager og skatteplanlegging for næringsdrivende.", "href": "/advokat-bedrift/naeringsliv/skatt-naeringsdrivende" },
+          { "name": "Erstatningsrett", "body": "Erstatningskrav, forsikringsoppgjør og prosedyre for næringslivet.", "href": "/advokat-bedrift/naeringsliv/erstatningsrett" },
+          { "name": "Kjøpsrett", "body": "Kontrakter og næringskjøp — nasjonalt og internasjonalt.", "href": "/advokat-bedrift/naeringsliv/kjopsrett" },
+          { "name": "Opphavsrett", "body": "Vern av åndsverk, lisenser og håndheving av immaterielle rettigheter.", "href": "/advokat-bedrift/naeringsliv/opphavsrett" },
+          { "name": "Varemerker", "body": "Registrering, vern og håndheving av varemerkerettigheter.", "href": "/advokat-bedrift/naeringsliv/varemerker" },
+          { "name": "Bank, finansiering og forsikring", "body": "Lånesøknader, bankforhandlinger og forsikringsrettslige spørsmål.", "href": "/advokat-bedrift/naeringsliv/bank-finansiering-og-forsikring" }
+        ]
+      },
+      {
+        "title": "Eiendom – næring",
+        "services": [
+          { "name": "Husleierett næring", "body": "Næringsleiekontrakter, forhandlinger og tvister for utleiere og leietakere.", "href": "/advokat-bedrift/eiendom/husleierett" },
+          { "name": "Mangler ved fast eiendom", "body": "Reklamasjon, prisavslag, heving og erstatning ved eiendomsmangler.", "href": "/advokat-bedrift/eiendom/mangler-ved-fast-eiendom" },
+          { "name": "Plan- og bygningsrett", "body": "Byggesøknader, dispensasjoner, reguleringsplaner og klage for næringsdrivende.", "href": "/advokat-bedrift/eiendom/plan-og-bygningsrett" }
+        ]
+      }
+    ]
+  },
+  "privat": {
+    "tag": "Privatpersoner",
+    "title": "Tjenester for privatpersoner",
+    "categories": [
+      {
+        "title": "Familie og arv",
+        "services": [
+          { "name": "Arv og skifte", "body": "Testamente, arveplanlegging, generasjonsskifter og gjennomføring av skifteoppgjør.", "href": "/advokat-privat/familie-og-arv/arv-og-skifte" },
+          { "name": "Samlivsbrudd", "body": "Separasjon, skilsmisse, fordeling av felleseie og samboeroppgjør.", "href": "/advokat-privat/familie-og-arv/samlivsbrudd" }
+        ]
+      },
+      {
+        "title": "Arbeid, skatt og erstatning",
+        "services": [
+          { "name": "Skatterett", "body": "Skatteplanlegging, klage på skattevedtak og bokettersyn for privatpersoner.", "href": "/advokat-privat/arbeid-skatt-og-erstatning/skatterett" },
+          { "name": "Arbeidsrett", "body": "Bistand til arbeidstakere ved oppsigelse, avskjed og diskriminering.", "href": "/advokat-privat/arbeid-skatt-og-erstatning/arbeidsrett" },
+          { "name": "Erstatningsrett", "body": "Personskade, bilskade og forsikringsoppgjør for privatpersoner.", "href": "/advokat-privat/arbeid-skatt-og-erstatning/erstatningsrett" },
+          { "name": "Trygderett", "body": "Klage på vedtak fra NAV, uføretrygd og arbeidsavklaringspenger.", "href": "/advokat-privat/arbeid-skatt-og-erstatning/trygderett" }
+        ]
+      },
+      {
+        "title": "Eiendom – privat",
+        "services": [
+          { "name": "Husleierett", "body": "Leiekontrakter, depositum, oppsigelse og husleietvister.", "href": "/advokat-privat/eiendom/husleierett" },
+          { "name": "Naborett", "body": "Grensedisputter, nabotvister, støy og servitutter.", "href": "/advokat-privat/eiendom/naborett" },
+          { "name": "Plan- og bygningsrett", "body": "Byggesøknader, dispensasjoner og klage på vedtak fra kommunen.", "href": "/advokat-privat/eiendom/plan-og-bygningsrett" }
+        ]
+      }
+    ]
+  }
+}

@@ -7,6 +7,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: '/',                                                              priority: 1.0, changeFrequency: 'monthly' },
     { url: '/advokat-bedrift',                                               priority: 0.9, changeFrequency: 'monthly' },
     { url: '/advokat-privat',                                                priority: 0.9, changeFrequency: 'monthly' },
+    { url: '/alle-tjenester',                                                priority: 0.8, changeFrequency: 'monthly' },
     { url: '/om-oss',                                                        priority: 0.7, changeFrequency: 'monthly' },
     { url: '/kontakt',                                                       priority: 0.7, changeFrequency: 'monthly' },
     { url: '/rettsavgjorelser',                                              priority: 0.6, changeFrequency: 'monthly' },
