@@ -4,4 +4,4 @@ Allow: /
 Disallow: /admin
 Disallow: /api/
 
-Sitemap: https://www.advh.no/sitemap.xml
+Sitemap: https://advokat-hamar.no/sitemap.xml
