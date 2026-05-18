@@ -4,7 +4,7 @@ import siteData from '@/content/site.json'
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://advokat-hamar.no'),
-  title: 'Advokat Hamar | Holthe & Co AS',
+  title: 'Advokat Hamar | Advokatfirmaet Holthe & Co AS',
   description: 'Erfaren advokat i Hamar for bedrift og privat. Selskapsrett, skatterett, arv og eiendom. Kontakt Holthe & Co AS – første samtale er gratis.',
   openGraph: {
     siteName: siteData.firm.name,
