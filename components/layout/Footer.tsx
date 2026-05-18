@@ -51,9 +51,18 @@ export default function Footer() {
         </div>
       </div>
 
-      <div className="flex flex-col sm:flex-row justify-between items-center pt-5 gap-2">
+      <div className="flex flex-col sm:flex-row justify-between items-center pt-5 gap-4">
         <p className="text-white/30 text-xs">&copy; {year} {siteData.firm.name}. Alle rettigheter reservert.</p>
-        <span className="text-white/30 text-xs">{siteData.footer.member}</span>
+        <div className="flex flex-col items-center sm:items-end gap-1">
+          <Image
+            src="/advokatforeningen-logo.png"
+            alt="Medlem av Den Norske Advokatforening"
+            width={110}
+            height={32}
+            className="object-contain"
+          />
+          <span className="text-white/50 text-xs">Medlem av Advokatforeningen</span>
+        </div>
       </div>
     </footer>
   )
