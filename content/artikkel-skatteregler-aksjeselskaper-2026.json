@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "title": "Nye skatteregler for aksjeselskaper i 2026 | Advokat Hamar – Holthe & Co AS",
+    "description": "En oversikt over de viktigste endringene i skattereglene som påvirker norske aksjeselskaper i 2026. Les hva du bør gjøre nå."
+  },
+  "article": {
+    "date": "Mars 2026",
+    "tag": "Skatterett",
+    "title": "Nye skatteregler for aksjeselskaper i 2026",
+    "intro": "Stortinget vedtok høsten 2025 flere endringer i skattereglene som får direkte virkning for norske aksjeselskaper fra og med inntektsåret 2026. Her er en oversikt over det viktigste du bør kjenne til.",
+    "sections": [
+      {
+        "heading": "Utbytteskatt og fritaksmetoden",
+        "body": "Fritaksmetoden videreføres, men terskelen for hva som regnes som porteføljeinvestering er justert. Aksjeselskaper som eier under 10 % av et annet selskap vil i større grad bli skattlagt på utbytte. Dersom selskapet ditt mottar utbytte fra selskaper der dere har lav eierandel, bør dere gjennomgå strukturen med advokat eller revisor."
+      },
+      {
+        "heading": "Skjermingsfradrag og personlig uttak",
+        "body": "Skjermingsrenten for 2026 er fastsatt av Skatteetaten og påvirker hvor mye utbytte aksjonærer kan ta ut skattefritt utover skjermingsfradraget. For aksjonærer som er aktive i selskapet, og som tar ut lønn, er det viktig å vurdere balansen mellom lønn og utbytte for å minimere samlet skattebelastning."
+      },
+      {
+        "heading": "Formuesskatt på næringseiendeler",
+        "body": "Verdsettelsesreglene for aksjer og næringseiendeler i formuesskatten er justert. Ikke-børsnoterte aksjer verdsettes fortsatt basert på selskapets skattemessige formuesverdi, men verdsettingsrabattens størrelse kan ha endret seg. Sjekk at verdsettelsen i selvangivelsen er korrekt — feil her kan medføre tilleggsskatt."
+      },
+      {
+        "heading": "Krav til dokumentasjon ved transaksjoner",
+        "body": "Skattemyndighetene har skjerpet kravene til internprisingsdokumentasjon for konserner. Selv mindre konserner kan nå bli pålagt å dokumentere at transaksjoner mellom nærstående parter er gjort på armlengdes vilkår. Manglende dokumentasjon kan føre til skjønnsligning og tilleggsskatt."
+      },
+      {
+        "heading": "Hva bør du gjøre nå?",
+        "body": "Gjennomgå selskapets eierstruktur og utbyttepolitikk i lys av de nye reglene. Ta kontakt med advokat dersom dere planlegger transaksjoner, generasjonsskifte eller omstrukturering i 2026 — skatteplanlegging bør skje i forkant, ikke i etterkant."
+      }
+    ],
+    "cta": {
+      "title": "Spørsmål om skatt for aksjeselskaper?",
+      "body": "Holthe & Co AS bistår næringsdrivende med skatteplanlegging, bokettersyn og klagebehandling. Første samtale er gratis."
+    }
+  }
+}

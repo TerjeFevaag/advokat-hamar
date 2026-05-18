@@ -38,6 +38,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: '/advokat-privat/eiendom/husleierett',                            priority: 0.7, changeFrequency: 'monthly' },
     { url: '/advokat-privat/eiendom/naborett',                               priority: 0.7, changeFrequency: 'monthly' },
     { url: '/advokat-privat/eiendom/plan-og-bygningsrett',                   priority: 0.7, changeFrequency: 'monthly' },
+    // Artikler
+    { url: '/artikler/nye-skatteregler-aksjeselskaper-2026',                 priority: 0.6, changeFrequency: 'yearly' },
+    { url: '/artikler/generasjonsskifte-familiebedrift',                     priority: 0.6, changeFrequency: 'yearly' },
+    { url: '/artikler/mangler-ved-boligkjop',                                priority: 0.6, changeFrequency: 'yearly' },
     // Juridisk
     { url: '/personvern',                                                    priority: 0.2, changeFrequency: 'yearly' },
   ]
