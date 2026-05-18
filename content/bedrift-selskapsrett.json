@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "title": "Selskapsrett Hamar | Advokat Holthe & Co AS",
     "description": "Advokat i selskapsrett i Hamar. Stiftelse, aksjonæravtaler, fusjoner og selskapstransaksjoner. Kontakt Holthe & Co AS for bistand."
@@ -11,7 +11,7 @@
   },
   "stats": [
     { "num": "25+", "label": "Års erfaring" },
-    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "Medlem", "label": "Advokatforeningen" },
     { "num": "1992", "label": "Etablert" },
     { "num": "100%", "label": "Taushetsplikt" }
   ],

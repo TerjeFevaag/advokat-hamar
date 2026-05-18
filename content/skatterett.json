@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "title": "Skatterett Hamar | Advokat Holthe & Co AS",
     "description": "Advokat i skatterett i Hamar. Skatteplanlegging, bokettersyn og klage for privatpersoner og bedrifter. Kontakt Holthe & Co AS i dag."
@@ -11,7 +11,7 @@
   },
   "stats": [
     { "num": "25+", "label": "Års erfaring" },
-    { "num": "AAA", "label": "Kredittvurdering" },
+    { "num": "Medlem", "label": "Advokatforeningen" },
     { "num": "1992", "label": "Etablert" },
     { "num": "100%", "label": "Taushetsplikt" }
   ],
