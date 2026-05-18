@@ -1,7 +1,8 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Navigation from '@/components/layout/Navigation'
 import Footer from '@/components/layout/Footer'
 import ContactSection from '@/components/shared/ContactSection'
+import ServiceJsonLd from '@/components/shared/ServiceJsonLd'
 import pageData from '@/content/privat-erstatningsrett.json'
 
 export const metadata: Metadata = {
@@ -13,6 +14,7 @@ export default function PrivatErstatningsrettPage() {
   return (
     <>
       <Navigation darkHero />
+        <ServiceJsonLd path="/advokat-privat/arbeid-skatt-og-erstatning/erstatningsrett" title="Erstatningsrett" topics={pageData.topics} />
       <main>
         {/* Hero */}
         <section className="relative bg-navy pt-36 pb-28 px-8 md:px-20 overflow-hidden">
