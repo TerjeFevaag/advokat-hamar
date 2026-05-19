@@ -79,7 +79,6 @@ export default function KontaktPage() {
                 ) : (
                   <p className="text-navy font-semibold text-sm leading-snug">{card.value}</p>
                 )}
-                {card.sub && <p className="text-gray-400 text-xs mt-1">{card.sub}</p>}
               </div>
             ))}
           </div>
