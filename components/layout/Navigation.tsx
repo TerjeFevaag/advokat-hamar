@@ -151,7 +151,7 @@ export default function Navigation({ darkHero = false }: { darkHero?: boolean })
 
         {/* Centre: quick links (only visible when scrolled) */}
         <ul className={`hidden lg:flex items-center gap-1 transition-opacity duration-400 ${scrolled ? 'opacity-100' : 'opacity-0 pointer-events-none'}`}>
-          {[{ label: 'Tjenester', href: '#tjenester' }, { label: 'Om oss', href: '/om-oss' }, { label: 'Artikler', href: '/rettsavgjorelser' }, { label: 'Kontakt', href: '/kontakt' }].map((item) => (
+          {[{ label: 'Tjenester', href: '/alle-tjenester' }, { label: 'Om oss', href: '/om-oss' }, { label: 'Artikler', href: '/artikler' }, { label: 'Kontakt', href: '/kontakt' }].map((item) => (
             <li key={item.href}>
               <Link href={item.href} className="text-navy hover:bg-light-bg hover:text-gold text-sm font-medium px-4 py-2 rounded-lg transition-all duration-200">
                 {item.label}
