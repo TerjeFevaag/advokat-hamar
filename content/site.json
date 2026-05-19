@@ -49,7 +49,7 @@
       { "label": "Plan- og bygningsrett", "href": "/advokat-privat/eiendom/plan-og-bygningsrett" }
     ]},
     { "label": "Om Advokatfirmaet", "href": "/om-oss" },
-    { "label": "Rettsavgjørelser", "href": "/rettsavgjorelser" },
+    { "label": "Artikler", "href": "/artikler" },
     { "label": "Kontakt oss", "href": "/kontakt" }
   ],
   "footer": {
@@ -67,7 +67,7 @@
       "lenker": [
         { "label": "Om oss", "href": "/om-oss" },
         { "label": "Kontakt", "href": "/kontakt" },
-        { "label": "Rettsavgjørelser", "href": "/rettsavgjorelser" },
+        { "label": "Artikler", "href": "/artikler" },
         { "label": "Personvernerklæring", "href": "/personvern" }
       ]
     }
