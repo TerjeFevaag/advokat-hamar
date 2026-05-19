@@ -18,7 +18,7 @@ export default function Articles() {
             <p className="text-gold text-xs font-bold uppercase tracking-[0.2em] mb-2.5">{articles.tag}</p>
             <h2 className="font-serif text-[clamp(1.8rem,3vw,2.6rem)] text-navy leading-[1.2]">{articles.title}</h2>
           </div>
-          <Link href="/rettsavgjorelser" className="text-gold font-semibold text-sm flex items-center gap-2 hover:gap-3.5 transition-all duration-300 whitespace-nowrap">
+          <Link href="/artikler" className="text-gold font-semibold text-sm flex items-center gap-2 hover:gap-3.5 transition-all duration-300 whitespace-nowrap">
             Alle artikler →
           </Link>
         </div>
