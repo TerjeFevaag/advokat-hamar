@@ -37,20 +37,23 @@ const articles = [
 export default function ArtiklerPage() {
   return (
     <>
-      <Navigation />
+      <Navigation darkHero />
       <main>
-        <section className="relative bg-cream pt-36 pb-28 px-8 md:px-20 overflow-hidden">
-          <div className="absolute bottom-0 right-0 w-[400px] h-[400px] border border-navy/5 rounded-full translate-x-1/3 translate-y-1/3 pointer-events-none" />
+        <section className="relative bg-navy pt-36 pb-28 px-8 md:px-20 overflow-hidden">
+          <div className="absolute inset-0 opacity-5">
+            <div className="absolute top-0 right-0 w-[600px] h-[600px] border border-gold/30 rounded-full translate-x-1/2 -translate-y-1/4" />
+            <div className="absolute bottom-0 right-40 w-[300px] h-[300px] border border-gold/20 rounded-full" />
+          </div>
           <div className="max-w-4xl relative">
             <div className="flex items-center gap-3 text-gold text-xs font-bold uppercase tracking-[0.2em] mb-6">
               <span className="w-10 h-px bg-gold block" />
               Juridiske artikler
             </div>
-            <h1 className="font-serif text-[clamp(2.5rem,5vw,4.5rem)] font-bold text-navy leading-[1.05] mb-6">
+            <h1 className="font-serif text-[clamp(2.5rem,5vw,4.5rem)] font-bold text-white leading-[1.05] mb-6">
               Juridiske nyheter{' '}
               <em className="not-italic text-gold">&amp; innsikt</em>
             </h1>
-            <p className="text-gray-500 text-lg leading-relaxed max-w-2xl">
+            <p className="text-white/65 text-lg leading-relaxed max-w-2xl">
               Praktiske artikler om norsk juss fra Advokatfirmaet Holthe &amp; Co AS i Hamar — skrevet for å hjelpe deg å forstå rettighetene og pliktene dine.
             </p>
           </div>
