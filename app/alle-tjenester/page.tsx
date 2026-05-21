@@ -59,33 +59,36 @@ function ServiceGrid({ categories }: { categories: typeof pageData.naeringsliv.c
 export default function AlleTjenesterPage() {
   return (
     <>
-      <Navigation />
+      <Navigation darkHero />
       <main>
         {/* Hero */}
-        <section className="relative bg-cream pt-36 pb-28 px-8 md:px-20 overflow-hidden">
-          <div className="absolute top-0 right-0 w-[500px] h-[500px] border border-navy/5 rounded-full translate-x-1/3 -translate-y-1/4 pointer-events-none" />
+        <section className="relative bg-navy pt-36 pb-28 px-8 md:px-20 overflow-hidden">
+          <div className="absolute inset-0 opacity-5">
+            <div className="absolute top-0 right-0 w-[600px] h-[600px] border border-gold/30 rounded-full translate-x-1/2 -translate-y-1/4" />
+            <div className="absolute bottom-0 right-40 w-[300px] h-[300px] border border-gold/20 rounded-full" />
+          </div>
           <div className="max-w-4xl relative">
             <div className="flex items-center gap-3 text-gold text-xs font-bold uppercase tracking-[0.2em] mb-6">
               <span className="w-10 h-px bg-gold block" />
               {pageData.hero.tag}
             </div>
-            <h1 className="font-serif text-[clamp(2.5rem,5vw,4.5rem)] font-bold text-navy leading-[1.05] mb-6">
+            <h1 className="font-serif text-[clamp(2.5rem,5vw,4.5rem)] font-bold text-white leading-[1.05] mb-6">
               {pageData.hero.title}{' '}
               <em className="not-italic text-gold">{pageData.hero.titleEmphasis}</em>
             </h1>
-            <p className="text-gray-500 text-lg leading-relaxed max-w-2xl mb-10">
+            <p className="text-white/65 text-lg leading-relaxed max-w-2xl mb-10">
               {pageData.hero.body}
             </p>
             <div className="flex flex-wrap gap-4">
               <Link
                 href="/advokat-bedrift"
-                className="inline-flex items-center gap-2 bg-navy text-white px-7 py-3.5 rounded-full font-semibold text-sm hover:bg-navy/85 transition-all duration-300"
+                className="inline-flex items-center gap-2 bg-gold text-white px-7 py-3.5 rounded-full font-semibold text-sm hover:bg-gold-dark hover:shadow-gold transition-all duration-300"
               >
                 Tjenester for bedrift →
               </Link>
               <Link
                 href="/advokat-privat"
-                className="inline-flex items-center gap-2 border-2 border-navy text-navy px-7 py-3.5 rounded-full font-semibold text-sm hover:bg-navy hover:text-white transition-all duration-300"
+                className="inline-flex items-center gap-2 border-2 border-white/40 text-white px-7 py-3.5 rounded-full font-semibold text-sm hover:border-white hover:bg-white/10 transition-all duration-300"
               >
                 Tjenester for privat →
               </Link>
