@@ -142,7 +142,7 @@ export default function OmOssPage() {
                 <p className="text-gray-500 text-sm leading-relaxed max-w-md">{pageData.terms.body}</p>
               </div>
               <a
-                href="#"
+                href="/oppdragsvilkar"
                 className="flex-shrink-0 inline-flex items-center gap-2 bg-navy text-white px-8 py-4 rounded-full font-semibold text-sm hover:bg-navy/85 transition-all duration-300 whitespace-nowrap"
               >
                 {pageData.terms.linkLabel}

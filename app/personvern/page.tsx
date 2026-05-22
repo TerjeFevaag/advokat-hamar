@@ -79,6 +79,20 @@ export default function PersonvernPage() {
               ))}
             </div>
 
+            {/* Link to oppdragsvilkår */}
+            <div className="mt-12 p-6 bg-cream rounded-2xl border border-gray-100 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+              <div>
+                <p className="font-semibold text-navy text-sm mb-0.5">Generelle oppdragsvilkår</p>
+                <p className="text-gray-500 text-sm">Les vilkårene som gjelder for alle oppdrag hos oss.</p>
+              </div>
+              <a
+                href="/oppdragsvilkar"
+                className="flex-shrink-0 text-gold font-semibold text-sm hover:underline whitespace-nowrap"
+              >
+                Les oppdragsvilkår →
+              </a>
+            </div>
+
             {/* Bottom CTA */}
             <div className="mt-14 pt-10 border-t border-gray-100 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-5">
               <div>

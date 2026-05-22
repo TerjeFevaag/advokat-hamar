@@ -42,7 +42,7 @@ export default function ContactSection() {
   ]
 
   return (
-    <section className="py-24 px-8 md:px-20 bg-white" id="kontakt">
+    <section className="py-24 pb-16 px-8 md:px-20 bg-white" id="kontakt">
       <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-16 items-start">
         {/* Left */}
         <div>
@@ -110,6 +110,11 @@ export default function ContactSection() {
             </button>
           </form>
         </div>
+      </div>
+      <div className="max-w-6xl mx-auto mt-10 pt-6 border-t border-gray-100 flex justify-end">
+        <a href="/oppdragsvilkar" className="text-gray-400 text-xs hover:text-gold transition-colors">
+          Generelle oppdragsvilkår →
+        </a>
       </div>
     </section>
   )
