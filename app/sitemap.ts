@@ -44,6 +44,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: '/artikler/generasjonsskifte-familiebedrift',                     priority: 0.6, changeFrequency: 'yearly' },
     { url: '/artikler/mangler-ved-boligkjop',                                priority: 0.6, changeFrequency: 'yearly' },
     // Juridisk
+    { url: '/oppdragsvilkar',                                                priority: 0.4, changeFrequency: 'yearly' },
     { url: '/personvern',                                                    priority: 0.2, changeFrequency: 'yearly' },
   ]
 

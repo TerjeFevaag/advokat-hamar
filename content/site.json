@@ -68,6 +68,7 @@
         { "label": "Om oss", "href": "/om-oss" },
         { "label": "Kontakt", "href": "/kontakt" },
         { "label": "Artikler", "href": "/artikler" },
+        { "label": "Oppdragsvilkår", "href": "/oppdragsvilkar" },
         { "label": "Personvernerklæring", "href": "/personvern" }
       ]
     }
