@@ -7,26 +7,26 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: 'Missing fields' }, { status: 400 })
   }
 
-  const apiKey = process.env.RESEND_API_KEY
+  const apiKey = process.env.MAILERSEND_API_KEY
   if (!apiKey) {
-    console.error('RESEND_API_KEY is not set')
+    console.error('MAILERSEND_API_KEY is not set')
     return NextResponse.json({ error: 'Server misconfiguration' }, { status: 500 })
   }
 
   try {
-    const res = await fetch('https://api.resend.com/emails', {
+    const res = await fetch('https://api.mailersend.com/v1/email', {
       method: 'POST',
       headers: {
         'Authorization': `Bearer ${apiKey}`,
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        from: 'Kontaktskjema advh.no <onboarding@resend.dev>',
-        to: ['kah@advh.no'],
-        reply_to: email,
+        from: { email: 'noreply@advokat-hamar.no', name: 'Kontaktskjema' },
+        to: [{ email: 'post@advokat-hamar.no' }],
+        reply_to: { email, name },
         subject: `Ny henvendelse fra ${name}`,
         html: `
-          <h2>Ny henvendelse fra advh.no</h2>
+          <h2>Ny henvendelse fra advokat-hamar.no</h2>
           <p><strong>Navn:</strong> ${name}</p>
           <p><strong>E-post:</strong> ${email}</p>
           <p><strong>Telefon:</strong> ${phone || '–'}</p>
