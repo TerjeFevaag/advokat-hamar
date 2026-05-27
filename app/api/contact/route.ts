@@ -1,11 +1,57 @@
 import { NextRequest, NextResponse } from 'next/server'
 
+// --- Rate limiting (in-memory, per IP) ---
+const rateLimitMap = new Map<string, { count: number; resetAt: number }>()
+const RATE_LIMIT = 5        // max requests
+const RATE_WINDOW = 10 * 60 * 1000  // 10 minutes in ms
+
+function isRateLimited(ip: string): boolean {
+  const now = Date.now()
+  const entry = rateLimitMap.get(ip)
+  if (!entry || now > entry.resetAt) {
+    rateLimitMap.set(ip, { count: 1, resetAt: now + RATE_WINDOW })
+    return false
+  }
+  if (entry.count >= RATE_LIMIT) return true
+  entry.count++
+  return false
+}
+
+// --- Input sanitization ---
+function escapeHtml(str: string): string {
+  return str
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;')
+}
+
 export async function POST(req: NextRequest) {
+  // Rate limiting
+  const ip =
+    req.headers.get('x-forwarded-for')?.split(',')[0].trim() ??
+    req.headers.get('x-real-ip') ??
+    'unknown'
+
+  if (isRateLimited(ip)) {
+    return NextResponse.json(
+      { error: 'For mange forespørsler. Prøv igjen om litt.' },
+      { status: 429 }
+    )
+  }
+
   const { name, email, phone, message } = await req.json()
 
   if (!name || !email || !message) {
     return NextResponse.json({ error: 'Missing fields' }, { status: 400 })
   }
+
+  // Sanitize inputs
+  const safeName    = escapeHtml(String(name).slice(0, 200))
+  const safeEmail   = escapeHtml(String(email).slice(0, 200))
+  const safePhone   = escapeHtml(String(phone ?? '').slice(0, 50))
+  const safeMessage = escapeHtml(String(message).slice(0, 5000))
 
   const apiKey = process.env.MAILERSEND_API_KEY
   if (!apiKey) {
@@ -23,23 +69,23 @@ export async function POST(req: NextRequest) {
       body: JSON.stringify({
         from: { email: 'noreply@advokat-hamar.no', name: 'Kontaktskjema' },
         to: [{ email: 'post@advokat-hamar.no' }],
-        reply_to: { email, name },
-        subject: `Ny henvendelse fra ${name}`,
+        reply_to: { email: safeEmail, name: safeName },
+        subject: `Ny henvendelse fra ${safeName}`,
         html: `
           <h2>Ny henvendelse fra advokat-hamar.no</h2>
-          <p><strong>Navn:</strong> ${name}</p>
-          <p><strong>E-post:</strong> ${email}</p>
-          <p><strong>Telefon:</strong> ${phone || '–'}</p>
+          <p><strong>Navn:</strong> ${safeName}</p>
+          <p><strong>E-post:</strong> ${safeEmail}</p>
+          <p><strong>Telefon:</strong> ${safePhone || '–'}</p>
           <hr/>
           <p><strong>Melding:</strong></p>
-          <p>${message.replace(/\n/g, '<br/>')}</p>
+          <p>${safeMessage.replace(/\n/g, '<br/>')}</p>
         `,
       }),
     })
 
     if (!res.ok) {
       const error = await res.text()
-      console.error('Resend error:', error)
+      console.error('MailerSend error:', error)
       return NextResponse.json({ error: 'Failed to send email' }, { status: 500 })
     }
   } catch (err) {
