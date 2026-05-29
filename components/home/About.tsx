@@ -12,7 +12,7 @@ export default function About() {
         <div className="relative">
           <Image
             src="/Advokat 02.jpg"
-            alt="Advokat Knut Arne Holthe"
+            alt="Advokat Knut Arne Holthe – Advokatfirmaet Holthe & Co AS, Hamar"
             width={600}
             height={700}
             className="w-full rounded-3xl shadow-[0_20px_60px_rgba(0,0,0,0.1)] object-cover"

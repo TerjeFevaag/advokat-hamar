@@ -41,7 +41,7 @@ export default function OmOssPage() {
             <div className="relative">
               <Image
                 src="/Advokat 01.jpg"
-                alt="Advokat Knut Arne Holthe"
+                alt="Advokat Knut Arne Holthe – Advokatfirmaet Holthe & Co AS, Hamar"
                 width={540}
                 height={660}
                 className="w-full rounded-3xl shadow-card object-cover"

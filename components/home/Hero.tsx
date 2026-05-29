@@ -49,7 +49,7 @@ export default function Hero() {
       <div className="relative min-h-[450px] lg:min-h-0 overflow-hidden">
         <Image
           src="/bg3.jpg"
-          alt="Hamar winter landscape"
+          alt="Advokat i Hamar – Advokatfirmaet Holthe & Co AS"
           fill
           className="object-cover"
           priority
