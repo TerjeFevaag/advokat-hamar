@@ -64,6 +64,14 @@ export default function Footer() {
           <span className="text-white/50 text-xs">Medlem av Advokatforeningen</span>
         </div>
       </div>
+      <div className="pt-4 border-t border-white/5 mt-4 text-center">
+        <p className="text-white/20 text-xs">
+          Utviklet av{' '}
+          <a href="https://fevaag.no" target="_blank" rel="noopener noreferrer" className="hover:text-white/40 transition-colors">
+            Fevaag Web Consulting
+          </a>
+        </p>
+      </div>
     </footer>
   )
 }
