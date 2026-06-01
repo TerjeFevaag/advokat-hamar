@@ -13,14 +13,9 @@ export default function Articles() {
   return (
     <section className="py-24 px-8 md:px-20 bg-cream" id="artikler">
       <div className="max-w-6xl mx-auto">
-        <div className="flex flex-col md:flex-row justify-between items-start md:items-end mb-12 gap-6">
-          <div>
-            <p className="text-gold text-xs font-bold uppercase tracking-[0.2em] mb-2.5">{articles.tag}</p>
-            <h2 className="font-serif text-[clamp(1.8rem,3vw,2.6rem)] text-navy leading-[1.2]">{articles.title}</h2>
-          </div>
-          <Link href="/artikler" className="text-gold font-semibold text-sm flex items-center gap-2 hover:gap-3.5 transition-all duration-300 whitespace-nowrap">
-            Alle artikler →
-          </Link>
+        <div className="mb-12">
+          <p className="text-gold text-xs font-bold uppercase tracking-[0.2em] mb-2.5">{articles.tag}</p>
+          <h2 className="font-serif text-[clamp(1.8rem,3vw,2.6rem)] text-navy leading-[1.2]">{articles.title}</h2>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -48,6 +43,12 @@ export default function Articles() {
               </div>
             </Link>
           ))}
+        </div>
+
+        <div className="flex justify-center mt-10">
+          <Link href="/artikler" className="text-gold font-semibold text-sm flex items-center gap-2 hover:gap-3.5 transition-all duration-300">
+            Alle artikler →
+          </Link>
         </div>
       </div>
     </section>
