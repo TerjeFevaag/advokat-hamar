@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 }
 
 const stats = [
-  { num: '25+', label: 'Års erfaring' },
+  { num: '30+', label: 'Års erfaring' },
   { num: 'Medlem', label: 'Advokatforeningen' },
   { num: '1992', label: 'Etablert' },
   { num: '100%', label: 'Taushetsplikt' },

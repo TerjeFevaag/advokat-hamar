@@ -47,7 +47,7 @@ export default function RettsavgjRelserPage() {
             </div>
             <span className="h-5 w-px bg-gray-200 hidden sm:block" />
             <div className="flex items-center gap-3">
-              <span className="font-serif text-2xl font-bold text-navy">25+</span>
+              <span className="font-serif text-2xl font-bold text-navy">30+</span>
               <span className="text-gray-500 text-sm">Års prosedyreerfaring</span>
             </div>
             <span className="h-5 w-px bg-gray-200 hidden sm:block" />
@@ -111,7 +111,7 @@ export default function RettsavgjRelserPage() {
               Vi er erfarne prosedyreadvokater
             </h2>
             <p className="text-gray-500 leading-relaxed mb-8 max-w-xl mx-auto">
-              Med over 25 års erfaring fra alle rettsinstanser kjenner vi systemet godt. Ta kontakt for en uforpliktende vurdering av din sak.
+              Med over 30 års erfaring fra alle rettsinstanser kjenner vi systemet godt. Ta kontakt for en uforpliktende vurdering av din sak.
             </p>
             <a
               href="/kontakt"

@@ -46,7 +46,11 @@
       "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" add content/site.json components/layout/Footer.tsx)",
       "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" add content/site.json)",
       "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" add components/layout/Footer.tsx)",
-      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" add app/api/contact/route.ts)"
+      "Bash(git -C \"C:\\\\Users\\\\terje\\\\OneDrive\\\\Desktop\\\\Advokat\\\\Advokat\\\\advh-website\" add app/api/contact/route.ts)",
+      "WebSearch",
+      "Bash(xargs sed -i 's/\"25+\"/\"30+\"/g')",
+      "Bash(xargs sed -i 's/over 30 års/over 30 års/g; s/30 års/30 års/g')",
+      "Bash(sed -i 's/over 30 års/over 30 års/g; s/30 års/30 års/g' app/rettsavgjorelser/page.tsx)"
     ]
   }
 }

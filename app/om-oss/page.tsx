@@ -48,7 +48,7 @@ export default function OmOssPage() {
               />
               {/* Experience badge */}
               <div className="absolute bottom-6 right-6 bg-gold text-white px-7 py-5 rounded-2xl text-center shadow-gold">
-                <span className="font-serif text-4xl font-bold block leading-none">25+</span>
+                <span className="font-serif text-4xl font-bold block leading-none">30+</span>
                 <span className="text-xs uppercase tracking-widest opacity-90 block mt-1">Års erfaring</span>
               </div>
               {/* Established badge */}
