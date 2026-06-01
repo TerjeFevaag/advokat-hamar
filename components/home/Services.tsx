@@ -16,14 +16,9 @@ export default function Services() {
   return (
     <section className="py-24 px-8 md:px-20 bg-cream" id="tjenester">
       <div className="max-w-6xl mx-auto">
-        <div className="flex flex-col md:flex-row justify-between items-start md:items-end mb-14 gap-6">
-          <div>
-            <p className="text-gold text-xs font-bold uppercase tracking-[0.2em] mb-2.5">{services.tag}</p>
-            <h2 className="font-serif text-[clamp(1.8rem,3vw,2.6rem)] text-navy leading-[1.2]">{services.title}</h2>
-          </div>
-          <Link href="/alle-tjenester" className="text-gold font-semibold text-sm flex items-center gap-2 hover:gap-3.5 transition-all duration-300 whitespace-nowrap">
-            Se alle tjenester →
-          </Link>
+        <div className="mb-14">
+          <p className="text-gold text-xs font-bold uppercase tracking-[0.2em] mb-2.5">{services.tag}</p>
+          <h2 className="font-serif text-[clamp(1.8rem,3vw,2.6rem)] text-navy leading-[1.2]">{services.title}</h2>
         </div>
 
         {/* 3-column grid */}
@@ -54,6 +49,12 @@ export default function Services() {
               </span>
             </Link>
           ))}
+        </div>
+
+        <div className="flex justify-center mt-10">
+          <Link href="/alle-tjenester" className="text-gold font-semibold text-sm flex items-center gap-2 hover:gap-3.5 transition-all duration-300">
+            Se alle tjenester →
+          </Link>
         </div>
       </div>
     </section>
