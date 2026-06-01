@@ -87,13 +87,13 @@ export default function ArtikkelMangler() {
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.forbrukerradet.no/bolig/" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
-                    Bolig og eiendom — Forbrukerrådet.no →
+                  <a href="https://www.forbrukerradet.no/forside/bolig/kjop-og-salg-av-bolig/mangler-brukt/" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
+                    Misfornøyd med kjøp av brukt bolig — Forbrukerrådet →
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.finansklagenemnda.no/eiendomsmegling/" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
-                    Klage på eiendomsmegler — Finansklagenemnda →
+                  <a href="https://eiendomsmeglingsnemnda.no" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
+                    Klage på eiendomsmegler — Reklamasjonsnemnda →
                   </a>
                 </li>
               </ul>
