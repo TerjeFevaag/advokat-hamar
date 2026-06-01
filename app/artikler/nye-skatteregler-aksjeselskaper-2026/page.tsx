@@ -3,6 +3,7 @@ import Link from 'next/link'
 import Navigation from '@/components/layout/Navigation'
 import Footer from '@/components/layout/Footer'
 import ContactSection from '@/components/shared/ContactSection'
+import ArticleAuthorBox from '@/components/shared/ArticleAuthorBox'
 import pageData from '@/content/artikkel-skatteregler-aksjeselskaper-2026.json'
 
 export const metadata: Metadata = {
@@ -11,10 +12,38 @@ export const metadata: Metadata = {
   alternates: { canonical: 'https://advokat-hamar.no/artikler/nye-skatteregler-aksjeselskaper-2026' },
 }
 
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: 'Nye skatteregler for aksjeselskaper i 2026',
+  description: pageData.meta.description,
+  datePublished: '2026-03-01',
+  dateModified: '2026-03-01',
+  author: {
+    '@type': 'Person',
+    name: 'Knut Arne Holthe',
+    jobTitle: 'Advokat',
+    url: 'https://advokat-hamar.no/om-oss',
+    worksFor: {
+      '@type': 'LegalService',
+      name: 'Advokatfirmaet Holthe & Co AS',
+      url: 'https://advokat-hamar.no',
+    },
+  },
+  publisher: {
+    '@type': 'LegalService',
+    name: 'Advokatfirmaet Holthe & Co AS',
+    url: 'https://advokat-hamar.no',
+    logo: { '@type': 'ImageObject', url: 'https://advokat-hamar.no/logo.png' },
+  },
+  mainEntityOfPage: 'https://advokat-hamar.no/artikler/nye-skatteregler-aksjeselskaper-2026',
+}
+
 export default function ArtikkelSkatteregler2026() {
   const { article } = pageData
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
       <Navigation darkHero />
       <main>
         <section className="relative bg-navy pt-36 pb-28 px-8 md:px-20 overflow-hidden">
@@ -45,7 +74,32 @@ export default function ArtikkelSkatteregler2026() {
               ))}
             </div>
 
-            <div className="mt-14 pt-10 border-t border-gray-100">
+            {/* Author box */}
+            <ArticleAuthorBox />
+
+            {/* External resources */}
+            <div className="mt-10 p-6 bg-gray-50 rounded-2xl border border-gray-100">
+              <p className="text-xs font-bold uppercase tracking-widest text-navy mb-3">Relevante ressurser</p>
+              <ul className="space-y-2">
+                <li>
+                  <a href="https://www.skatteetaten.no/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
+                    Skattemelding for næringsdrivende — Skatteetaten.no →
+                  </a>
+                </li>
+                <li>
+                  <a href="https://lovdata.no/dokument/NL/lov/1999-03-26-14" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
+                    Skatteloven — Lovdata.no →
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.advokatforeningen.no/verktoy/finn-advokat/" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
+                    Finn advokat — Den Norske Advokatforening →
+                  </a>
+                </li>
+              </ul>
+            </div>
+
+            <div className="mt-10 pt-8 border-t border-gray-100">
               <Link href="/artikler" className="text-gold font-semibold text-sm hover:underline">
                 ← Tilbake til alle artikler
               </Link>
