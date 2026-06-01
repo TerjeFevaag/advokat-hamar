@@ -92,8 +92,8 @@ export default function ArtikkelSkatteregler2026() {
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.advokatenhjelperdeg.no" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
-                    Finn advokat — Den Norske Advokatforening →
+                  <a href="https://www.altinn.no/starte-og-drive/skatt-og-avgift/" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
+                    Skatt og avgift for bedrifter — Altinn.no →
                   </a>
                 </li>
               </ul>

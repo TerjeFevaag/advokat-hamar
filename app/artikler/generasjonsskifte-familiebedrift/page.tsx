@@ -87,8 +87,8 @@ export default function ArtikkelGenerasjonsskifte() {
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.advokatenhjelperdeg.no" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
-                    Finn advokat — Den Norske Advokatforening →
+                  <a href="https://www.brreg.no/lag-og-foreninger/aksjeselskap/" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
+                    Aksjeselskap — Brønnøysundregistrene →
                   </a>
                 </li>
                 <li>

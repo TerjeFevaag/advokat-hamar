@@ -92,8 +92,8 @@ export default function ArtikkelMangler() {
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.advokatenhjelperdeg.no" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
-                    Finn advokat — Den Norske Advokatforening →
+                  <a href="https://www.finansklagenemnda.no/eiendomsmegling/" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
+                    Klage på eiendomsmegler — Finansklagenemnda →
                   </a>
                 </li>
               </ul>
