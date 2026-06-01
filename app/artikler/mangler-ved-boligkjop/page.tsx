@@ -82,17 +82,17 @@ export default function ArtikkelMangler() {
               <p className="text-xs font-bold uppercase tracking-widest text-navy mb-3">Relevante ressurser</p>
               <ul className="space-y-2">
                 <li>
-                  <a href="https://lovdata.no/dokument/NL/lov/1992-07-03-93" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
+                  <a href="https://lovdata.no/lov/1992-07-03-93" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
                     Avhendingslova — Lovdata.no →
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.forbrukerradet.no/bolig/kjope-bolig/" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
-                    Kjøpe bolig — Forbrukerrådet.no →
+                  <a href="https://www.forbrukerradet.no/bolig/" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
+                    Bolig og eiendom — Forbrukerrådet.no →
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.advokatforeningen.no/verktoy/finn-advokat/" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
+                  <a href="https://www.advokatenhjelperdeg.no" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
                     Finn advokat — Den Norske Advokatforening →
                   </a>
                 </li>

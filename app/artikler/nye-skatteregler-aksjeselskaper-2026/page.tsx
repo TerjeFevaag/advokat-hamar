@@ -82,17 +82,17 @@ export default function ArtikkelSkatteregler2026() {
               <p className="text-xs font-bold uppercase tracking-widest text-navy mb-3">Relevante ressurser</p>
               <ul className="space-y-2">
                 <li>
-                  <a href="https://www.skatteetaten.no/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
-                    Skattemelding for næringsdrivende — Skatteetaten.no →
+                  <a href="https://www.skatteetaten.no/bedrift-og-organisasjon/" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
+                    Skatt for bedrift og organisasjon — Skatteetaten.no →
                   </a>
                 </li>
                 <li>
-                  <a href="https://lovdata.no/dokument/NL/lov/1999-03-26-14" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
+                  <a href="https://lovdata.no/lov/1999-03-26-14" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
                     Skatteloven — Lovdata.no →
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.advokatforeningen.no/verktoy/finn-advokat/" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
+                  <a href="https://www.advokatenhjelperdeg.no" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
                     Finn advokat — Den Norske Advokatforening →
                   </a>
                 </li>

@@ -82,17 +82,17 @@ export default function ArtikkelGenerasjonsskifte() {
               <p className="text-xs font-bold uppercase tracking-widest text-navy mb-3">Relevante ressurser</p>
               <ul className="space-y-2">
                 <li>
-                  <a href="https://lovdata.no/dokument/NL/lov/1972-03-03-5" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
+                  <a href="https://lovdata.no/lov/2019-06-14-21" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
                     Arveloven — Lovdata.no →
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.advokatforeningen.no/verktoy/finn-advokat/" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
+                  <a href="https://www.advokatenhjelperdeg.no" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
                     Finn advokat — Den Norske Advokatforening →
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arv-og-gaver/" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
+                  <a href="https://www.skatteetaten.no" target="_blank" rel="noopener noreferrer" className="text-gold text-sm font-medium hover:underline">
                     Arv og gaver — Skatteetaten.no →
                   </a>
                 </li>
