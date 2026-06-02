@@ -11,6 +11,16 @@ export const metadata: Metadata = {
     shortcut: '/icon.png',
     apple: '/icon.png',
   },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
   openGraph: {
     siteName: siteData.firm.name,
     locale: 'nb_NO',
@@ -33,6 +43,7 @@ const structuredData = {
   alternateName: 'Holthe & Co AS',
   url: 'https://advokat-hamar.no',
   logo: 'https://advokat-hamar.no/logo.png',
+  image: 'https://advokat-hamar.no/bg3.jpg',
   telephone: '+4790550647',
   email: 'post@advh.no',
   taxID: '987902248',
