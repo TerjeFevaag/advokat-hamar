@@ -6,6 +6,11 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://advokat-hamar.no'),
   title: 'Advokat Hamar | Advokatfirmaet Holthe & Co AS',
   description: 'Erfaren advokat i Hamar for bedrift og privat. Selskapsrett, skatterett, arv og eiendom. Kontakt Holthe & Co AS – første samtale er gratis.',
+  icons: {
+    icon: '/icon.png',
+    shortcut: '/icon.png',
+    apple: '/icon.png',
+  },
   openGraph: {
     siteName: siteData.firm.name,
     locale: 'nb_NO',
