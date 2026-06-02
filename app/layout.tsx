@@ -27,10 +27,10 @@ export const metadata: Metadata = {
     type: 'website',
     images: [
       {
-        url: '/bg3.jpg',
-        width: 1200,
-        height: 630,
-        alt: 'Advokatfirmaet Holthe & Co AS – Advokat i Hamar',
+        url: '/Advokat%2001.jpg',
+        width: 540,
+        height: 660,
+        alt: 'Advokat Knut Arne Holthe – Advokatfirmaet Holthe & Co AS, Hamar',
       },
     ],
   },
@@ -43,7 +43,7 @@ const structuredData = {
   alternateName: 'Holthe & Co AS',
   url: 'https://advokat-hamar.no',
   logo: 'https://advokat-hamar.no/logo.png',
-  image: 'https://advokat-hamar.no/bg3.jpg',
+  image: 'https://advokat-hamar.no/Advokat%2001.jpg',
   telephone: '+4790550647',
   email: 'post@advh.no',
   taxID: '987902248',
