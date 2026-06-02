@@ -42,17 +42,6 @@ export const metadata: Metadata = {
   },
 }
 
-const websiteSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebSite',
-  name: 'Advokatfirmaet Holthe & Co AS',
-  url: 'https://advokat-hamar.no',
-  potentialAction: {
-    '@type': 'SearchAction',
-    target: 'https://advokat-hamar.no/?s={search_term_string}',
-    'query-input': 'required name=search_term_string',
-  },
-}
 
 const structuredData = {
   '@context': 'https://schema.org',
@@ -111,10 +100,6 @@ export default function RootLayout({
   return (
     <html lang="no">
       <body>
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
-        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
