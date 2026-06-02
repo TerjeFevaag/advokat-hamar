@@ -1,21 +1,37 @@
 'use client'
-import { useState } from 'react'
+import { useState, useRef } from 'react'
 import homeData from '@/content/home.json'
 import siteData from '@/content/site.json'
 
 export default function ContactSection() {
   const { contact } = homeData
   const [status, setStatus] = useState<'idle' | 'sending' | 'sent' | 'error'>('idle')
+  const loadedAt = useRef(Date.now())
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
     setStatus('sending')
     const form = e.currentTarget
+
+    // Honeypot check — bots fill this, humans don't see it
+    const honeypot = (form.elements.namedItem('website') as HTMLInputElement).value
+    if (honeypot) {
+      setStatus('sent') // Fool the bot into thinking it succeeded
+      return
+    }
+
+    // Timing check — reject submissions faster than 3 seconds
+    if (Date.now() - loadedAt.current < 3000) {
+      setStatus('sent')
+      return
+    }
+
     const data = {
       name: (form.elements.namedItem('name') as HTMLInputElement).value,
       email: (form.elements.namedItem('email') as HTMLInputElement).value,
       phone: (form.elements.namedItem('phone') as HTMLInputElement).value,
       message: (form.elements.namedItem('message') as HTMLTextAreaElement).value,
+      website: (form.elements.namedItem('website') as HTMLInputElement).value,
     }
     try {
       const res = await fetch('/api/contact', {
@@ -75,6 +91,10 @@ export default function ContactSection() {
         <div className="bg-cream rounded-3xl p-11">
           <h3 className="font-serif text-2xl font-bold text-navy mb-6">{contact.formTitle}</h3>
           <form onSubmit={handleSubmit} className="flex flex-col gap-4">
+            {/* Honeypot — hidden from humans, bots fill this in */}
+            <div style={{ position: 'absolute', left: '-9999px', opacity: 0, pointerEvents: 'none' }} aria-hidden="true">
+              <input name="website" type="text" tabIndex={-1} autoComplete="off" />
+            </div>
             <div className="grid grid-cols-2 gap-4">
               <div>
                 <label className="block text-xs font-semibold text-navy mb-1.5">Navn</label>

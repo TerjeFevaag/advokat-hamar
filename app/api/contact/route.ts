@@ -41,7 +41,12 @@ export async function POST(req: NextRequest) {
     )
   }
 
-  const { name, email, phone, message } = await req.json()
+  const { name, email, phone, message, website } = await req.json()
+
+  // Honeypot check — bots fill this field, humans don't
+  if (website) {
+    return NextResponse.json({ ok: true }) // Fool the bot
+  }
 
   if (!name || !email || !message) {
     return NextResponse.json({ error: 'Missing fields' }, { status: 400 })
