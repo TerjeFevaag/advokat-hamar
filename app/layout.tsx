@@ -11,6 +11,12 @@ export const metadata: Metadata = {
     shortcut: '/icon.png',
     apple: '/icon.png',
   },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Advokat Hamar | Advokatfirmaet Holthe & Co AS',
+    description: 'Erfaren advokat i Hamar for bedrift og privat. Selskapsrett, skatterett, arv og eiendom. Kontakt Holthe & Co AS – første samtale er gratis.',
+    images: ['/Advokat%2001.jpg'],
+  },
   robots: {
     index: true,
     follow: true,
@@ -33,6 +39,18 @@ export const metadata: Metadata = {
         alt: 'Advokat Knut Arne Holthe – Advokatfirmaet Holthe & Co AS, Hamar',
       },
     ],
+  },
+}
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Advokatfirmaet Holthe & Co AS',
+  url: 'https://advokat-hamar.no',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: 'https://advokat-hamar.no/?s={search_term_string}',
+    'query-input': 'required name=search_term_string',
   },
 }
 
@@ -93,6 +111,10 @@ export default function RootLayout({
   return (
     <html lang="no">
       <body>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
