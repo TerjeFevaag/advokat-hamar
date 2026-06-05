@@ -74,6 +74,19 @@ export default function ArtikkelGenerasjonsskifte() {
               ))}
             </div>
 
+            {/* Related services */}
+            <div className="mt-12 p-6 bg-navy rounded-2xl">
+              <p className="text-xs font-bold uppercase tracking-widest text-gold/80 mb-4">Relevante tjenester</p>
+              <div className="flex flex-col sm:flex-row gap-3">
+                <Link href="/advokat-bedrift/naeringsliv/selskapsrett" className="flex-1 bg-white/10 hover:bg-white/15 text-white px-5 py-4 rounded-xl text-sm font-semibold transition-colors">
+                  Selskapsrett →
+                </Link>
+                <Link href="/advokat-privat/familie-og-arv/arv-og-skifte" className="flex-1 bg-white/10 hover:bg-white/15 text-white px-5 py-4 rounded-xl text-sm font-semibold transition-colors">
+                  Arv og skifte →
+                </Link>
+              </div>
+            </div>
+
             {/* Author box */}
             <ArticleAuthorBox />
 

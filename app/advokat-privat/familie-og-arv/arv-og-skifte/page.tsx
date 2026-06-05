@@ -1,4 +1,5 @@
 ﻿import type { Metadata } from 'next'
+import Link from 'next/link'
 import Navigation from '@/components/layout/Navigation'
 import Footer from '@/components/layout/Footer'
 import ContactSection from '@/components/shared/ContactSection'
@@ -99,6 +100,21 @@ export default function ArvOgSkiftePage() {
                 </div>
               ))}
             </div>
+          </div>
+        </section>
+
+        {/* Related article */}
+        <section className="py-14 px-8 md:px-20 bg-cream border-t border-gray-100">
+          <div className="max-w-6xl mx-auto">
+            <p className="text-xs font-bold uppercase tracking-widest text-gold mb-5">Les også</p>
+            <Link href="/artikler/generasjonsskifte-familiebedrift" className="group flex items-center justify-between bg-white rounded-2xl p-7 border border-gray-100 hover:border-gold hover:shadow-soft transition-all duration-300">
+              <div>
+                <p className="text-xs text-gray-400 mb-1">Artikkel · Mars 2026</p>
+                <h3 className="font-serif text-lg font-bold text-navy group-hover:text-gold transition-colors">Slik planlegger du et vellykket generasjonsskifte</h3>
+                <p className="text-gray-500 text-sm mt-1">Tidlig planlegging er nøkkelen til et smidig generasjonsskifte i familiebedrifter.</p>
+              </div>
+              <span className="text-gold font-semibold text-sm flex-shrink-0 ml-6 group-hover:translate-x-1 transition-transform">Les mer →</span>
+            </Link>
           </div>
         </section>
 

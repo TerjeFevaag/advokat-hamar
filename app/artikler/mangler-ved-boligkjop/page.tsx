@@ -74,6 +74,19 @@ export default function ArtikkelMangler() {
               ))}
             </div>
 
+            {/* Related services */}
+            <div className="mt-12 p-6 bg-navy rounded-2xl">
+              <p className="text-xs font-bold uppercase tracking-widest text-gold/80 mb-4">Relevante tjenester</p>
+              <div className="flex flex-col sm:flex-row gap-3">
+                <Link href="/advokat-bedrift/eiendom/mangler-ved-fast-eiendom" className="flex-1 bg-white/10 hover:bg-white/15 text-white px-5 py-4 rounded-xl text-sm font-semibold transition-colors">
+                  Mangler ved fast eiendom →
+                </Link>
+                <Link href="/advokat-privat/eiendom/husleierett" className="flex-1 bg-white/10 hover:bg-white/15 text-white px-5 py-4 rounded-xl text-sm font-semibold transition-colors">
+                  Husleierett →
+                </Link>
+              </div>
+            </div>
+
             {/* Author box */}
             <ArticleAuthorBox />
 
