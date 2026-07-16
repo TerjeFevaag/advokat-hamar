@@ -15,6 +15,16 @@ const nextConfig = {
   experimental: {
     serverComponentsExternalPackages: ['nodemailer'],
   },
+  async redirects() {
+    return [
+      {
+        source: '/:path*',
+        has: [{ type: 'host', value: 'www.advokat-hamar.no' }],
+        destination: 'https://advokat-hamar.no/:path*',
+        permanent: true,
+      },
+    ]
+  },
   async headers() {
     return [
       {
