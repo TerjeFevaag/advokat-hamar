@@ -29,7 +29,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: '/advokat-privat/familie-og-arv/arv-og-skifte',                  priority: 0.8, changeFrequency: 'monthly' },
     { url: '/advokat-privat/familie-og-arv/samlivsbrudd',                   priority: 0.8, changeFrequency: 'monthly' },
     // Privat – arbeid, skatt og erstatning
-    { url: '/advokat-privat/skatterett',                                     priority: 0.8, changeFrequency: 'monthly' },
     { url: '/advokat-privat/arbeid-skatt-og-erstatning/arbeidsrett',         priority: 0.7, changeFrequency: 'monthly' },
     { url: '/advokat-privat/arbeid-skatt-og-erstatning/skatterett',          priority: 0.7, changeFrequency: 'monthly' },
     { url: '/advokat-privat/arbeid-skatt-og-erstatning/erstatningsrett',     priority: 0.7, changeFrequency: 'monthly' },

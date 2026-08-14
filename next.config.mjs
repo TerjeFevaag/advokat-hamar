@@ -23,6 +23,11 @@ const nextConfig = {
         destination: 'https://advokat-hamar.no/:path*',
         permanent: true,
       },
+      {
+        source: '/advokat-privat/skatterett',
+        destination: '/advokat-privat/arbeid-skatt-og-erstatning/skatterett',
+        permanent: true,
+      },
     ]
   },
   async headers() {
