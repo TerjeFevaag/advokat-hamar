@@ -48,7 +48,7 @@ export default function Hero() {
       {/* Right: Image */}
       <div className="relative min-h-[450px] lg:min-h-0 overflow-hidden">
         <Image
-          src="/Hamar City.webp"
+          src="/bg3.jpg"
           alt="Advokat i Hamar – Advokatfirmaet Holthe & Co AS"
           fill
           className="object-cover"

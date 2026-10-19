@@ -7,7 +7,7 @@ export default function CityBanner() {
   return (
     <div className="relative h-[350px] overflow-hidden">
       <Image
-        src="/bg3.jpg"
+        src="/Hamar City.webp"
         alt="Hamar sentrum – lokal advokat siden 1992"
         fill
         className="object-cover"
