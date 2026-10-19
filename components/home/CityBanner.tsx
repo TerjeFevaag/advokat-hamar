@@ -16,7 +16,7 @@ export default function CityBanner() {
       <div className="absolute inset-0 bg-gradient-to-br from-navy/85 via-navy/30 to-transparent flex items-center justify-center">
         <div className="text-center px-6">
           <blockquote className="font-serif italic text-white text-[clamp(1.6rem,3vw,2.2rem)] leading-snug">
-            "Dit ein ser, <span className="text-gold">dit kjem ein</span>"
+            "Sjå deg ikkje tilbake, <span className="text-gold">du skal ikkje den vegen</span>"
           </blockquote>
         </div>
       </div>
