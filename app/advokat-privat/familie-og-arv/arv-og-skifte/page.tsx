@@ -9,6 +9,7 @@ import pageData from '@/content/privat-arv-skifte.json'
 export const metadata: Metadata = {
   title: pageData.meta.title,
   description: pageData.meta.description,
+  alternates: { canonical: 'https://advokat-hamar.no/advokat-privat/familie-og-arv/arv-og-skifte' },
 }
 
 export default function ArvOgSkiftePage() {

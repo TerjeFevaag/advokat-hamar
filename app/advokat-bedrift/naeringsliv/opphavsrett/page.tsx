@@ -8,6 +8,7 @@ import pageData from '@/content/bedrift-opphavsrett.json'
 export const metadata: Metadata = {
   title: pageData.meta.title,
   description: pageData.meta.description,
+  alternates: { canonical: 'https://advokat-hamar.no/advokat-bedrift/naeringsliv/opphavsrett' },
 }
 
 export default function OpphavsrettPage() {

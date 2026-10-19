@@ -8,6 +8,7 @@ import pageData from '@/content/om-oss.json'
 export const metadata: Metadata = {
   title: pageData.meta.title,
   description: pageData.meta.description,
+  alternates: { canonical: 'https://advokat-hamar.no/om-oss' },
 }
 
 export default function OmOssPage() {

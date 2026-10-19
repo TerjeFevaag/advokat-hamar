@@ -5,6 +5,7 @@ import Footer from '@/components/layout/Footer'
 export const metadata: Metadata = {
   title: 'Personvernerklæring | Holthe & Co AS Hamar',
   description: 'Les personvernerklæringen til Advokatfirmaet Holthe & Co AS i Hamar. Informasjon om behandling av personopplysninger.',
+  alternates: { canonical: 'https://advokat-hamar.no/personvern' },
 }
 
 const sections = [

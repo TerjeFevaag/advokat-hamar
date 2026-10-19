@@ -8,6 +8,7 @@ import pageData from '@/content/bedrift-kontrakt-entreprise.json'
 export const metadata: Metadata = {
   title: pageData.meta.title,
   description: pageData.meta.description,
+  alternates: { canonical: 'https://advokat-hamar.no/advokat-bedrift/naeringsliv/kontrakt-og-entreprise' },
 }
 
 export default function KontraktOgEntreprisePage() {

@@ -8,6 +8,7 @@ import pageData from '@/content/bedrift-varemerker.json'
 export const metadata: Metadata = {
   title: pageData.meta.title,
   description: pageData.meta.description,
+  alternates: { canonical: 'https://advokat-hamar.no/advokat-bedrift/naeringsliv/varemerker' },
 }
 
 export default function VaremerkerPage() {

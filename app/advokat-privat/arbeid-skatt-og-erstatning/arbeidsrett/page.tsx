@@ -8,6 +8,7 @@ import pageData from '@/content/privat-arbeidsrett.json'
 export const metadata: Metadata = {
   title: pageData.meta.title,
   description: pageData.meta.description,
+  alternates: { canonical: 'https://advokat-hamar.no/advokat-privat/arbeid-skatt-og-erstatning/arbeidsrett' },
 }
 
 export default function PrivatArbeidsrettPage() {

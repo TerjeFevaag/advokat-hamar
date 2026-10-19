@@ -7,6 +7,7 @@ import pageData from '@/content/rettsavgjorelser.json'
 export const metadata: Metadata = {
   title: pageData.meta.title,
   description: pageData.meta.description,
+  alternates: { canonical: 'https://advokat-hamar.no/rettsavgjorelser' },
 }
 
 export default function RettsavgjRelserPage() {

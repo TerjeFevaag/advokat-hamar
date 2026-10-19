@@ -8,6 +8,7 @@ import pageData from '@/content/privat-plan-bygningsrett.json'
 export const metadata: Metadata = {
   title: pageData.meta.title,
   description: pageData.meta.description,
+  alternates: { canonical: 'https://advokat-hamar.no/advokat-privat/eiendom/plan-og-bygningsrett' },
 }
 
 export default function PrivatPlanOgBygningsrettPage() {

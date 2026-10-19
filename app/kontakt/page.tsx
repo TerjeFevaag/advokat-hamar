@@ -7,6 +7,7 @@ import siteData from '@/content/site.json'
 export const metadata: Metadata = {
   title: 'Kontakt Advokat Hamar | Holthe & Co AS',
   description: 'Ta kontakt med advokat i Hamar – første samtale er gratis. Ring, send e-post eller fyll ut skjemaet. Holthe & Co AS hjelper deg raskt.',
+  alternates: { canonical: 'https://advokat-hamar.no/kontakt' },
 }
 
 const infoCards = [

@@ -8,6 +8,7 @@ import pageData from '@/content/bedrift-husleierett.json'
 export const metadata: Metadata = {
   title: pageData.meta.title,
   description: pageData.meta.description,
+  alternates: { canonical: 'https://advokat-hamar.no/advokat-bedrift/eiendom/husleierett' },
 }
 
 export default function BedriftHusleierettPage() {

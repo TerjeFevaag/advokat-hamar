@@ -9,6 +9,7 @@ import pageData from '@/content/bedrift-skatt-naeringsdrivende.json'
 export const metadata: Metadata = {
   title: pageData.meta.title,
   description: pageData.meta.description,
+  alternates: { canonical: 'https://advokat-hamar.no/advokat-bedrift/naeringsliv/skatt-naeringsdrivende' },
 }
 
 export default function SkattNaeringsdrivendePage() {

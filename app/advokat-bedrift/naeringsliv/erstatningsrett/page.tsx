@@ -8,6 +8,7 @@ import pageData from '@/content/bedrift-erstatningsrett.json'
 export const metadata: Metadata = {
   title: pageData.meta.title,
   description: pageData.meta.description,
+  alternates: { canonical: 'https://advokat-hamar.no/advokat-bedrift/naeringsliv/erstatningsrett' },
 }
 
 export default function BedriftErstatningsrettPage() {

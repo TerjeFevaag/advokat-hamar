@@ -9,6 +9,7 @@ import pageData from '@/content/bedrift-selskapsrett.json'
 export const metadata: Metadata = {
   title: pageData.meta.title,
   description: pageData.meta.description,
+  alternates: { canonical: 'https://advokat-hamar.no/advokat-bedrift/naeringsliv/selskapsrett' },
 }
 
 export default function SelskapsrettPage() {
