@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "title": "Advokat Erstatningsrett Privat Hamar | Holthe & Co AS",
     "description": "Advokat i erstatningsrett i Hamar. Personskade, bilskade og forsikringsoppgjør. Holthe & Co AS hjelper deg å få riktig erstatning."
@@ -10,10 +10,22 @@
     "body": "Er du blitt påført en skade eller et tap? Som advokat i erstatningsrett i Hamar har Holthe lang erfaring med personskade, bilskade og forsikringsoppgjør, og hjelper deg å fremme ditt krav."
   },
   "stats": [
-    { "num": "30+", "label": "Års erfaring" },
-    { "num": "Medlem", "label": "Advokatforeningen" },
-    { "num": "1992", "label": "Etablert" },
-    { "num": "100%", "label": "Taushetsplikt" }
+    {
+      "num": "30+",
+      "label": "Års erfaring"
+    },
+    {
+      "num": "Medlem",
+      "label": "Advokatforeningen"
+    },
+    {
+      "num": "1992",
+      "label": "Etablert"
+    },
+    {
+      "num": "100%",
+      "label": "Taushetsplikt"
+    }
   ],
   "intro": {
     "tag": "Vår bistand",
@@ -65,5 +77,10 @@
   "cta": {
     "title": "Har du et erstatningskrav?",
     "body": "Ta kontakt for en uforpliktende vurdering av saken din. Vi vurderer om du har krav på erstatning og hjelper deg å fremme det på riktig måte."
+  },
+  "crossLink": {
+    "prefix": "Gjelder kravet din bedrift?",
+    "href": "/advokat-bedrift/naeringsliv/erstatningsrett",
+    "linkText": "Les om erstatningsrett for næringsliv →"
   }
 }

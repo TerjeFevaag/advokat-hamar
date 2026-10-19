@@ -73,6 +73,10 @@ export default function BedriftArbeidsrettPage() {
               {pageData.intro.paragraphs.map((p, i) => (
                 <p key={i} className="text-gray-500 text-lg leading-relaxed">{p}</p>
               ))}
+              <p className="text-gray-500 text-lg leading-relaxed">
+                {pageData.crossLink.prefix}{' '}
+                <a href={pageData.crossLink.href} className="text-gold hover:text-gold-dark underline underline-offset-2 transition-colors">{pageData.crossLink.linkText}</a>
+              </p>
             </div>
           </div>
         </section>

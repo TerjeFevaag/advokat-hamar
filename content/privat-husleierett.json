@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "title": "Advokat Husleierett Privat Hamar | Holthe & Co AS",
     "description": "Advokat i husleierett for privatpersoner i Hamar. Depositum, oppsigelse, utkastelse og leietvister. Kontakt Holthe & Co AS i dag."
@@ -10,10 +10,22 @@
     "body": "Som advokat i husleierett i Hamar bistår vi leietakere og utleiere med rådgivning, forhandlinger og prosedyre — uansett hvilken side du er på."
   },
   "stats": [
-    { "num": "30+", "label": "Års erfaring" },
-    { "num": "Medlem", "label": "Advokatforeningen" },
-    { "num": "1992", "label": "Etablert" },
-    { "num": "100%", "label": "Taushetsplikt" }
+    {
+      "num": "30+",
+      "label": "Års erfaring"
+    },
+    {
+      "num": "Medlem",
+      "label": "Advokatforeningen"
+    },
+    {
+      "num": "1992",
+      "label": "Etablert"
+    },
+    {
+      "num": "100%",
+      "label": "Taushetsplikt"
+    }
   ],
   "intro": {
     "tag": "Husleierett – rådgivning, forhandlinger og prosedyre",
@@ -77,5 +89,10 @@
   "cta": {
     "title": "Trenger du hjelp i en husleiesak?",
     "body": "Vi bistår både leietakere og utleiere med rådgivning, forhandlinger og prosedyre. Ta kontakt for en uforpliktende samtale."
+  },
+  "crossLink": {
+    "prefix": "Gjelder dette næringslokaler?",
+    "href": "/advokat-bedrift/eiendom/husleierett",
+    "linkText": "Les om husleierett for næringsliv →"
   }
 }

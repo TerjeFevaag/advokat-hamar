@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "title": "Advokat Arbeidsrett Privat Hamar | Holthe & Co AS",
     "description": "Advokat i arbeidsrett for privatpersoner i Hamar. Urettmessig oppsigelse, avskjed og arbeidstvister. Holthe & Co AS bistår deg raskt."
@@ -10,10 +10,22 @@
     "body": "Som advokat i arbeidsrett i Hamar bistår vi både arbeidstakere og virksomheter med juridisk rådgivning i alle faser av arbeidsforholdet — fra ansettelse til opphør."
   },
   "stats": [
-    { "num": "30+", "label": "Års erfaring" },
-    { "num": "Medlem", "label": "Advokatforeningen" },
-    { "num": "1992", "label": "Etablert" },
-    { "num": "100%", "label": "Taushetsplikt" }
+    {
+      "num": "30+",
+      "label": "Års erfaring"
+    },
+    {
+      "num": "Medlem",
+      "label": "Advokatforeningen"
+    },
+    {
+      "num": "1992",
+      "label": "Etablert"
+    },
+    {
+      "num": "100%",
+      "label": "Taushetsplikt"
+    }
   ],
   "intro": {
     "tag": "Vår bistand",
@@ -65,5 +77,10 @@
   "cta": {
     "title": "Trenger du arbeidsrettslig bistand?",
     "body": "Ta kontakt for en uforpliktende samtale om din arbeidsrettslige situasjon. Vi bistår både arbeidstakere og arbeidsgivere."
+  },
+  "crossLink": {
+    "prefix": "Driver du virksomhet med arbeidsrettslige spørsmål?",
+    "href": "/advokat-bedrift/naeringsliv/arbeidsrett",
+    "linkText": "Les om arbeidsrett for bedrifter →"
   }
 }

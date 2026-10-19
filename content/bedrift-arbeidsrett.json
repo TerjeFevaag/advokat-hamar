@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "title": "Advokat Arbeidsrett Bedrift Hamar | Holthe & Co AS",
     "description": "Advokat i arbeidsrett for bedrifter i Hamar. Arbeidsavtaler, oppsigelse, avskjed og arbeidstvister. Holthe & Co AS bistår arbeidsgivere."
@@ -10,10 +10,22 @@
     "body": "Som advokat i arbeidsrett for bedrifter i Hamar bistår vi virksomheter med rekruttering, ansettelsesavtaler, virksomhetsoverdragelser og håndtering av opphør av arbeidsforhold."
   },
   "stats": [
-    { "num": "30+", "label": "Års erfaring" },
-    { "num": "Medlem", "label": "Advokatforeningen" },
-    { "num": "1992", "label": "Etablert" },
-    { "num": "100%", "label": "Taushetsplikt" }
+    {
+      "num": "30+",
+      "label": "Års erfaring"
+    },
+    {
+      "num": "Medlem",
+      "label": "Advokatforeningen"
+    },
+    {
+      "num": "1992",
+      "label": "Etablert"
+    },
+    {
+      "num": "100%",
+      "label": "Taushetsplikt"
+    }
   ],
   "intro": {
     "tag": "Arbeidsgiverjuridisk bistand",
@@ -25,18 +37,50 @@
     ]
   },
   "topics": [
-    { "name": "Ansettelsesavtale", "body": "Utforming av arbeidsavtaler som ivaretar virksomhetens interesser og oppfyller lovpålagte minstekrav." },
-    { "name": "Arbeidsmiljøloven", "body": "Rådgivning om arbeidsgivers plikter etter arbeidsmiljøloven og konsekvensene av brudd på lovens bestemmelser." },
-    { "name": "Ansettelse", "body": "Juridisk bistand i rekrutteringsprosessen, inkludert lovlig utvelgelse og ansettelse av nye medarbeidere." },
-    { "name": "Oppsigelse", "body": "Rådgivning om saklig grunnlag for oppsigelse og korrekt gjennomføring av oppsigelsesprosessen." },
-    { "name": "Avskjed", "body": "Bistand ved avskjed av ansatte og håndtering av tvister som oppstår i etterkant." },
-    { "name": "Styringsrett", "body": "Rådgivning om arbeidsgivers styringsrett og grensene for hva arbeidsgiver lovlig kan bestemme." },
-    { "name": "Permisjon", "body": "Avklaring av ansattes rett til ulike former for permisjon og arbeidsgivers plikter i den forbindelse." },
-    { "name": "Permittering", "body": "Bistand ved gjennomføring av permitteringer i henhold til gjeldende regler og frister." },
-    { "name": "Virksomhetsoverdragelse", "body": "Juridisk bistand ved overdragelse av virksomheter og ivaretakelse av ansattes rettigheter i slike prosesser." }
+    {
+      "name": "Ansettelsesavtale",
+      "body": "Utforming av arbeidsavtaler som ivaretar virksomhetens interesser og oppfyller lovpålagte minstekrav."
+    },
+    {
+      "name": "Arbeidsmiljøloven",
+      "body": "Rådgivning om arbeidsgivers plikter etter arbeidsmiljøloven og konsekvensene av brudd på lovens bestemmelser."
+    },
+    {
+      "name": "Ansettelse",
+      "body": "Juridisk bistand i rekrutteringsprosessen, inkludert lovlig utvelgelse og ansettelse av nye medarbeidere."
+    },
+    {
+      "name": "Oppsigelse",
+      "body": "Rådgivning om saklig grunnlag for oppsigelse og korrekt gjennomføring av oppsigelsesprosessen."
+    },
+    {
+      "name": "Avskjed",
+      "body": "Bistand ved avskjed av ansatte og håndtering av tvister som oppstår i etterkant."
+    },
+    {
+      "name": "Styringsrett",
+      "body": "Rådgivning om arbeidsgivers styringsrett og grensene for hva arbeidsgiver lovlig kan bestemme."
+    },
+    {
+      "name": "Permisjon",
+      "body": "Avklaring av ansattes rett til ulike former for permisjon og arbeidsgivers plikter i den forbindelse."
+    },
+    {
+      "name": "Permittering",
+      "body": "Bistand ved gjennomføring av permitteringer i henhold til gjeldende regler og frister."
+    },
+    {
+      "name": "Virksomhetsoverdragelse",
+      "body": "Juridisk bistand ved overdragelse av virksomheter og ivaretakelse av ansattes rettigheter i slike prosesser."
+    }
   ],
   "cta": {
     "title": "Trenger du arbeidsrettslig bistand?",
     "body": "Vi hjelper din virksomhet med alle sider av arbeidsretten. Kontakt oss for en uforpliktende samtale."
+  },
+  "crossLink": {
+    "prefix": "Gjelder saken deg som privatperson?",
+    "href": "/advokat-privat/arbeid-skatt-og-erstatning/arbeidsrett",
+    "linkText": "Les om arbeidsrett for privatpersoner →"
   }
 }

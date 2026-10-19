@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "title": "Advokat Plan- og Bygningsrett Privat Hamar | Holthe & Co AS",
     "description": "Advokat i plan- og bygningsrett for privatpersoner i Hamar. Klage på byggetillatelse og reguleringsvedtak. Holthe & Co AS hjelper deg."
@@ -10,10 +10,22 @@
     "body": "Ønsker du å bygge ut boligen eller planlegger du et nybygg? Som advokat i plan- og bygningsrett i Hamar veileder vi deg gjennom hele prosessen — fra planstadiet til ferdigstillelse."
   },
   "stats": [
-    { "num": "30+", "label": "Års erfaring" },
-    { "num": "Medlem", "label": "Advokatforeningen" },
-    { "num": "1992", "label": "Etablert" },
-    { "num": "100%", "label": "Taushetsplikt" }
+    {
+      "num": "30+",
+      "label": "Års erfaring"
+    },
+    {
+      "num": "Medlem",
+      "label": "Advokatforeningen"
+    },
+    {
+      "num": "1992",
+      "label": "Etablert"
+    },
+    {
+      "num": "100%",
+      "label": "Taushetsplikt"
+    }
   ],
   "intro": {
     "tag": "Lang erfaring med plan- og bygningsrett",
@@ -73,5 +85,10 @@
   "cta": {
     "title": "Trenger du hjelp i en plan- eller byggesak?",
     "body": "Vi veileder deg gjennom hele byggeprosessen og bistår ved tvister med kommunen. Ta kontakt for en uforpliktende samtale."
+  },
+  "crossLink": {
+    "prefix": "Gjelder dette næringseiendommen din?",
+    "href": "/advokat-bedrift/eiendom/plan-og-bygningsrett",
+    "linkText": "Les om plan- og bygningsrett for næringsliv →"
   }
 }

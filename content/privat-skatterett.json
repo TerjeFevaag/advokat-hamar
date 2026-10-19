@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "title": "Advokat Skatterett Privat Hamar | Holthe & Co AS",
     "description": "Advokat i skatterett for privatpersoner i Hamar. Skatteplanlegging, arveavgift og klage på skattevedtak. Kontakt Holthe & Co AS."
@@ -10,10 +10,22 @@
     "body": "Som advokat i skatterett i Hamar bistår vi privatpersoner med skatteplanlegging, klage på skattevedtak og dialog med Skatteetaten — med spesialfag i skatterett og bakgrunn fra etaten."
   },
   "stats": [
-    { "num": "30+", "label": "Års erfaring" },
-    { "num": "Medlem", "label": "Advokatforeningen" },
-    { "num": "1992", "label": "Etablert" },
-    { "num": "100%", "label": "Taushetsplikt" }
+    {
+      "num": "30+",
+      "label": "Års erfaring"
+    },
+    {
+      "num": "Medlem",
+      "label": "Advokatforeningen"
+    },
+    {
+      "num": "1992",
+      "label": "Etablert"
+    },
+    {
+      "num": "100%",
+      "label": "Taushetsplikt"
+    }
   ],
   "intro": {
     "tag": "Vår bistand",
@@ -57,5 +69,10 @@
   "cta": {
     "title": "Trenger du hjelp med skattesaker?",
     "body": "Ta kontakt for en uforpliktende vurdering av din skattesituasjon. Vi har spesialkompetanse i skatterett og bakgrunn fra Skatteetaten."
+  },
+  "crossLink": {
+    "prefix": "Er du næringsdrivende med skatterettslige spørsmål?",
+    "href": "/advokat-bedrift/naeringsliv/skatt-naeringsdrivende",
+    "linkText": "Les om skatterett for næringsdrivende →"
   }
 }

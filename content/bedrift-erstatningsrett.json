@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "title": "Advokat Erstatningsrett Bedrift Hamar | Holthe & Co AS",
     "description": "Advokat i erstatningsrett for bedrifter i Hamar. Erstatningskrav, forsikringsoppgjør og prosedyre. Kontakt Holthe & Co AS for rådgivning."
@@ -10,10 +10,22 @@
     "body": "Har din bedrift vært utsatt for en skade som burde vært erstattet? Som advokat i erstatningsrett for bedrifter i Hamar har vi lang erfaring med å fremme og bestride erstatningskrav."
   },
   "stats": [
-    { "num": "30+", "label": "Års erfaring" },
-    { "num": "Medlem", "label": "Advokatforeningen" },
-    { "num": "1992", "label": "Etablert" },
-    { "num": "100%", "label": "Taushetsplikt" }
+    {
+      "num": "30+",
+      "label": "Års erfaring"
+    },
+    {
+      "num": "Medlem",
+      "label": "Advokatforeningen"
+    },
+    {
+      "num": "1992",
+      "label": "Etablert"
+    },
+    {
+      "num": "100%",
+      "label": "Taushetsplikt"
+    }
   ],
   "intro": {
     "tag": "Erstatning for bedrifter",
@@ -25,19 +37,54 @@
     ]
   },
   "topics": [
-    { "name": "Ansvarsgrunnlag", "body": "Vurdering av om det foreligger et tilstrekkelig ansvarsgrunnlag – uaktsomhet, objektivt ansvar eller kontraktsansvar." },
-    { "name": "Økonomisk tap", "body": "Bistand ved beregning og dokumentasjon av det økonomiske tapet som kreves erstattet." },
-    { "name": "Årsakssammenheng", "body": "Analyse av årsakssammenhengen mellom den skadevoldende handlingen og det tap bedriften har lidt." },
-    { "name": "Materiell skade", "body": "Erstatningskrav for fysisk skade på eiendom, utstyr og andre materielle verdier." },
-    { "name": "Personskade", "body": "Bistand ved erstatningskrav knyttet til personskader på ansatte eller andre med tilknytning til bedriften." },
-    { "name": "Immateriell skade", "body": "Rådgivning om erstatning for ikke-økonomiske tap som omdømmetap og andre immaterielle skader." },
-    { "name": "Prekontraktuelt ansvar", "body": "Bistand ved erstatningskrav som oppstår som følge av brudd på lojalitetsplikten i kontraktsforhandlinger." },
-    { "name": "Forsikringsoppgjør", "body": "Bistand ved tvist om forsikringsoppgjør og forhandlinger med forsikringsselskaper om erstatningsutbetaling." },
-    { "name": "Foreldelsesregler", "body": "Rådgivning om foreldelsesfrister for erstatningskrav og tiltak for å avbryte foreldelse i tide." },
-    { "name": "Passivitetsregler", "body": "Avklaring av konsekvensene av passivitet fra skadelidtes side og retten til å fremme krav på et senere tidspunkt." }
+    {
+      "name": "Ansvarsgrunnlag",
+      "body": "Vurdering av om det foreligger et tilstrekkelig ansvarsgrunnlag – uaktsomhet, objektivt ansvar eller kontraktsansvar."
+    },
+    {
+      "name": "Økonomisk tap",
+      "body": "Bistand ved beregning og dokumentasjon av det økonomiske tapet som kreves erstattet."
+    },
+    {
+      "name": "Årsakssammenheng",
+      "body": "Analyse av årsakssammenhengen mellom den skadevoldende handlingen og det tap bedriften har lidt."
+    },
+    {
+      "name": "Materiell skade",
+      "body": "Erstatningskrav for fysisk skade på eiendom, utstyr og andre materielle verdier."
+    },
+    {
+      "name": "Personskade",
+      "body": "Bistand ved erstatningskrav knyttet til personskader på ansatte eller andre med tilknytning til bedriften."
+    },
+    {
+      "name": "Immateriell skade",
+      "body": "Rådgivning om erstatning for ikke-økonomiske tap som omdømmetap og andre immaterielle skader."
+    },
+    {
+      "name": "Prekontraktuelt ansvar",
+      "body": "Bistand ved erstatningskrav som oppstår som følge av brudd på lojalitetsplikten i kontraktsforhandlinger."
+    },
+    {
+      "name": "Forsikringsoppgjør",
+      "body": "Bistand ved tvist om forsikringsoppgjør og forhandlinger med forsikringsselskaper om erstatningsutbetaling."
+    },
+    {
+      "name": "Foreldelsesregler",
+      "body": "Rådgivning om foreldelsesfrister for erstatningskrav og tiltak for å avbryte foreldelse i tide."
+    },
+    {
+      "name": "Passivitetsregler",
+      "body": "Avklaring av konsekvensene av passivitet fra skadelidtes side og retten til å fremme krav på et senere tidspunkt."
+    }
   ],
   "cta": {
     "title": "Trenger du bistand med et erstatningskrav?",
     "body": "Vi hjelper deg å vurdere og fremme erstatningskrav. Kontakt oss for en uforpliktende samtale om din sak."
+  },
+  "crossLink": {
+    "prefix": "Gjelder erstatningskravet deg som privatperson?",
+    "href": "/advokat-privat/arbeid-skatt-og-erstatning/erstatningsrett",
+    "linkText": "Les om erstatningsrett for privatpersoner →"
   }
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "title": "Advokat Husleierett Næring Hamar | Holthe & Co AS",
     "description": "Advokat i husleierett for næringsleie i Hamar. Bistand til utleiere og leietakere med kontrakter, forhandlinger og tvister."
@@ -10,10 +10,22 @@
     "body": "Som advokat i husleierett for næringsliv i Hamar bistår vi utleiere og leietakere med kontrakter, forhandlinger og tvister gjennom hele næringsleieforholdet."
   },
   "stats": [
-    { "num": "30+", "label": "Års erfaring" },
-    { "num": "Medlem", "label": "Advokatforeningen" },
-    { "num": "1992", "label": "Etablert" },
-    { "num": "100%", "label": "Taushetsplikt" }
+    {
+      "num": "30+",
+      "label": "Års erfaring"
+    },
+    {
+      "num": "Medlem",
+      "label": "Advokatforeningen"
+    },
+    {
+      "num": "1992",
+      "label": "Etablert"
+    },
+    {
+      "num": "100%",
+      "label": "Taushetsplikt"
+    }
   ],
   "intro": {
     "tag": "Vår bistand",
@@ -77,5 +89,10 @@
   "cta": {
     "title": "Har du spørsmål om leieforholdet ditt?",
     "body": "Ta kontakt for en uforpliktende gjennomgang av din leiesituasjon. Vi bistår næringsdrivende som leietaker og utleier med alt fra kontraktutforming til prosedyre."
+  },
+  "crossLink": {
+    "prefix": "Leier du ut som privatperson?",
+    "href": "/advokat-privat/eiendom/husleierett",
+    "linkText": "Les om husleierett for privatpersoner →"
   }
 }

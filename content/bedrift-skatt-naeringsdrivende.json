@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "title": "Advokat Skatt Næringsdrivende Hamar | Holthe & Co AS",
     "description": "Advokat i skatterett for næringsdrivende i Hamar. Bokettersyn, bedriftsskatt og skatteklager. Holthe & Co AS hjelper din bedrift."
@@ -10,10 +10,22 @@
     "body": "Har du hatt bokettersyn, eller venter du bokettersyn? Som advokat i skatterett for næringsdrivende i Hamar bistår vi med spesialfag i skatterett og bakgrunn fra Skatteetaten."
   },
   "stats": [
-    { "num": "30+", "label": "Års erfaring" },
-    { "num": "Medlem", "label": "Advokatforeningen" },
-    { "num": "1992", "label": "Etablert" },
-    { "num": "100%", "label": "Taushetsplikt" }
+    {
+      "num": "30+",
+      "label": "Års erfaring"
+    },
+    {
+      "num": "Medlem",
+      "label": "Advokatforeningen"
+    },
+    {
+      "num": "1992",
+      "label": "Etablert"
+    },
+    {
+      "num": "100%",
+      "label": "Taushetsplikt"
+    }
   ],
   "intro": {
     "tag": "Skatterett for bedrifter",
@@ -25,18 +37,50 @@
     ]
   },
   "topics": [
-    { "name": "Bedriftsskatt", "body": "Rådgivning om beskatning av selskaper og næringsdrivende, inkludert inntektsbeskatning og fradragsrett." },
-    { "name": "Arbeidsgiveravgift", "body": "Bistand ved beregning og innrapportering av arbeidsgiveravgift, og håndtering av feil og etterberegninger." },
-    { "name": "Merverdiavgift", "body": "Rådgivning om mva-regler for næringsdrivende, inkludert registrering, fradragsrett og avgiftsoppgjør." },
-    { "name": "Bokettersyn", "body": "Bistand under bokettersyn og i etterkant av kontrollen, inkludert vurdering av skattemyndighetenes konklusjoner." },
-    { "name": "Skatteklage", "body": "Utforming og oppfølging av klager på skattevedtak overfor Skatteetaten og Skatteklagenemnda." },
-    { "name": "Ligningsloven", "body": "Rådgivning om skatteforvaltningslovens regler for saksbehandling, klage og domstolsprøving av skattevedtak." },
-    { "name": "Generasjonsskifte", "body": "Skattemessig planlegging ved overføring av virksomhet mellom generasjoner for å minimere skattebyrden." },
-    { "name": "Skatteplanlegging", "body": "Lovlig og strukturert skatteplanlegging for å optimalisere bedriftens skattesituasjon innenfor gjeldende regelverk." },
-    { "name": "Internasjonal skatterett", "body": "Rådgivning om beskatning ved grenseoverskridende transaksjoner, transfer pricing og skatteavtaler." }
+    {
+      "name": "Bedriftsskatt",
+      "body": "Rådgivning om beskatning av selskaper og næringsdrivende, inkludert inntektsbeskatning og fradragsrett."
+    },
+    {
+      "name": "Arbeidsgiveravgift",
+      "body": "Bistand ved beregning og innrapportering av arbeidsgiveravgift, og håndtering av feil og etterberegninger."
+    },
+    {
+      "name": "Merverdiavgift",
+      "body": "Rådgivning om mva-regler for næringsdrivende, inkludert registrering, fradragsrett og avgiftsoppgjør."
+    },
+    {
+      "name": "Bokettersyn",
+      "body": "Bistand under bokettersyn og i etterkant av kontrollen, inkludert vurdering av skattemyndighetenes konklusjoner."
+    },
+    {
+      "name": "Skatteklage",
+      "body": "Utforming og oppfølging av klager på skattevedtak overfor Skatteetaten og Skatteklagenemnda."
+    },
+    {
+      "name": "Ligningsloven",
+      "body": "Rådgivning om skatteforvaltningslovens regler for saksbehandling, klage og domstolsprøving av skattevedtak."
+    },
+    {
+      "name": "Generasjonsskifte",
+      "body": "Skattemessig planlegging ved overføring av virksomhet mellom generasjoner for å minimere skattebyrden."
+    },
+    {
+      "name": "Skatteplanlegging",
+      "body": "Lovlig og strukturert skatteplanlegging for å optimalisere bedriftens skattesituasjon innenfor gjeldende regelverk."
+    },
+    {
+      "name": "Internasjonal skatterett",
+      "body": "Rådgivning om beskatning ved grenseoverskridende transaksjoner, transfer pricing og skatteavtaler."
+    }
   ],
   "cta": {
     "title": "Trenger du bistand med næringsskatt?",
     "body": "Vi hjelper din bedrift med alle skatterettslige spørsmål – fra bokettersyn til skatteplanlegging. Kontakt oss i dag."
+  },
+  "crossLink": {
+    "prefix": "Er du privatperson med skatterettslige spørsmål?",
+    "href": "/advokat-privat/arbeid-skatt-og-erstatning/skatterett",
+    "linkText": "Les om skatterett for privatpersoner →"
   }
 }
